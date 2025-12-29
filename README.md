@@ -113,6 +113,21 @@ Modern browsers with ES2020+ support:
 - [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 - [Vite Guide](https://vitejs.dev/guide/)
 
+## 🚀 Deployment
+
+This project is configured to automatically deploy to GitHub Pages using GitHub Actions.
+
+### Automatic Deployment
+- Push to the `main` branch triggers automatic build and deployment
+- The site will be available at `https://mirafedas.github.io/yoga/`
+
+### Manual Build
+```bash
+npm run build
+```
+
+The built files will be in the `dist/` directory.
+
 ## 📄 License
 
 ISC
