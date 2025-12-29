@@ -1,8 +1,29 @@
-# Lit JavaScript Project
+# 🧘 Yoga Asanas - Interactive Reference Guide
 
-A modern web components project built with [Lit](https://lit.dev/) and JavaScript.
+A comprehensive web application showcasing yoga asanas (poses) with detailed information in Polish. Built with [Lit](https://lit.dev/) web components and modern JavaScript.
 
-## Getting Started
+## ✨ Features
+
+- 📚 **Extensive Database**: Over 80 yoga asanas organized by category
+- 🖼️ **Visual Reference**: High-quality images for each pose
+- 🇵🇱 **Polish Language**: Sanskrit names with Polish translations
+- ℹ️ **Detailed Information**: Benefits and contraindications for each asana
+- 📱 **Responsive Design**: Adaptive grid layout for all screen sizes
+- ⚡ **Fast Performance**: Built with Vite for optimal loading times
+
+## 🎯 Asana Categories
+
+- **Pozycje stojące** (Standing poses)
+- **Skłony do przodu** (Forward bends)
+- **Wygięcia w tył** (Backbends)
+- **Pozycje relaksacyjne** (Relaxation poses)
+- **Skręty** (Twists)
+- **Pozycje medytacyjne** (Meditation poses)
+- **Pozycje dynamiczne** (Dynamic poses)
+- **Pozycje równowagi** (Balance poses)
+- **Pozycje odwrócone** (Inverted poses)
+
+## 🚀 Getting Started
 
 ### Install Dependencies
 
@@ -32,65 +53,67 @@ npm run build
 npm run preview
 ```
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 yoga/
+├── public/
+│   ├── img/                       # Asana images (80+ poses)
+│   └── favicon.svg                # Site icon
 ├── src/
 │   ├── components/
-│   │   ├── my-element.js          # Counter component example
-│   │   └── simple-greeting.js     # Greeting component example
-│   └── main.js                    # Main entry point
+│   │   ├── cards.js               # Main component with asanas grid
+│   │   └── card.js                # Individual asana card component
+│   └── main.js                    # Application entry point
 ├── index.html                     # HTML entry point
 ├── package.json                   # Dependencies and scripts
 ├── vite.config.js                 # Vite configuration
 └── README.md                      # This file
 ```
 
-## Creating New Components
+## 🔧 Technology Stack
 
-To create a new Lit component:
+- **[Lit 3.x](https://lit.dev/)** - Lightweight web components library
+- **[Vite](https://vitejs.dev/)** - Fast build tool and dev server
+- **ES Modules** - Modern JavaScript module system
+- **CSS Grid** - Responsive layout system
 
-1. Create a new file in `src/components/`
-2. Import Lit and define your component:
+## 📝 Asana Data Structure
 
-```javascript
-import { LitElement, html, css } from 'lit';
+Each asana contains:
 
-export class MyComponent extends LitElement {
-  static properties = {
-    // Define reactive properties here
-  };
+- `name` - Sanskrit name (e.g., "Tadasana")
+- `polishName` - Polish translation (e.g., "Pozycja góry")
+- `przeciwskazania` - Contraindications and precautions
+- `korzysci` - Benefits and therapeutic effects
+- `image` - Path to pose illustration
 
-  static styles = css`
-    /* Component styles here */
-  `;
+## 🎨 Component Architecture
 
-  render() {
-    return html`
-      <!-- Component template here -->
-    `;
-  }
-}
+### `yoga-cards`
+Main component that renders the responsive grid of all asanas. Uses Lit's `repeat` directive for efficient rendering.
 
-customElements.define('my-component', MyComponent);
-```
+### `yoga-card`
+Individual card component displaying:
+- Asana image
+- Sanskrit and Polish names
+- Benefits
+- Contraindications
 
-3. Import the component in `src/main.js`
-4. Use it in your HTML: `<my-component></my-component>`
+## 🌐 Browser Support
 
-## Learn More
+Modern browsers with ES2020+ support:
+- Chrome/Edge 80+
+- Firefox 75+
+- Safari 13.1+
+
+## 📚 Learn More
 
 - [Lit Documentation](https://lit.dev/docs/)
-- [Lit Playground](https://lit.dev/playground/)
 - [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+- [Vite Guide](https://vitejs.dev/guide/)
 
-## Features Included
+## 📄 License
 
-- ✅ Lit 3.x for building web components
-- ✅ Vite for fast development and optimized builds
-- ✅ ES Modules support
-- ✅ Example components with reactive properties
-- ✅ Scoped styling with CSS
-- ✅ Hot module replacement in development
+ISC
 
