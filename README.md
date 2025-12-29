@@ -58,7 +58,7 @@ npm run preview
 ```
 yoga/
 ├── public/
-│   ├── img/                       # Asana images (80+ poses)
+│   ├── img/                       # Asana images
 │   └── favicon.svg                # Site icon
 ├── src/
 │   ├── components/
