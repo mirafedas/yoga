@@ -20,6 +20,7 @@ export class Card extends LitElement {
     button {
       width: 100%;
       height: 100%;
+      min-height: 350px;
       background: white;
       border: 1px solid black;
       border-radius: 8px;
@@ -52,7 +53,12 @@ export class Card extends LitElement {
 
   render() {
     return this.showImage ? 
-    html`<img @click=${() => this.showImage = !this.showImage} src="${this.asana.image}" alt="${this.asana.name}">` 
+    html`
+    <button @click=${() => this.showImage = !this.showImage}>
+        <h2>${this.asana.name}</h2>
+        <p>${this.asana.polishName}</p>
+        <img src="${this.asana.image}" alt="${this.asana.name}">
+      </button>` 
     : html`
       <button @click=${() => this.showImage = !this.showImage}>
         <h2>${this.asana.name}</h2>
