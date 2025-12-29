@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig(({ command }) => ({
-  base: '/',
+  base: '/yoga/',
   server: {
     port: 3000,
     headers: {
