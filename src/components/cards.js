@@ -9,7 +9,7 @@ export class Cards extends LitElement {
 
   static styles = css`
     :host {
-      display: block;
+      width: 100%;
       padding: 20px;
     }
 
@@ -17,6 +17,18 @@ export class Cards extends LitElement {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
       gap: 20px;
+    }
+
+    @media (min-width: 1200px) {
+      .asanas {
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      }
+    }
+
+    @media (min-width: 1600px) {
+      .asanas {
+        grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      }
     }
   `;
 
@@ -231,43 +243,8 @@ export class Cards extends LitElement {
         korzysci: 'regeneruje układ nerwowy, poprawia krążenie żylne, redukuje zmęczenie nóg, działa silnie relaksująco',
         image: '/img/Vipareeta Karani Asana.png'
       },
-      {
-        name: 'Shavasana',
-        polishName: 'Pozycja trupa / głębokiego relaksu',
-        przeciwskazania: 'brak szczególnych przeciwwskazań, może być niewygodna dla osób z problemami z dolnym odcinkiem kręgosłupa (można podłożyć poduszkę pod kolana)',
-        korzysci: 'głęboki relaks fizyczny i psychiczny, regeneracja organizmu, redukcja stresu i napięcia, normalizacja ciśnienia krwi, poprawa jakości snu, integracja efektów praktyki jogi',
-        image: '/img/Shavasana.png'
-      },
 
       /* POZYCJE RELAKSACYJNE */
-      {
-        name: 'Advasana',
-        polishName: 'Pozycja odwróconego trupa',
-        przeciwskazania: 'urazy kręgosłupa, problemy z oddychaniem, wysokie ciśnienie krwi, choroby serca, wrzody żołądka, przepuklina',
-        korzysci: 'głęboki relaks, łagodzi astmę i inne dolegliwości płuc, rozluźnia plecy i ramiona, uspokaja umysł',
-        image: '/img/Advasana.png'
-      },
-      {
-        name: 'Jyestikasana',
-        polishName: 'Pozycja najstarszego / wyższości',
-        przeciwskazania: 'problemy z kolanami, biodrem, kręgosłupem',
-        korzysci: 'łagodzi ból pleców, rozluźnia mięśnie nóg i miednicy, uspokaja układ nerwowy, pomaga w medytacji',
-        image: '/img/Jyestikasana.png'
-      },
-      {
-        name: 'Makarasana',
-        polishName: 'Pozycja krokodyla',
-        przeciwskazania: 'ciąża, przepuklina brzuszna, poważne problemy z kręgosłupem',
-        korzysci: 'rozluźnia obszar krzyżowo-lędźwiowy, łagodzi rwę kulszową, poprawia oddychanie, redukuje napięcie w szyi i ramionach, korzystna przy astmie',
-        image: '/img/Makarasana.png'
-      },
-      {
-        name: 'Matsya Kridasana',
-        polishName: 'Pozycja bawiącej się ryby',
-        przeciwskazania: 'wrzody żołądka, przepuklina, nadciśnienie, choroby serca, zaburzenia tarczycy, zaawansowana ciąża',
-        korzysci: 'łagodzi napięcie nerwowe, poprawia trawienie, masuje narządy jamy brzusznej, rozluźnia biodra i plecy, korzystna w ciąży (z modyfikacjami)',
-        image: '/img/Matsya Kridasana.png'
-      },
       {
         name: 'Hasta Pada Angushthasana',
         polishName: 'Leżąca pozycja ręki do dużego palca',
