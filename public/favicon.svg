@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff5722;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="48" fill="url(#grad)"/>
+  
+  <!-- Person in meditation pose -->
+  <!-- Head -->
+  <circle cx="50" cy="30" r="8" fill="white"/>
+  
+  <!-- Body -->
+  <ellipse cx="50" cy="48" rx="6" ry="12" fill="white"/>
+  
+  <!-- Arms in meditation position -->
+  <path d="M 44 45 Q 35 48 32 55" stroke="white" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M 56 45 Q 65 48 68 55" stroke="white" stroke-width="3" fill="none" stroke-linecap="round"/>
+  
+  <!-- Legs in lotus position -->
+  <path d="M 44 58 Q 35 62 30 65 Q 28 67 30 69 Q 35 68 40 66" stroke="white" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M 56 58 Q 65 62 70 65 Q 72 67 70 69 Q 65 68 60 66" stroke="white" stroke-width="3" fill="none" stroke-linecap="round"/>
+  
+  <!-- Lotus flower petals below -->
+  <ellipse cx="38" cy="75" rx="8" ry="4" fill="white" opacity="0.7"/>
+  <ellipse cx="50" cy="78" rx="8" ry="4" fill="white" opacity="0.7"/>
+  <ellipse cx="62" cy="75" rx="8" ry="4" fill="white" opacity="0.7"/>
+</svg>
+
