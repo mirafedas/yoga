@@ -223,14 +223,7 @@ export class Cards extends LitElement {
         image: 'img/Supta Vajrasana.png'
       },
       {
-        name: 'Matsyasana',
-        polishName: 'Pozycja ryby',
-        przeciwskazania: 'urazy szyi, nadciśnienie, problemy z kręgosłupem',
-        korzysci: 'otwiera klatkę piersiową i gardło, poprawia oddychanie, stymuluje tarczycę, łagodzi napięcia szyi i barków',
-        image: 'img/Matsyasana.png'
-      },
-      {
-        name: 'Setu Bandhasana',
+        name: 'Setu asana',
         polishName: 'Pozycja mostu',
         przeciwskazania: 'urazy kręgosłupa szyjnego, nadciśnienie',
         korzysci: 'wzmacnia plecy i pośladki, otwiera klatkę piersiową, poprawia elastyczność kręgosłupa, uspokaja układ nerwowy',
