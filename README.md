@@ -88,6 +88,21 @@ Each asana contains:
 - `korzysci` - Benefits and therapeutic effects
 - `image` - Path to pose illustration
 
+Optional fields, present where the source material provides them:
+
+- `etymologia` - Meaning of the Sanskrit words in the name
+- `uwagi` - Practice notes, duration, sequencing
+- `opcje` - Variants and beginner-friendly options
+- `wskazowki` - Array of step-by-step instructions
+- `oddychanie` - Breathing pattern
+- `swiadomosc` - Point of awareness (physical / spiritual)
+- `duchoweZnaczenie` - Spiritual and energetic meaning
+
+The module also exports `grupyAsan` - introductions to the asana groups
+(standing, forward bends, backbends, twists, vajrasana series, balance,
+inverted), each with `nazwa`, `opis` and, where given, `uwagi`,
+`duchoweZnaczenie`, `przeciwskazania` and practice rules.
+
 ## 🎨 Component Architecture
 
 ### `yoga-cards`

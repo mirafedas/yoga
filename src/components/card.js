@@ -219,6 +219,7 @@ export class Card extends LitElement {
 
     .benefits h3 { color: #2f7d55; }
     .cautions h3 { color: #c62828; }
+    .steps h3 { color: #b35c00; }
 
     .dialog-body p {
       margin: 0;
@@ -226,6 +227,23 @@ export class Card extends LitElement {
       opacity: 1;
       font-size: 15px;
       line-height: 1.55;
+    }
+
+    ol {
+      margin: 0;
+      padding-left: 22px;
+      color: #3d3d3d;
+      font-size: 15px;
+      line-height: 1.55;
+    }
+
+    li + li {
+      margin-top: 8px;
+    }
+
+    li::marker {
+      color: #ff5722;
+      font-weight: bold;
     }
 
     @media (max-width: 640px) {
@@ -301,6 +319,14 @@ export class Card extends LitElement {
               <h3>⚠ Przeciwwskazania</h3>
               <p>${this.asana.przeciwskazania}</p>
             </section>
+            ${this.asana.wskazowki ? html`
+              <section class="steps">
+                <h3>▸ Wskazówki</h3>
+                <ol>
+                  ${this.asana.wskazowki.map((step) => html`<li>${step}</li>`)}
+                </ol>
+              </section>
+            ` : ''}
           </div>
         </div>
       </dialog>
