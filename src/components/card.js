@@ -138,7 +138,7 @@ export class Card extends LitElement {
       display: flex;
       align-items: flex-start;
       gap: 12px;
-      padding: 18px 20px;
+      padding: 20px 30px;
       background: linear-gradient(135deg, #ff9800 0%, #ff5722 100%);
     }
 
@@ -182,9 +182,9 @@ export class Card extends LitElement {
       display: grid;
       grid-template-columns: 220px 1fr;
       gap: 20px;
-      padding: 20px;
+      padding: 30px;
       overflow-y: auto;
-      max-height: calc(100vh - 140px);
+      max-height: calc(100vh - 180px);
       text-align: left;
     }
 
