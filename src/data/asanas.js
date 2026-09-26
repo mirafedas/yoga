@@ -3,9 +3,22 @@ export const asanas = [
   {
     name: 'Adho Mukha Svanasana',
     polishName: 'Pozycja psa z głową w dół',
+    etymologia: 'Adho – w dół; mukha – twarz; shvana – pies',
     przeciwskazania: 'zespół cieśni nadgarstka, urazy nadgarstków i barków, wysokie ciśnienie krwi, jaskra, zaawansowana ciąża, biegunka',
     korzysci: 'rozciąga ścięgna podkolanowe, łydki i kręgosłup, wzmacnia ramiona, nadgarstki i nogi, dotlenia mózg, łagodzi napięcie pleców i barków, uspokaja układ nerwowy',
-    image: 'img/Adho Mukha Svanasana.png'
+    uwagi: 'Klasyfikacja: symetryczna pozycja odwrócona z podporem na rękach. To doskonała okazja do obserwowania, jak ramiona i nogi wpływają na kręgosłup: przy kręgosłupie w neutralnym lub osiowym wydłużeniu zgięcie zachodzi w stawach barkowych i biodrowych, a wyprost w łokciach i kolanach. Mięsień najszerszy grzbietu często „pomaga” w pracy ramion, ale obniża je i rotuje wewnętrznie – czyli odwrotnie niż trzeba – co może prowadzić do konfliktu w stawie barkowym. Jeśli rotacja między kością promieniową a łokciową jest ograniczona, nadmiar ruchu przenosi się na łokcie i nadgarstki albo na rotację wewnętrzną ramion – to najczęstsze miejsca urazów u osób praktykujących styl vinyasa z wielokrotnymi psami w powitaniach słońca. Dłoń powinna pracować jak stopa: utrzymywać swoje sklepienie.',
+    opcje: 'Dla osób po urazach, z dolegliwościami zdrowotnymi lub takich, które nie chcą schodzić na podłogę: wersja z dłońmi opartymi na krzesle, ścianie lub biurku – zdejmuje obciążenie z barków i daje stabilność.',
+    wskazowki: [
+      'Ustaw dłonie płasko na podłodze z rozłożonymi palcami; utrzymuj sklepienie dłoni, tak jakby była stopą, i rozłóż nacisk na całą jej powierzchnię.',
+      'Wyprostuj łokcie, przedramiona rotuj do wewnątrz (pronacja), a barki na zewnątrz – nie pozwól im opaść i zrotować się wewnętrznie.',
+      'Rotuj łopatki ku górze i pozwól im się unieść, utrzymując stabilne stawy barkowe.',
+      'Kąt zgięcia w barkach wynosi około 120–150 stopni; ramiona nie muszą dochodzić do linii 180 stopni.',
+      'Zegnij biodra do około 90 stopni i wyprostuj kolana, kierując głowy kości udowych w głąb stawów biodrowych.',
+      'Kieruj pięty w stronę podłogi (zgięcie grzbietowe stawów skokowych), utrzymując sklepienia stóp.',
+      'Kręgosłup i miednica pozostają neutralne; rozluźnij głowę i szyję.'
+    ],
+    oddychanie: 'Z perspektywy oddechu to pozycja odwrócona. Ponieważ pozycje odwrócone naturalnie przesuwają przeponę w stronę głowy, wydechowa praca mięśni brzucha może być tu bardzo głęboka. Jeśli utrzymasz pracę dolnej części brzucha na początku wdechu (mula bandha), struktury klatki piersiowej zostaną zachęcone do ruchu, co w pozycji z podporem na rękach jest niemałym wyzwaniem.',
+    image: 'img/Adho Mukha Svanasana.png',
   },
   {
     name: 'Akarna Dhanurasana',
@@ -27,16 +40,40 @@ export const asanas = [
   {
     name: 'Ashta Chandrasana',
     polishName: 'Pozycja półksiężyca w wysokim wypadzie',
+    etymologia: 'Ashta – osiem; chandra – księżyc. Nazwa odnosi się do kształtu księżyca ósmego dnia – półksiężyca, który tworzy ciało w wysokim wypadzie.',
     przeciwskazania: 'urazy kolan, bioder i dolnego odcinka pleców, choroby serca, wysokie ciśnienie krwi',
-    korzysci: 'otwiera biodra i zginacze bioder, rozciąga przód ciała i klatkę piersiową, wzmacnia nogi i pośladki, poprawia równowagę i koncentrację, energetyzuje całe ciało',
-    image: 'img/Ashta Chandrasana.png'
+    korzysci: 'otwiera biodra i zginacze bioder, rozciąga przód ciała, klatkę piersiową, łydki i ścięgna podkolanowe, wzmacnia nogi i pośladki, poszerza klatkę piersiową i pracę przepony, poprawiając oddech i dotlenienie organizmu, uelastycznia kolana, kostki, barki i kręgosłup, bywa pomocna przy rwie kulszowej, astmie i bezsenności, obniża poziom stresu, poprawia równowagę, koncentrację i uważność, energetyzuje całe ciało',
+    uwagi: 'Pozycja przygotowuje do virabhadrasany I. Przednie kolano powinno pozostać nad kostką i nie wychodzić poza linię palców stopy; tylna noga pozostaje aktywna i wyprostowana, z piętą uniesioną nad podłogą. Przy wrażliwym karku nie odchylaj głowy do tyłu, tylko patrz przed siebie.',
+    wskazowki: [
+      'Z adho mukha svanasany przestaw jedną stopę między dłonie, w głęboki wypad.',
+      'Tylna noga pozostaje wyprostowana, pięta uniesiona, palce stopy wbite w podłogę.',
+      'Ustaw przednie kolano nad kostką, tak aby podudzie było prostopadłe do podłogi.',
+      'Z wdechem unieś tułów i wyciągnij ramiona równolegle nad głowę, dłonie zwrócone do siebie.',
+      'Wydłuż kręgosłup i lekko otwórz klatkę piersiową, kierując wzrok do góry, jeśli szyja na to pozwala.',
+      'Utrzymuj pozycję kilka oddechów, po czym wróć do wypadu i powtórz po drugiej stronie.'
+    ],
+    oddychanie: 'Wdech podczas unoszenia tułowia i ramion. Oddychaj spokojnie i głęboko w pozycji końcowej, pozwalając, by wdech wydłużał kręgosłup, a wydech pogłębiał wypad. Wydech podczas wychodzenia z pozycji.',
+    swiadomosc: 'Fizyczna – na stabilności tylnej nogi, ustawieniu przedniego kolana nad kostką i na wydłużaniu przodu ciała. Mentalna – na spokojnym, równym oddechu i na utrzymaniu uwagi w pozycji.',
+    image: 'img/Ashta Chandrasana.png',
   },
   {
     name: 'Dolasana',
     polishName: 'Pozycja huśtawki (wahadła)',
-    przeciwskazania: 'wysokie ciśnienie krwi, zawroty głowy, wypadnięty dysk, urazy pleców i barków',
-    korzysci: 'rozluźnia mięśnie pleców, barków i szyi, uelastycznia kręgosłup, poprawia krążenie w górnej części ciała, usuwa zmęczenie i napięcie nerwowe',
-    image: 'img/Dolasana.png'
+    etymologia: 'Dola – huśtawka, wahadło',
+    przeciwskazania: 'wysokie ciśnienie krwi, zawroty głowy, przepuklina rozworu przełykowego, wypadnięty dysk, urazy pleców i barków',
+    korzysci: 'wzmacnia ścięgna podkolanowe i mięśnie pleców, uelastycznia plecy i tonizuje nerwy rdzeniowe, poprawia krążenie krwi w głowie i twarzy, rozluźnia mięśnie barków i szyi, usuwa zmęczenie i napięcie nerwowe',
+    uwagi: 'Nogi pozostają wyprostowane przez całą praktykę. Kołysanie od kolana do kolana wykonuje się przy wstrzymanym oddechu – powtórz je 3 razy w jednej rundzie.',
+    wskazowki: [
+      'Stań ze stopami rozstawionymi na odległość około metra.',
+      'Unieś ramiona i spleć palce za szyją, łokcie skierowane na boki.',
+      'Zrób głęboki wdech. Skręć się nieznacznie w prawo, zrób wydech i zegnij się do przodu, trzymając stopy mocno na podłodze.',
+      'Zbliż głowę tak blisko prawego kolana, jak to możliwe. Nogi pozostają wyprostowane.',
+      'Wstrzymaj oddech i przenoś głowę oraz górną część tułowia od prawego kolana do lewego, a potem od lewego do prawego. Powtórz 3 razy, nadal wstrzymując oddech.',
+      'Z wdechem wróć do środka i do pozycji wyprostowanej. To jedna runda.'
+    ],
+    oddychanie: 'Wdech w pozycji wyprostowanej. Wydech podczas skrętu i skłonu do przodu. Wstrzymanie oddechu podczas przenoszenia głowy od kolana do kolana. Wdech podczas powrotu do środka i do pozycji wyprostowanej.',
+    swiadomosc: 'Fizyczna – na plecach, na wyprostowanych kolanach i na równowadze. Duchowa – na czakrze swadhisthana (sakralna).',
+    image: 'img/Dolasana.png',
   },
   {
     name: 'Dwikonasana',
@@ -109,16 +146,38 @@ export const asanas = [
   {
     name: 'Parsvakonasana',
     polishName: 'Pozycja bocznego kąta',
+    etymologia: 'Utthita – wyciągnięty; parsva – bok, flanka; kona – kąt',
     przeciwskazania: 'bóle głowy, bezsenność, wysokie lub niskie ciśnienie krwi, urazy kolan i barków',
     korzysci: 'rozciąga bok tułowia, pachwiny i ścięgna podkolanowe, wzmacnia nogi i kostki, stymuluje narządy jamy brzusznej, łagodzi bóle pleców i rwę kulszową',
-    image: 'img/Parsvakonasana.png'
+    uwagi: 'Klasyfikacja: asymetryczna pozycja stojąca. Nogi pracują tu tak samo jak w virabhadrasanie II, ale ciężar tułowia spada bardziej na przednią nogę, więc jej mięśnie potrzebują dodatkowej siły, długości i wytrzymałości. Ułożenie górnego ramienia przy głowie przypomina utkatasanę, jednak z powodu innej relacji do grawitacji utrzymują je inne mięśnie, a ich praca jest bardziej ekscentryczna niż koncentryczna. Jeśli klatka piersiowa nie jest wyraźnie skierowana w bok, rozłożenie ramion może uciskać splot ramienny i wywołać drętwienie lub mrowienie w rękach – trzymanie ramion w linii boków tułowia zapobiega temu uciskowi.',
+    wskazowki: [
+      'Przednia noga: zegnij biodro i kolano oraz odwiedź biodro, staw skokowy w zgięciu grzbietowym; kolano podąża w linii stopy.',
+      'Tylna noga: wyprostuj kolano, wyprostuj i odwiedź biodro; pięta supinuje, a przodostopie pronuje, tak aby cała stopa łączyła się z podłogą.',
+      'Kręgosłup w neutralnym ustawieniu lub w lekkim zgięciu bocznym, z niewielkim skrętem, tak aby klatka piersiowa kierowała się w bok.',
+      'Nie opadaj w bok pod ciężarem ciała – aktywnie utrzymuj długość dolnej strony tułowia.',
+      'Dolne ramię: bark odwiedziony, przedramię w pronacji, nadgarstek w zgięciu grzbietowym, jeśli dłoń opiera się o podłogę.',
+      'Górne ramię: wyprostuj łokieć i wyciągnij rękę nad głowę w linii boku tułowia, rotując łopatkę ku górze.',
+      'Obróć głowę w stronę górnego ramienia.'
+    ],
+    oddychanie: 'Choć górna strona mechanizmu oddechowego jest tu mocno wydłużona, ciekawszy efekt zachodzi po stronie dolnej, gdzie kopuła przepony jest wypychana w stronę głowy przez grawitację działającą na narządy jamy brzusznej. Oddech w tej pozycji daje bardzo użyteczną, asymetryczną stymulację przepony i wszystkich przyczepiających się do niej narządów.',
+    image: 'img/Parsvakonasana.png',
   },
   {
     name: 'Parsvottanasana',
     polishName: 'Intensywne rozciąganie boku (skłon nad wyprostowaną nogą)',
+    etymologia: 'Parsva – bok, flanka; ut – intensywny; tan – rozciągać',
     przeciwskazania: 'urazy pleców, bioder i nadgarstków, wysokie ciśnienie krwi, problemy z równowagą',
     korzysci: 'rozciąga kręgosłup, barki, nadgarstki, biodra i ścięgna podkolanowe, wzmacnia nogi, koryguje postawę, stymuluje trawienie, uspokaja umysł',
-    image: 'img/Parsvottanasana.png'
+    uwagi: 'Klasyfikacja: asymetryczna pozycja stojąca ze skłonem w przód. Praca nóg jest prawie taka sama jak w utthita trikonasanie i z tego samego powodu trudno tu utrzymać równowagę – wąska podstawa wymaga, aby mięśnie zewnętrznej strony bioder były jednocześnie długie i aktywne. Jeśli przywykłeś do pomagania sobie wzrokiem w utrzymaniu równowagi, ta pozycja z głową opuszczoną w dół będzie ciekawym doświadczeniem. Skłon jest tu intensywniejszy dla ścięgien podkolanowych przedniej nogi niż w uttanasanie, ponieważ ustawienie tylnej nogi kieruje zgięcie bardziej w staw biodrowy przedniej nogi, a kręgosłup mniej może skompensować brak ruchomości nóg.',
+    opcje: 'Wariant z ramionami w reverse namaskar (dłonie złożone za plecami) wymaga dużej ruchomości obręczy barkowej; jeśli łopatki nie przesuwają się swobodnie po klatce piersiowej, takie ułożenie dłoni może nadmiernie obciążyć same stawy barkowe. Najpierw odwiedź łopatki, oddalając je od kręgosłupa, a dopiero potem je przyciągnij – to końcowe przyciągnięcie jest znacznie trudniejsze przy zgiętym kręgosłupie lub gdy łopatki są obniżone i ciągnięte w dół pleców. Wariant ze zgiętym kręgosłupem: zamiast układać tułów wzdłuż podudzia, sprowadź czoło do kolana – kręgosłup musi zgiąć się wtedy bardzo głęboko, a zgięcia w biodrze jest mniej; dłonie nie leżą po bokach stopy, lecz czubki palców wyciągają się po podłodze, co utrudnia równowagę, ale daje wyraźniejsze poczucie linii środka ciała.',
+    wskazowki: [
+      'Ustaw stopy w wykroku, obie nogi wyprostowane w kolanach; pięta tylnej stopy supinuje, a przodostopie pronuje.',
+      'Wyrównaj i wyśrodkuj miednicę nad stopami – mięśnie zewnętrznej strony bioder utrzymują równowagę na boki.',
+      'Zegnij się w przednim biodrze, prowadząc tułów nad przednią nogą; kręgosłup zgina się tylko nieznacznie.',
+      'Utrzymuj wyprost kolan oraz sklepienia stóp, nie blokując zgięcia grzbietowego stawów skokowych.',
+      'Pozwól głowie opaść swobodnie w dół i zauważ, jak zmienia się twoja równowaga bez pomocy wzroku.'
+    ],
+    image: 'img/Parsvottanasana.png',
   },
   {
     name: 'Samakonasana',
@@ -144,9 +203,23 @@ export const asanas = [
   {
     name: 'Sirsha Angustha Yogasana',
     polishName: 'Pozycja głowy do dużego palca stopy',
-    przeciwskazania: 'wysokie ciśnienie krwi, zawroty głowy, urazy pleców, kolan i ścięgien podkolanowych',
-    korzysci: 'intensywnie rozciąga ścięgna podkolanowe i wewnętrzne strony ud, rozluźnia kręgosłup i barki, zwiększa dopływ krwi do głowy, rozwija równowagę i koncentrację',
-    image: 'img/Sirsha Angustha Yogasana.png'
+    etymologia: 'Sirsha – głowa; Angustha – duży palec stopy',
+    przeciwskazania: 'choroby serca, wysokie ciśnienie krwi, dolegliwości pleców takie jak wypadnięty dysk czy rwa kulszowa, infekcje okolicy krzyżowej, zawroty głowy, urazy kolan i ścięgien podkolanowych',
+    korzysci: 'rozciąga ścięgna podkolanowe i wewnętrzne strony ud, daje boczne rozciągnięcie kręgosłupa, rozluźnia barki, stymuluje układ nerwowy i apetyt, pomaga usuwać dolegliwości brzuszne i zaparcia, redukuje nadmiar tkanki w okolicy talii, zwiększa dopływ krwi do głowy, rozwija równowagę i koncentrację',
+    uwagi: 'Wykonaj maksymalnie 5 rund. Aby nie stracić równowagi przy podnoszeniu ciała, trzymaj nogę zgiętą i wyprostuj ją dopiero wtedy, gdy tułów jest już wyprostowany, a potem wróć do środka. Pozycję może poprzedzać pada hastasana, a po niej warto wykonać wygięcie w tył – na przykład pristhasanę, supta vajrasanę lub matsyasanę.',
+    wskazowki: [
+      'Stań prosto ze stopami rozstawionymi na odległość około metra.',
+      'Spleć palce za plecami, dłonie zwrócone do góry, ramiona wyprostowane. To jest pozycja wyjściowa.',
+      'Skręć tułów w prawo i obróć prawą stopę nieznacznie na zewnątrz.',
+      'Zegnij się do przodu w pasie, wyciągając ramiona tak wysoko, jak to możliwe.',
+      'Sprowadź głowę w dół, do wewnętrznej strony prawej stopy. Zegnij lekko prawe kolano, aby przyjąć tę pozycję.',
+      'Gdy głowa zbliża się do stopy, rozluźnij barki, trzymaj ramiona wyprostowane i pozwól im opadać do przodu.',
+      'Utrzymaj pozycję tak długo, jak jest to wygodne.',
+      'Podnieś tułów, opuść ramiona i wróć ciałem do środka. Powtórz po drugiej stronie – to kończy jedną rundę.'
+    ],
+    oddychanie: 'Wdech w pozycji wyjściowej i podczas skrętu. Wydech podczas skłonu. Wstrzymanie oddechu na wydechu podczas utrzymywania pozycji. Wdech podczas podnoszenia tułowia i powrotu do środka.',
+    swiadomosc: 'Fizyczna – na synchronizacji oddechu z ruchem. Duchowa – na czakrze manipura (splot słoneczny).',
+    image: 'img/Sirsha Angustha Yogasana.png',
   },
   {
     name: 'Tadasana',
@@ -227,30 +300,80 @@ export const asanas = [
   {
     name: 'Utkatasana',
     polishName: 'Pozycja krzesła (potężna pozycja)',
-    przeciwskazania: 'urazy kolan i kostek, bóle dolnego odcinka pleców, niskie ciśnienie krwi, bezsenność',
-    korzysci: 'wzmacnia uda, łydki, kostki i kręgosłup, rozciąga barki i klatkę piersiową, stymuluje narządy jamy brzusznej i przeponę, buduje wytrzymałość i siłę woli',
-    image: 'img/Utkatasana.png'
+    etymologia: 'Utkata – niewygodny, potężny, nierówny',
+    przeciwskazania: 'urazy kolan i kostek, bóle dolnego odcinka pleców, niskie ciśnienie krwi, bezsenność; przy wysokim ciśnieniu krwi lepiej nie unosić ramion nad głowę, a oprzeć dłonie na biodrach – uniesienie rąk szybko podnosi tętno i ciśnienie',
+    korzysci: 'wzmacnia uda, łydki, kostki i kręgosłup, rozciąga barki i klatkę piersiową, stymuluje narządy jamy brzusznej i przeponę, silnie angażuje mięśnie centralne i największe mięśnie ciała, przez co podnosi tętno i pracuje nad układem krążenia, wzmacnia mięśnie czworogłowe, których siła jest wskaźnikiem długowieczności – zrównoważone wzmacnianie ud pomaga łagodzić ból kolan i bioder (szczególnie przy chorobie zwyrodnieniowej) i poprawia równowagę, buduje wytrzymałość i siłę woli',
+    uwagi: 'Klasyfikacja: symetryczna pozycja stojąca. Skrócony mięsień najszerszy grzbietu przeszkadza w unoszeniu ramion nad głowę. Nadmierne wygięcie odcinka lędźwiowego lub zbyt głębokie zgięcie bioder wynika zwykle z opadnięcia w grawitację; pracą ścięgien podkolanowych (przyciągając guzy kulszowe do przodu) lub mięśnia biodrowo-lędźwiowego mniejszego (unosząc kość łonową) można temu zapobiec bez zmiany ustawienia kręgosłupa. Kolana są w tej pozycji bardzo ruchome, ponieważ pozostają częściowo zgięte. Głównym źródłem opozycji powinna być grawitacja, a nie mięśnie pracujące przeciw sobie – to ciekawa pozycja do badania równowagi między wysiłkiem i odpuszczeniem. Uniesienie ramion wydłuża ramię dźwigni, zwiększając obciążenie dolnej części pleców i mięśni centralnych, a także szybko podnosi tętno i ciśnienie krwi, bo krew musi być pompowana do wyżej ustawionych dłoni.',
+    opcje: 'Zamiast unosić ramiona nad głowę można oprzeć dłonie na biodrach – zmniejsza to obciążenie dolnej części pleców i tułowia i jest bezpieczniejsze przy wysokim ciśnieniu krwi.',
+    wskazowki: [
+      'Zegnij biodra i kolana, jakbyś siadał na krzesło, przenosząc ciężar w stronę pięt, aby zmniejszyć nacisk na kolana.',
+      'Trzymaj kolana równolegle – przywodziciele powstrzymują tendencję do rozchodzenia się kolan na boki.',
+      'Ustaw kość ogonową i miednicę neutralnie; pracą mięśni brzucha zapobiegaj przodopochyleniu miednicy i przeprostowi lędźwi.',
+      'Wydłużaj kręgosłup w osi, dolne żebra miękko schodzą do wewnątrz.',
+      'Unieś ramiona: rotuj łopatki ku górze, odwiedź je i unieś, zegnij stawy barkowe i wyprostuj łokcie.',
+      'Stopy w zgięciu grzbietowym mocno stabilizują podstawę – rozłóż nacisk na całe podeszwy.',
+      'Rozluźnij świadomie okolicę karku, nie pozwalając głowie opaść do przodu.'
+    ],
+    oddychanie: 'Utrzymanie osiowego wydłużenia kręgosłupa, które minimalizuje zmianę kształtu towarzyszącą oddechowi, przy jednoczesnym angażowaniu największych i najbardziej łaknących tlenu mięśni ciała, to wyzwanie wymagające ekonomii wysiłku i oddechu.',
+    image: 'img/Utkatasana.png',
   },
   {
     name: 'Utthita Lolasana',
     polishName: 'Pozycja wiszącego wahadła w skłonie',
+    etymologia: 'Utthita – wyprostowany, w pozycji stojącej; Lola – kołyszący się, huśtający',
     przeciwskazania: 'wysokie ciśnienie krwi, zawroty głowy, dolegliwości pleców, problemy z kręgami szyjnymi',
-    korzysci: 'rozciąga ścięgna podkolanowe i dolną część pleców, rozluźnia stawy barkowe, dotlenia mózg, łagodzi zmęczenie i stres',
-    image: 'img/Utthita Lolasana.png'
+    korzysci: 'usuwa zmęczenie, stymulując krążenie i tonizując nerwy rdzeniowe, rozciąga ścięgna podkolanowe i mięśnie pleców, rozluźnia biodra i stawy barkowe, masuje narządy wewnętrzne, przyspiesza przepływ limfy w głównych naczyniach i poprawia jej drenaż – szczególnie z brzucha i podstawy płuc, otwiera wszystkie pęcherzyki płucne i przywraca równowagę między wentylacją a ukrwieniem płuc, dotlenia mózg i daje część korzyści pozycji odwróconych, łagodzi stres',
+    uwagi: 'Jedna runda to 5 pełnych wymachów; powtórz do 5 rund. Doskonała praktyka przygotowująca do pranajamy. Ciało powinno pozostać całkowicie bez napięcia – jak szmaciana lalka.',
+    wskazowki: [
+      'Stań prosto ze stopami rozstawionymi na odległość około metra.',
+      'Unieś ramiona nad głowę, trzymając łokcie wyprostowane.',
+      'Zegnij nadgarstki do przodu, tak aby dłonie zwisały swobodnie.',
+      'Zegnij się do przodu i wymachnij tułowiem w dół z bioder, pozwalając ramionom i głowie przejść między nogami.',
+      'Bądź wolny od napięcia, jak szmaciana lalka.',
+      'Przy wymachu w górę unieś tułów tak, aby był równoległy do podłogi.',
+      'Przy wymachu w dół zabierz dłonie tak daleko za stopy, jak to możliwe.',
+      'Po 5 pełnych wymachach wróć do pozycji wyprostowanej z uniesionymi ramionami, a następnie opuść ramiona po bokach.'
+    ],
+    oddychanie: 'Wdychaj pełnym oddechem przez nos podczas unoszenia ramion i podczas powrotu do pozycji wyprostowanej. Wydychaj energicznie przez usta przy każdym wymachu w dół, aby usunąć z dolnych części płuc całe zastane powietrze. Wdech przy wymachu w górę jest tylko niewielkim odruchem – najważniejsze jest całkowite opróżnienie płuc w dolnej fazie. Dla wzmocnienia efektu przy każdym wymuszonym wydechu można wydawać dźwięk „ha”, który powinien pochodzić z brzucha, a nie z gardła, z podkreśleniem ruchu przepony.',
+    swiadomosc: 'Fizyczna – na ruchu przepony i oddechu, na utrzymywaniu ciała rozluźnionego oraz na rytmicznym ruchu kołysania.',
+    image: 'img/Utthita Lolasana.png',
   },
   {
     name: 'Virabhadrasana I',
     polishName: 'Pozycja wojownika I',
+    etymologia: 'Virabhadra – imię potężnego, gniewnego wojownika z mitologii',
     przeciwskazania: 'choroby serca, wysokie ciśnienie krwi, urazy kolan, bioder i barków, problemy z odcinkiem szyjnym (nie odchylać głowy)',
     korzysci: 'wzmacnia nogi, pośladki i mięśnie pleców, otwiera klatkę piersiową i zginacze bioder, zwiększa pojemność oddechową, poprawia równowagę i koncentrację',
-    image: 'img/Virabhadrasana I.png'
+    uwagi: 'Klasyfikacja: asymetryczna pozycja stojąca z wygięciem w tył i elementem równowagi. W wypadzie ciężar ciała w relacji do grawitacji tworzy zgięcie w kolanie i biodrze przedniej nogi – jej mięśnie pracują ekscentrycznie, czyli są aktywne, wydłużając się, aby nie pozwolić na zbyt głębokie zgięcie. Mięśnie odwodzące przednią nogę również muszą pracować ekscentrycznie, aby wyrównać miednicę i utrzymać równowagę; gdy się skrócą, mogą pociągnąć przednie kolano zbyt daleko w bok lub wykręcić miednicę z osi. Mięśnie męczą się szybciej, gdy pracują blisko swojej maksymalnej długości, dlatego budowanie wytrzymałości w tej pozycji wymaga czasu. O rotacji tylnej nogi mówi się różne rzeczy; niezmiennie prawdziwe jest to, że tylna noga jest wyprostowana i w pewnym stopniu przywiedziona (w virabhadrasanie II jest wyprostowana i odwiedziona). Organizuj tylną nogę od spirali stopy w górę – gdy stopa, podudzie, udo i miednica ustawią się tak, by utworzyć wyraźną drogę od stopy do kręgosłupa, ilość rotacji w biodrze pozostaje kwestią indywidualną, przestrzenie stawowe są zrównoważone, a tylna noga staje się mocnym wsparciem dla ciężaru tułowia i odciąża przednią nogę. W tylnej stopie tył stopy supinuje, aby pięta wyraźnie połączyła się z podłogą, a przodostopie pronuje, aby palce także się z nią łączyły; bez tej pracy zewnętrzna kostka może stać się nadmiernie ruchoma i osłabiona. Ilość potrzebnego skrętu kręgosłupa zależy od ruchomości stawów krzyżowo-biodrowych i biodrowych – im mniej ruchome są kończyny dolne, tym więcej skrętu potrzeba, aby ustawić klatkę piersiową do przodu.',
+    opcje: 'Różne ustawienia stóp przenoszą wyzwanie tej pozycji w inne miejsca. Krótszy wykrok wymaga mniejszej ruchomości miednicy, więc wsparcie nóg bywa łatwiej dostępne, a szeroka podstawa upraszcza równowagę – choć wyżej położony środek ciężkości może dawać poczucie niestabilności. Dłuższy i węższy wykrok obniża środek ciężkości, ale wymaga większej ruchomości stawów krzyżowo-biodrowych, bioder, kolan, stawów skokowych i stóp oraz pracy mięśni na większej długości, dlatego bywa odczuwany jako mniej stabilny.',
+    wskazowki: [
+      'Przednia noga: zegnij biodro i kolano, staw skokowy w zgięciu grzbietowym; kolano nie ucieka w bok – przywodziciele powstrzymują tę tendencję.',
+      'Tylna noga: wyprostuj kolano, wyprostuj i przywiedź biodro; tył stopy supinuje, aby pięta połączyła się z podłogą, a przodostopie pronuje, aby palce też się z nią łączyły.',
+      'Wyrównaj miednicę i skręć klatkę piersiową do przodu – tyle, ile potrzeba przy twojej ruchomości bioder i stawów krzyżowo-biodrowych.',
+      'Wydłużaj kręgosłup w wyprost, chroniąc odcinek lędźwiowy od przeprostu pracą mięśni brzucha.',
+      'Unieś ramiona: odwiedź i rotuj łopatki ku górze, odwiedź i rotuj zewnętrznie stawy barkowe, łokcie lekko zgięte, przedramiona w supinacji.',
+      'Jeśli odchylasz głowę w tył, podeprzyj jej ciężar pracą mięśni szyi.'
+    ],
+    oddychanie: 'Dolna część ciała musi być zarówno ruchoma, jak i mocna, aby dać oddechowi wystarczające wsparcie (sthira) do swobodnego ruchu w górnej części ciała (sukha). Wyzwania wypadu w pozycjach wojownika tworzą ciekawe warunki do badania mechaniki oddechu.',
+    image: 'img/Virabhadrasana I.png',
   },
   {
     name: 'Virabhadrasana II',
     polishName: 'Pozycja wojownika II',
+    etymologia: 'Virabhadra – imię potężnego, gniewnego wojownika z mitologii',
     przeciwskazania: 'urazy kolan i bioder, wysokie ciśnienie krwi, biegunka, problemy z odcinkiem szyjnym',
     korzysci: 'wzmacnia i ujędrnia nogi, kostki i ramiona, otwiera biodra i klatkę piersiową, tonizuje narządy jamy brzusznej, rozwija wytrzymałość i stabilność',
-    image: 'img/Virabhadrasana II.png'
+    uwagi: 'Klasyfikacja: asymetryczna pozycja stojąca. Podobnie jak w virabhadrasanie I zgięcie przedniego biodra i kolana jest ekscentryczne w stosunku do grawitacji, ale w odróżnieniu od wojownika I mięśnie odwodzące przednią nogę pracują koncentrycznie: ponieważ stopa stoi na ziemi, ruch ten obraca miednicę na bok. W tylnej nodze jednoczesny wyprost i odwiedzenie biodra są wymagające – ruchomość między miednicą a kością krzyżową zdejmuje część obciążenia z więzadeł i torebki stawu biodrowego. Ilość rotacji zewnętrznej tylnego biodra zależy od wielu czynników i powinna wynikać z pracy stopy i całej nogi, a nie z izolowanego ruchu w stawie biodrowym. Im więcej ruchomości w stawie krzyżowo-biodrowym i biodrowym przedniej nogi, tym mniej skrętu kręgosłupa potrzeba, by skierować klatkę piersiową w bok. Jeśli klatka piersiowa nie jest wyraźnie skierowana w bok, rozłożenie ramion może uciskać splot ramienny, który biegnie od boku odcinka szyjnego pod obojczykiem i pod mięśniem piersiowym mniejszym – stąd uczucie drętwienia lub mrowienia w rękach. Trzymanie ramion w linii boków tułowia zapobiega temu uciskowi.',
+    wskazowki: [
+      'Przednia noga: zegnij biodro i kolano oraz odwiedź biodro, staw skokowy w zgięciu grzbietowym; kolano podąża w linii stopy.',
+      'Tylna noga: wyprostuj i odwiedź biodro, wyprostuj kolano, staw skokowy w zgięciu grzbietowym; aktywnie dociskaj zewnętrzną krawędź stopy do podłogi.',
+      'Utrzymuj miednicę wyrównaną, a kręgosłup neutralny, z niewielkim skrętem, tak aby klatka piersiowa kierowała się w bok.',
+      'Odwiedź łopatki, odwiedź i rotuj zewnętrznie stawy barkowe, przedramiona w pronacji; trzymaj ramiona w linii boków tułowia.',
+      'Obróć głowę w stronę przedniej nogi.',
+      'Wydłużaj kręgosłup pracą mięśni prostowników i mięśnia poprzecznego brzucha, ściągając łopatki mięśniami równoległobocznymi oraz środkową i dolną częścią czworobocznego.'
+    ],
+    oddychanie: 'We wszystkich pozycjach wojownika dolna część ciała musi być ruchoma i mocna, aby oddech mógł swobodnie płynąć. W virabhadrasanie II ruch oddechu bywa swobodniejszy niż w virabhadrasanie I, ponieważ w miednicy i kręgosłupie jest mniej skrętu; dla części osób to ustawienie nóg jest też mniej wysiłkowe, co dodatkowo uwalnia oddech.',
+    image: 'img/Virabhadrasana II.png',
   },
 
   /* SKŁONY DO PRZODU */
@@ -277,9 +400,22 @@ export const asanas = [
   {
     name: 'Eka Padottanasana',
     polishName: 'Pozycja wyciągniętej jednej nogi',
-    przeciwskazania: 'rwa kulszowa, urazy kolan, bioder i dolnego odcinka pleców',
-    korzysci: 'rozciąga ścięgna podkolanowe i łydki, uelastycznia stawy biodrowe, wzmacnia mięśnie brzucha i pleców, poprawia równowagę i koncentrację',
-    image: 'img/Eka Padottanasana.png'
+    etymologia: 'Eka – jedna; pada – noga; ut – intensywny; tan – rozciągać. W tradycji Bihar pozycja opisywana jest jako eka pada padmottanasana – „pozycja jednej nogi uniesionej do głowy”.',
+    przeciwskazania: 'dolegliwości pleców, przemieszczona kość ogonowa, rwa kulszowa, urazy kolan, bioder i dolnego odcinka pleców',
+    korzysci: 'uelastycznia ścięgna podkolanowe i stawy biodrowe, tonizuje nadnercza, koryguje zaburzenia układu rozrodczego, wzmacnia mięśnie brzucha i pleców, poprawia równowagę i koncentrację',
+    uwagi: 'Wykonaj maksymalnie 5 powtórzeń na każdą stronę. To praktyka przygotowująca do pozycji medytacyjnych i skłonów w przód.',
+    wskazowki: [
+      'Usiądź z nogami wyciągniętymi przed ciało.',
+      'Zegnij prawe kolano i postaw stopę płasko na podłodze przed prawym pośladkiem.',
+      'Złóż lewą nogę, zostawiając kolano na podłodze, i umieść piętę pod kroczem.',
+      'Spleć palce pod podeszwą prawej stopy. To jest pozycja wyjściowa.',
+      'Unieś prawą stopę i wyprostuj kolano, trzymając kręgosłup prosto.',
+      'Przyciągnij kolano do nosa i utrzymaj pozycję tak długo, jak jest to wygodne.',
+      'Zegnij nogę i opuść stopę na podłogę. Powtórz po drugiej stronie.'
+    ],
+    oddychanie: 'Wdech w pozycji wyjściowej. Wstrzymanie oddechu na wdechu podczas unoszenia i opuszczania nogi. Wstrzymanie oddechu w pozycji końcowej lub oddech normalny, jeśli utrzymujesz ją dłużej. Wydech w pozycji wyjściowej.',
+    swiadomosc: 'Fizyczna – na rozluźnianiu mięśni wyprostowanej nogi, szczególnie ścięgien podkolanowych. Duchowa – na czakrze manipura (splot słoneczny).',
+    image: 'img/Eka Padottanasana.png',
   },
   {
     name: 'Gatyatmak Paschimottanasana',
@@ -357,9 +493,22 @@ export const asanas = [
   {
     name: 'Saithalyasana',
     polishName: 'Pozycja zwierzęcego relaksu',
-    przeciwskazania: 'urazy kolan i bioder, rwa kulszowa',
-    korzysci: 'rozciąga boki tułowia, biodra i mięśnie pleców, uelastycznia stawy biodrowe i kolanowe, masuje narządy jamy brzusznej, głęboko relaksuje i przygotowuje do medytacji',
-    image: 'img/Saithalyasana.png'
+    etymologia: 'Shaithilya – rozluźnienie, odpoczynek; pozycja odwzorowuje swobodny relaks zwierzęcia',
+    przeciwskazania: 'urazy kolan i bioder, rwa kulszowa; przy dolegliwościach dolnego odcinka pleców zginaj się do przodu tylko tak daleko, jak jest to wygodne',
+    korzysci: 'rozciąga plecy, okolicę miednicy i wewnętrzne strony ud, otwiera stawy biodrowe, równoważy układ nerwowy, masuje narządy jamy brzusznej, delikatnie uciskając je naprzemiennie o udo, głęboko relaksuje i przygotowuje do siadów medytacyjnych',
+    uwagi: 'Wykonaj 5 powtórzeń na prawą stronę, następnie zmień nogi i powtórz 5 razy na lewą. To praktyka przygotowująca do pozycji medytacyjnych; może poprzedzać wygięcia w tył takie jak bhujangasana, saral dhanurasana czy dhanurasana, które rozciągają szyję i okolicę miednicy w przeciwnym kierunku.',
+    wskazowki: [
+      'Usiądź na podłodze z wyciągniętymi nogami.',
+      'Ostrożnie zegnij prawe kolano i umieść podeszwę stopy przy wewnętrznej stronie lewego uda.',
+      'Zegnij lewe kolano i umieść lewą piętę na zewnątrz lewego pośladka.',
+      'Skręć tułów w prawo i oprzyj dłonie na prawym kolanie.',
+      'Unieś ramiona nad głowę, trzymając je wyprostowane i rozstawione na szerokość barków.',
+      'Zegnij się do przodu nad prawym kolanem, sprowadzając czoło do podłogi. Rozluźnij się w tej pozycji.',
+      'Aby wrócić do pozycji wyjściowej, unieś ramiona i tułów w jednej linii, a następnie opuść dłonie na prawe kolano.'
+    ],
+    oddychanie: 'Wdech podczas unoszenia ramion. Wydech podczas skłonu do przodu. Oddychaj normalnie w pozycji końcowej. Wdech podczas powrotu do pozycji wyprostowanej. Wydech podczas opuszczania ramion.',
+    swiadomosc: 'Fizyczna – na synchronizacji ruchu z oddechem i na rozluźnianiu pleców. Duchowa – na czakrze manipura (splot słoneczny).',
+    image: 'img/Saithalyasana.png',
   },
 
   /* WYGIĘCIA W TYŁ */
@@ -406,8 +555,22 @@ export const asanas = [
   {
     name: 'Dhanurasana',
     polishName: 'Pozycja łuku',
+    etymologia: 'Dhanu – łuk. W pozycji końcowej tułów i nogi tworzą napięty łuk, a wyprostowane ramiona jego cięciwę. Hatha Joga Pradipika (rozdział 1, wers 25): „Trzymając palce stóp dłońmi, przyciągnij je do uszu, jak przy naciąganiu łuku – to nazywa się dhanurasana”.',
     przeciwskazania: 'słabe serce, wysokie ciśnienie krwi, przepuklina, wrzody żołądka i jelit, problemy z tarczycą, ciąża',
-    korzysci: 'masuje wątrobę i narządy jamy brzusznej, poprawia trawienie, wzmacnia mięśnie pleców, otwiera klatkę piersiową i barki, koryguje zaokrągloną postawę, tonizuje nerwy rdzeniowe',
+    korzysci: 'stymuluje splot słoneczny, masuje wątrobę, trzustkę i narządy jamy brzusznej (wspiera jogiczną pracę z cukrzycą), reguluje pracę narządów trawiennych, wydalniczych i rozrodczych, stymuluje nerki i tonizuje cały przewód pokarmowy, delikatnie masuje serce, w pełni otwiera klatkę piersiową – pomocna przy dolegliwościach oddechowych, stymuluje i reguluje gruczoły wydzielania wewnętrznego, zwłaszcza tarczycę i nadnercza, wzmacnia mięśnie pleców, ustawia kręgosłup, koryguje zaokrągloną postawę i opadające barki, tonizuje nerwy rdzeniowe, zalecana przy niektórych rodzajach reumatyzmu, pomaga regulować cykl miesiączkowy',
+    uwagi: 'Pozycję końcową każdego ze stopni można utrzymywać przy normalnym oddechu albo z wewnętrznym wstrzymaniem oddechu. Ciałem można też delikatnie kołysać w przód i w tył.',
+    opcje: 'Trzy stopnie, jak kolejne fazy naciągania łuku: 1) Saral Dhanurasana (łatwa pozycja łuku) – chwyć kostki, rozsuń kolana i unieś kolana, głowę oraz klatkę piersiową tylko nieznacznie; 2) Dhanurasana – unieś nogi, głowę i klatkę piersiową tak wysoko, jak to możliwe, i utrzymaj pozycję ze wstrzymanym oddechem; 3) Poorna Dhanurasana (pełna pozycja łuku) – chwyć palce jednej stopy i skręć łokieć na zewnątrz oraz w górę, potem zrób to samo z drugą stopą, utrzymując pozycję tak długo, jak to możliwe przy normalnym oddechu.',
+    wskazowki: [
+      'Połóż się płasko na brzuchu, czoło opiera się o podłogę.',
+      'Zegnij kolana i chwyć obie kostki.',
+      'Rozsuń kolana.',
+      'Z wdechem unieś kolana, głowę i klatkę piersiową, jednocześnie odciągając stopy od dłoni i w górę.',
+      'Całe ciało powinno wchodzić w pozycję jednym płynnym ruchem – ramiona pozostają wyprostowane i pracują jak cięciwa łuku.',
+      'W pełnej wersji unieś nogi, głowę i klatkę piersiową tak wysoko, jak to możliwe, i utrzymaj pozycję końcową.',
+      'Z wydechem powoli opuść ciało i rozluźnij się na podłodze.'
+    ],
+    oddychanie: 'Wdech podczas unoszenia ciała do pozycji końcowej. W pozycji końcowej oddychaj normalnie lub wstrzymaj oddech na wdechu (antar kumbhaka). Wydech podczas powolnego opuszczania ciała.',
+    swiadomosc: 'Fizyczna – na punkcie, w którym plecy najbardziej się wyginają. Duchowa – na czakrze vishuddhi (gardła) z tyłu szyi lub na czakrze manipura (splot słoneczny) w okolicy brzucha.',
     image: 'img/Dhanurasana.png'
   },
   {
@@ -449,16 +612,40 @@ export const asanas = [
   {
     name: 'Makarasana',
     polishName: 'Pozycja krokodyla',
-    przeciwskazania: 'zaawansowana ciąża, pogłębiona lordoza, urazy odcinka szyjnego',
-    korzysci: 'głęboko rozluźnia mięśnie pleców i całe ciało, łagodzi rwę kulszową i napięcie w dolnym odcinku kręgosłupa, uczy oddechu przeponowego, obniża ciśnienie krwi i uspokaja umysł',
-    image: 'img/Makarasana.png'
+    etymologia: 'Makara – krokodyl',
+    przeciwskazania: 'osoby z dolegliwościami pleców nie powinny praktykować tej pozycji, jeśli odczuwają ból; zaawansowana ciąża, pogłębiona lordoza, urazy odcinka szyjnego',
+    korzysci: 'bardzo skuteczna przy wypadnięciu dysku, rwie kulszowej, bólu dolnego odcinka pleców i innych zaburzeniach kręgosłupa – pomaga kręgosłupowi wrócić do naturalnego kształtu i uwalnia ucisk nerwów rdzeniowych, głęboko rozluźnia mięśnie pleców i całe ciało, przy astmie i innych dolegliwościach płuc regularna praktyka ze świadomością oddechu pozwala wpuścić do płuc więcej powietrza, uczy oddechu przeponowego, obniża ciśnienie krwi i uspokaja umysł',
+    uwagi: 'Utrzymuj pozycję tak długo, jak to możliwe. Złączone łokcie pogłębiają wygięcie kręgosłupa, a lekko rozsunięte zmniejszają nacisk na szyję. Efekt odczuwany jest w dwóch punktach – w szyi i w dolnej części pleców: gdy łokcie są zbyt daleko z przodu, napięcie pojawia się w szyi, a gdy są przyciągnięte zbyt blisko klatki piersiowej – w dolnej części pleców. Ustaw łokcie tak, aby oba punkty były równo zrównoważone; idealnie cały kręgosłup jest równomiernie rozluźniony.',
+    wskazowki: [
+      'Połóż się płasko na brzuchu.',
+      'Unieś głowę i barki, opierając brodę w dłoniach, z łokciami na podłodze.',
+      'Ustaw łokcie tak, aby napięcie w szyi i w dolnej części pleców było równo zrównoważone.',
+      'Rozluźnij całe ciało i zamknij oczy.'
+    ],
+    oddychanie: 'Naturalny i rytmiczny.',
+    swiadomosc: 'Fizyczna – na procesie oddychania lub na liczeniu oddechów, ze skupieniem na dolnej części pleców i rozluźnianiu całego ciała. Osoby z dolegliwościami pleców i kręgosłupa mogą z wdechem prowadzić uwagę w górę wzdłuż kręgosłupa – od kości ogonowej do szyi – a z wydechem sprowadzać ją z powrotem, wyobrażając sobie, że oddech przesuwa się w kręgosłupie jak rtęć w szklanej rurce; to szybko aktywuje energie uzdrawiające w tym obszarze. Duchowa – na czakrze manipura (splot słoneczny) lub na czubku nosa przy nasikagra drishti.',
+    image: 'img/Makarasana.png',
   },
   {
     name: 'Matsyasana',
     polishName: 'Pozycja ryby',
-    przeciwskazania: 'wysokie lub niskie ciśnienie krwi, choroby serca, urazy odcinka szyjnego, migreny, bezsenność',
-    korzysci: 'otwiera klatkę piersiową i pogłębia oddech, rozciąga szyję i mięśnie międzyżebrowe, stymuluje tarczycę i przytarczyce, rozluźnia barki, stanowi kontrpozycję dla sarvangasany',
-    image: 'img/Matsyasana.png'
+    etymologia: 'Matsya – ryba. Ułożenie nóg przypomina ogon ryby, a reszta ciała jej tułów i głowę. Pozycja jest też doskonała do unoszenia się na wodzie: ułożenie nóg zmienia środek ciężkości, dzięki czemu głowę można trzymać wyżej nad wodą, co ułatwia oddychanie.',
+    przeciwskazania: 'choroby serca, wrzody trawienne, przepuklina, dolegliwości pleców i poważne choroby, ciąża, wysokie lub niskie ciśnienie krwi, urazy odcinka szyjnego, migreny, bezsenność',
+    korzysci: 'rozciąga jelita i narządy jamy brzusznej – pomocna przy wszelkich dolegliwościach brzucha i zaparciach, łagodzi stany zapalne i krwawienie hemoroidów, bardzo dobra przy astmie i zapaleniu oskrzeli, ponieważ pogłębia oddech, otwiera klatkę piersiową, przemieszcza zastaną krew w plecach, łagodząc bóle pleców i spondylozę szyjną, reguluje pracę tarczycy i stymuluje grasicę, wzmacniając odporność, rozciąga okolicę miednicy i kieruje krążenie do narządów miednicy, co pomaga zapobiegać zaburzeniom układu rozrodczego, stanowi kontrpozycję dla sarvangasany',
+    uwagi: 'Pozycję końcową można utrzymywać do 5 minut, choć dla ogólnego zdrowia wystarczy 1–3 minuty. Bardzo ważne jest, aby opuszczać się do pozycji końcowej i podnosić z niej powoli, z pomocą ramion – ruch musi być kontrolowany i uważny, ponieważ łatwo tu urazić kręgosłup. Idealnymi kontrpozycjami są halasana i sarvangasana, które rozciągają szyję w przeciwnym kierunku. Praktyka sheetkari pranajamy w pozycji końcowej łagodzi ból gardła i zapalenie migdałków.',
+    opcje: 'Wariant 1: jak w technice podstawowej, ale spleć palce obu dłoni, umieść je za głową i oprzyj tył głowy na otwartych dłoniach. Wariant 2 (dla początkujących): usiądź z nogami wyciągniętymi przed ciało, złóż jedną nogę, kładąc stopę na przeciwnym udzie jak w ardha padmasanie, druga noga pozostaje prosta; odchyl się powoli w tył, podpierając się łokciami, i opuść czubek głowy na podłogę, chwytając stopę zgiętej nogi obiema rękami. Wariant 3 (dla początkujących): obie nogi wyciągnięte przed ciało, odchyl się w tył z pomocą ramion, oprzyj czubek głowy na podłodze, wygnij plecy i połóż dłonie na udach lub na podłodze. Zamiast czubka głowy można też oprzeć na podłodze jej tył.',
+    wskazowki: [
+      'Usiądź w padmasanie i rozluźnij całe ciało.',
+      'Ostrożnie odchyl się w tył, podpierając ciało rękami i łokciami.',
+      'Unieś lekko klatkę piersiową, zabierz głowę w tył i opuść czubek głowy na podłogę.',
+      'Chwyć duże palce stóp i oprzyj łokcie na podłodze.',
+      'Ustaw głowę tak, aby uzyskać maksymalne wygięcie pleców.',
+      'Rozluźnij ramiona i całe ciało, pozwalając, by ciężar ciała podtrzymywały głowa, pośladki i nogi. Zamknij oczy i oddychaj powoli i głęboko.',
+      'Wróć do pozycji wyjściowej, odwracając kolejność ruchów, a następnie powtórz pozycję z nogami skrzyżowanymi na drugą stronę.'
+    ],
+    oddychanie: 'Oddychaj głęboko i powoli w pozycji końcowej.',
+    swiadomosc: 'Fizyczna – na brzuchu, klatce piersiowej lub oddechu. Duchowa – na czakrze manipura (splot słoneczny) lub anahata (serca).',
+    image: 'img/Matsyasana.png',
   },
   {
     name: 'Saral Bhujangasana',
@@ -780,9 +967,22 @@ export const asanas = [
   {
     name: 'Jathara Parivartanasana',
     polishName: 'Skręt kręgosłupa w leżeniu',
+    etymologia: 'Jathara – brzuch, żołądek; parivartana – obracanie, przekręcanie',
     przeciwskazania: 'wypadnięty dysk, urazy odcinka lędźwiowego, niedawne operacje jamy brzusznej, ciąża',
-    korzysci: 'masuje narządy jamy brzusznej i poprawia trawienie, wzmacnia mięśnie skośne brzucha, rozluźnia dolny odcinek pleców, uelastycznia kręgosłup, działa relaksująco na układ nerwowy',
-    image: 'img/Jathara Parivartanasana.png'
+    korzysci: 'masuje narządy jamy brzusznej – wątrobę, trzustkę, żołądek i nerki – i poprawia trawienie, wzmacnia i ujędrnia mięśnie skośne oraz mięśnie centralne, rozluźnia dolny odcinek pleców, uelastycznia kręgosłup i biodra, działa kojąco na układ nerwowy, uspokaja umysł, łagodzi stres i niepokój',
+    uwagi: 'Przez cały czas trzymaj oba barki i ramiona na podłodze – skręt ma wychodzić z tułowia, a nie z ich odrywania. Utrzymaj pozycję przez około sześć powolnych, długich oddechów na każdą stronę; z każdym wydechem skręt pogłębia się sam, bez zmiany ustawienia barków, bioder i ramion.',
+    opcje: 'Wersja łatwiejsza: zegnij kolana i opuszczaj je na bok, podpierając udo poduszką lub kocem. Wersja intensywniejsza: nogi wyprostowane, opuszczane w bok na wydechu i unoszone z powrotem siłą mięśni brzucha.',
+    wskazowki: [
+      'Połóż się na plecach, wydłużając nogi i kręgosłup.',
+      'Rozłóż ramiona na boki na wysokości barków, tworząc literę T, dłonie zwrócone do podłogi.',
+      'Zegnij kolana i postaw stopy na podłodze, a następnie unieś je tak, aby podudzia były równoległe do podłogi.',
+      'Z wydechem opuść kolana w prawo, jednocześnie obracając głowę i szyję w lewo.',
+      'Trzymaj oba barki na podłodze i utrzymaj pozycję przez około sześć powolnych oddechów.',
+      'Z wdechem wróć do środka i powtórz po drugiej stronie.'
+    ],
+    oddychanie: 'Wdech w pozycji wyjściowej. Wydech podczas opuszczania nóg w bok. W pozycji końcowej oddychaj powoli i długo – każdy wydech pogłębia skręt. Wdech podczas powrotu do środka.',
+    swiadomosc: 'Fizyczna – na utrzymywaniu barków na podłodze, na skręcie w dolnym odcinku pleców i na powolnym oddechu. Mentalna – na rozluźnianiu i wyciszaniu umysłu wraz z każdym wydechem.',
+    image: 'img/Jathara Parivartanasana.png',
   },
   {
     name: 'Meru Wakrasana',
@@ -825,30 +1025,81 @@ export const asanas = [
   {
     name: 'Parivrtta Ardha Chandrasana',
     polishName: 'Skręcona pozycja półksiężyca',
+    etymologia: 'Parivrtta – obrócony, skręcony; ardha – połowa; chandra – księżyc',
     przeciwskazania: 'urazy kolan, bioder i kręgosłupa, problemy z równowagą, ciąża',
-    korzysci: 'otwiera biodra i klatkę piersiową, rozciąga zginacze bioder i mięśnie czworogłowe, zwiększa ruchomość kręgosłupa, stymuluje trawienie, rozwija równowagę i koncentrację',
-    image: 'img/Parivrtta Ardha Chandrasana.png'
+    korzysci: 'otwiera biodra i klatkę piersiową, rozciąga zginacze bioder i mięśnie czworogłowe, zwiększa ruchomość kręgosłupa w skręcie, masuje narządy jamy brzusznej i stymuluje trawienie, wzmacnia nogi i mięśnie centralne, rozwija równowagę, koncentrację i koordynację',
+    uwagi: 'Wchodź w skręt z wypadu (ashwa sanchalanasana): najpierw wydłuż kręgosłup, a dopiero potem skręcaj. Przednie kolano pozostaje nad kostką i nie ucieka do wewnątrz. Nie używaj ramienia jako dźwigni, aby wymusić większy skręt – pracuj w dostępnym zakresie ruchu. Tylne kolano może spoczywać na podłodze (wersja łagodniejsza) lub być uniesione (wersja mocniejsza, bardziej wymagająca dla równowagi).',
+    opcje: 'Łagodniej: tylne kolano na podłodze, dłonie złożone przed klatką piersiową bez zaczepiania łokcia o udo. Mocniej: tylne kolano uniesione, łokieć zaczepiony na zewnątrz przedniego uda, dłonie mocno złączone.',
+    wskazowki: [
+      'Wejdź w wypad – jedna stopa z przodu, kolano nad kostką, tylne kolano na podłodze lub uniesione.',
+      'Wyprostuj tułów i złóż dłonie przed klatką piersiową w pozycji modlitewnej.',
+      'Z wdechem wydłuż kręgosłup, unosząc mostek.',
+      'Z wydechem skręć tułów w stronę przedniej nogi i oprzyj przeciwny łokieć na zewnątrz przedniego uda.',
+      'Dociskaj dłonie do siebie, otwierając górny bark w tył; spójrz przez górne ramię, jeśli szyja na to pozwala.',
+      'Utrzymaj pozycję kilka oddechów, wróć do środka i powtórz po drugiej stronie.'
+    ],
+    oddychanie: 'Wdech – wydłużenie kręgosłupa. Wydech – pogłębienie skrętu. W pozycji końcowej oddychaj spokojnie: wdechem twórz długość, wydechem delikatnie pogłębiaj rotację. Wydech podczas wychodzenia z pozycji.',
+    swiadomosc: 'Fizyczna – na stabilności nóg, ustawieniu przedniego kolana i na skręcie wychodzącym z klatki piersiowej, a nie z dolnego odcinka pleców. Mentalna – na równowadze i spokojnym oddechu.',
+    image: 'img/Parivrtta Ardha Chandrasana.png',
   },
   {
     name: 'Parivrtta Moordhasana',
     polishName: 'Skręcony skłon z rozstawionymi nogami',
+    etymologia: 'Parivrtta – obrócony, skręcony; moordha (murdha) – czubek głowy, korona. Nazwa wskazuje na skręconą wersję moordhasany – skłonu z szeroko rozstawionymi nogami, w którym czubek głowy kieruje się do podłogi.',
     przeciwskazania: 'wysokie ciśnienie krwi, zawroty głowy, choroby serca, jaskra, urazy pleców i ścięgien podkolanowych',
-    korzysci: 'rozciąga wewnętrzne strony ud i ścięgna podkolanowe, uelastycznia kręgosłup w skręcie, dotlenia mózg, otwiera klatkę piersiową i barki, poprawia równowagę',
-    image: 'img/Parivrtta Moordhasana.png'
+    korzysci: 'rozciąga wewnętrzne strony ud, ścięgna podkolanowe i łydki, wzmacnia nogi oraz mięśnie górnej części ciała i barków, zwiększa ruchomość kręgosłupa w skręcie, aktywizuje narządy jamy brzusznej i wspiera trawienie, dotlenia mózg, otwiera klatkę piersiową i barki, łagodzi napięcie, niepokój i stres, poprawia równowagę',
+    uwagi: 'Ustaw stopy szerzej niż biodra, palce lekko do wewnątrz, pięty nieco na zewnątrz. Dociskaj równomiernie cztery punkty podparcia stóp i aktywnie pracuj nogami, nie blokując kolan. Najpierw zrób skłon z długim kręgosłupem, a dopiero z tej podstawy skręcaj – jeśli dłoń nie sięga podłogi, oprzyj się na czubkach palców lub na klocku.',
+    wskazowki: [
+      'Stań prosto, a następnie rozstaw stopy szerzej niż biodra, kierując palce lekko do wewnątrz.',
+      'Dociśnij stopy do podłogi i aktywuj mięśnie nóg; ustaw miednicę neutralnie.',
+      'Połóż dłonie na biodrach i zegnij się w biodrach do przodu, utrzymując długi kręgosłup.',
+      'Oprzyj jedną dłoń na podłodze mniej więcej w linii środka, nadgarstek pod barkiem (w razie potrzeby użyj klocka).',
+      'Z wydechem skręć tułów i wyciągnij drugie ramię ku górze, otwierając klatkę piersiową.',
+      'Spójrz w górę na uniesioną dłoń, jeśli szyja na to pozwala.',
+      'Wróć powoli do środka i powtórz skręt w drugą stronę.'
+    ],
+    oddychanie: 'Wdech – wydłużenie kręgosłupa w skłonie. Wydech – skręt tułowia i uniesienie ramienia. W pozycji końcowej oddychaj spokojnie i równomiernie. Wdech podczas powrotu do środka.',
+    swiadomosc: 'Fizyczna – na równomiernym obciążeniu stóp, na wydłużeniu kręgosłupa i na otwieraniu klatki piersiowej w skręcie. Mentalna – na spokojnym oddechu i uwalnianiu napięcia.',
+    image: 'img/Parivrtta Moordhasana.png',
   },
   {
     name: 'Parivrtta Trikonasana',
     polishName: 'Skręcona pozycja trójkąta',
+    etymologia: 'Parivrtta – obrócony, skręcony; tri – trzy; kona – kąt',
     przeciwskazania: 'wypadnięty dysk, urazy pleców i bioder, niskie ciśnienie krwi, migreny, biegunka, ciąża',
     korzysci: 'rozciąga ścięgna podkolanowe i biodra, tonizuje nerwy rdzeniowe, masuje narządy jamy brzusznej i poprawia trawienie, otwiera klatkę piersiową, rozwija równowagę i koordynację',
-    image: 'img/Parivrtta Trikonasana.png'
+    uwagi: 'Klasyfikacja: asymetryczna pozycja stojąca ze skrętem. Skręt kręgosłupa wymaga tu bardzo długich mięśni zewnętrznej strony bioder, a ponieważ podstawa jest wąska, te same mięśnie muszą intensywnie modulować swoją pracę, aby nie dopuścić do upadku na boki; ta ekscentryczna praca – wydłużanie się przy jednoczesnej stabilizacji – sprawia, że pozycja bywa odczuwana jako bardzo niestabilna. Jeśli nogi i miednica nie mają dość ruchomości, aby zgiąć się i zrotować tak, jak potrzeba, kręgosłup kompensuje to zgięciem; skręcanie kręgosłupa w zgięciu naraża stawy jego tylnej strony na nadmierną ruchomość. Szanuj dostępny zakres ruchu kręgosłupa i nie używaj nacisku dłoni o podłogę ani o nogę, aby wymusić większy skręt.',
+    wskazowki: [
+      'Przednia noga: zegnij biodro, wyprostuj kolano, staw skokowy w lekkim zgięciu podeszwowym.',
+      'Tylna noga: lekkie zgięcie biodra, wyprostowane kolano, staw skokowy w zgięciu grzbietowym; pięta supinuje, a przodostopie pronuje.',
+      'Wyrównaj i wyśrodkuj miednicę nad stopami – mięśnie pośladkowe średni i mały utrzymują równowagę na boki.',
+      'Utrzymaj neutralne ustawienie kręgosłupa i skręć go osiowo w stronę przedniej nogi, nie pozwalając mu zgiąć się w przód.',
+      'Odwiedź łopatki, odwiedź i rotuj zewnętrznie stawy barkowe, ramiona ustaw w jednej linii.',
+      'Pracuj w dostępnym zakresie skrętu – nie dociskaj dłonią, aby pogłębić rotację.'
+    ],
+    oddychanie: 'Im bardziej otwarte są struktury miednicy, tym łatwiejsze są tu równowaga i oddech. W przeciwnym razie górna część ciała jest trzymana sztywno w skręcie, przeciw oporowi dolnej części ciała, a przepona, brzuch i klatka piersiowa napotykają znaczny opór dla swoich ruchów.',
+    image: 'img/Parivrtta Trikonasana.png',
   },
   {
     name: 'Parivrtta Utkatasana',
     polishName: 'Skręcona pozycja krzesła',
+    etymologia: 'Parivrtta – obrócony, skręcony; utkata – potężny, niewygodny',
     przeciwskazania: 'urazy kolan i kręgosłupa, wypadnięty dysk, ciąża, migreny, bezsenność, niskie ciśnienie krwi',
-    korzysci: 'poprawia ruchomość kręgosłupa piersiowego, masuje narządy trawienne i wspomaga detoksykację, wzmacnia uda i kostki, otwiera klatkę piersiową, poprawia równowagę',
-    image: 'img/Parivrtta Utkatasana.png'
+    korzysci: 'zwiększa ruchomość kręgosłupa piersiowego oraz zakres ruchu barków i górnej części pleców, masuje narządy trawienne i wspomaga oczyszczanie organizmu, wzmacnia stopy, kostki, uda i mięśnie centralne, poprawiając równowagę i stabilność, otwiera klatkę piersiową, bywa polecana przy bólach dolnego odcinka pleców, a skręt połączony ze skłonem bywa też zalecany osobom z cukrzycą jako wsparcie regulacji poziomu cukru',
+    uwagi: 'Trzymaj ciężar ciała w piętach – przeniesienie go na przodostopie zbytnio obciąża kolana i szybko męczy. Pilnuj, aby kolana pozostały na równi (w skręcie jedno kolano chętnie wysuwa się do przodu). Zachowaj lekkie wygięcie w odcinku lędźwiowym, kierując guzy kulszowe w tył i unosząc mostek, a górny bark rotuj w górę i w tył – łatwiej wtedy ściągnąć łopatki i otworzyć klatkę piersiową.',
+    opcje: 'Wersja łatwiejsza: zamiast zaczepiać łokieć o udo, połóż jedną dłoń na kolanie lub na biodrze i skręcaj tylko tyle, ile pozwala kręgosłup. Wersja mocniejsza: łokieć zaczepiony na zewnątrz przeciwnego uda, dłonie mocno złączone przed klatką piersiową.',
+    wskazowki: [
+      'Stań w tadasanie ze stopami razem, mocno ugruntowanymi, z aktywnymi nogami.',
+      'Z wdechem odprowadź barki w tył i złóż dłonie przed klatką piersiową.',
+      'Z wydechem zegnij kolana, jakbyś siadał na krzesło; kolana pozostają w linii palców stóp, a ciężar w piętach.',
+      'Z wdechem wydłuż kręgosłup, unosząc mostek.',
+      'Z wydechem skręć tułów w jedną stronę i oprzyj przeciwny łokieć na zewnątrz uda.',
+      'Wyrównaj kolana, dociśnij dłonie do siebie i rotuj górny bark w górę i w tył.',
+      'Utrzymaj pozycję kilka oddechów, wróć do środka i powtórz w drugą stronę.'
+    ],
+    oddychanie: 'Wdech – wydłużenie kręgosłupa. Wydech – pogłębienie skrętu. W pozycji końcowej każdy wdech tworzy długość, a każdy wydech pozwala osiąść głębiej w skręcie. Wdech podczas powrotu do środka.',
+    swiadomosc: 'Fizyczna – na ciężarze w piętach, na równym ustawieniu kolan i na skręcie wychodzącym z odcinka piersiowego. Mentalna – na spokojnym oddechu mimo wysiłku nóg.',
+    image: 'img/Parivrtta Utkatasana.png',
   },
 
   /* POZYCJE MEDYTACYJNE */
