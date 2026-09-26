@@ -59,7 +59,7 @@ export class Cards extends LitElement {
 
     .clear {
       position: absolute;
-      top: 50%;
+      top: 32%;
       right: 8px;
       transform: translateY(-50%);
       width: 28px;
