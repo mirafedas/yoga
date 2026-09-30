@@ -966,7 +966,7 @@ export const asanas = [
   },
   {
     name: 'Jathara Parivartanasana',
-    polishName: 'Skręt kręgosłupa w leżeniu',
+    polishName: 'Skręt kręgosłupa / brzucha w leżeniu',
     etymologia: 'Jathara – brzuch, żołądek; parivartana – obracanie, przekręcanie',
     przeciwskazania: 'wypadnięty dysk, urazy odcinka lędźwiowego, niedawne operacje jamy brzusznej, ciąża',
     korzysci: 'masuje narządy jamy brzusznej – wątrobę, trzustkę, żołądek i nerki – i poprawia trawienie, wzmacnia i ujędrnia mięśnie skośne oraz mięśnie centralne, rozluźnia dolny odcinek pleców, uelastycznia kręgosłup i biodra, działa kojąco na układ nerwowy, uspokaja umysł, łagodzi stres i niepokój',
