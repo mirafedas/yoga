@@ -164,7 +164,7 @@ export const asanas = [
   },
   {
     name: 'Parsvottanasana',
-    polishName: 'Intensywne rozciąganie boku (skłon nad wyprostowaną nogą)',
+    polishName: 'Pozycja piramidy (skłon nad wyprostowaną nogą)',
     etymologia: 'Parsva – bok, flanka; ut – intensywny; tan – rozciągać',
     przeciwskazania: 'urazy pleców, bioder i nadgarstków, wysokie ciśnienie krwi, problemy z równowagą',
     korzysci: 'rozciąga kręgosłup, barki, nadgarstki, biodra i ścięgna podkolanowe, wzmacnia nogi, koryguje postawę, stymuluje trawienie, uspokaja umysł',
@@ -1549,7 +1549,7 @@ export const asanas = [
   },
   {
     name: 'Navasana',
-    polishName: 'Pozycja łodzi',
+    polishName: 'Pozycja łodzi / okrętu',
     przeciwskazania: 'problemy z dolnym odcinkiem kręgosłupa, przepuklina, ciąża, menstruacja, niskie ciśnienie krwi, choroby serca',
     korzysci: 'wzmacnia mięśnie brzucha, zginacze bioder i mięśnie pleców, stymuluje narządy trawienne, nerki i tarczycę, poprawia równowagę i koncentrację',
     image: 'img/Navasana.png'
