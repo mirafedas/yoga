@@ -23,6 +23,12 @@ A comprehensive web application showcasing yoga asanas (poses) with detailed inf
 - **Pozycje równowagi** (Balance poses)
 - **Pozycje odwrócone** (Inverted poses)
 
+## 🔗 URL Parameters
+
+- `?train=on` displays 10 randomly selected asanas instead of the full list.
+- `?learn=on` displays the learning asana list. Combine it with `train=on`
+  (`?learn=on&train=on`) to display 10 random asanas from that list.
+
 ## 🚀 Getting Started
 
 ### Install Dependencies
@@ -146,4 +152,3 @@ The built files will be in the `dist/` directory.
 ## 📄 License
 
 ISC
-

@@ -1,7 +1,29 @@
 import { LitElement, html, css } from 'lit';
 import { repeat } from 'lit/directives/repeat.js';
 import './card.js';
-import { asanas } from '../data/asanas.js';
+import { asanas as allAsanas } from '../data/asanas.js';
+import { asanas as learningAsanas } from '../data/asanas-to-learn.js';
+
+const searchParams = new URLSearchParams(window.location.search);
+const asanas = searchParams.get('learn') === 'on'
+  ? learningAsanas
+  : allAsanas;
+
+const visibleAsanas = searchParams.get('train') === 'on'
+  ? getRandomAsanas(asanas, 10)
+  : asanas;
+
+function getRandomAsanas(items, count) {
+  const shuffled = [...items];
+  const selectionCount = Math.min(count, shuffled.length);
+
+  for (let i = 0; i < selectionCount; i++) {
+    const randomIndex = i + Math.floor(Math.random() * (shuffled.length - i));
+    [shuffled[i], shuffled[randomIndex]] = [shuffled[randomIndex], shuffled[i]];
+  }
+
+  return shuffled.slice(0, selectionCount);
+}
 
 // ł nie rozkłada się przez NFD, więc podmieniamy je osobno
 const normalize = (s) =>
@@ -118,7 +140,7 @@ export class Cards extends LitElement {
 
   constructor() {
     super();
-    this.asanas = asanas;
+    this.asanas = visibleAsanas;
     this.query = '';
   }
 
