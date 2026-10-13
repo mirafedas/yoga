@@ -817,6 +817,23 @@ export const asanas = [
 
   /* POZYCJE RELAKSACYJNE */
   {
+    name: 'Advasana',
+    polishName: 'Odwrócona pozycja trupa',
+    etymologia: 'Adho – w dół; asana – pozycja',
+    przeciwskazania: 'zaawansowana ciąża, trudności z oddychaniem w pozycji na brzuchu, urazy odcinka szyjnego',
+    korzysci: 'głęboko rozluźnia całe ciało, polecana przy dolegliwościach kręgosłupa, sztywnym karku i pochylonej sylwetce, pomaga uspokoić oddech i umysł, dobra pozycja odpoczynku po asanach wykonywanych na brzuchu',
+    wskazowki: [
+      'Połóż się na brzuchu z nogami wyprostowanymi i złączonymi (lub lekko rozsuniętymi).',
+      'Wyciągnij obie ręce nad głowę, dłońmi w dół, ramiona proste.',
+      'Oprzyj czoło na podłodze.',
+      'Rozluźnij całe ciało i zamknij oczy.'
+    ],
+    opcje: 'Jeśli oddech jest utrudniony lub pojawia się uczucie duszności, połóż pod klatką piersiową poduszkę. Przy dyskomforcie w barkach możesz ugiąć łokcie i oprzeć czoło na dłoniach.',
+    oddychanie: 'Naturalny i rytmiczny.',
+    swiadomosc: 'Fizyczna – na oddechu, licząc oddechy, i na rozluźnianiu całego ciała. Duchowa – na czakrze manipura.',
+    image: 'img/Advasana.png'
+  },
+  {
     name: 'Ardha Shalabhasana',
     polishName: 'Pozycja pół szarańczy (świerszcza)',
     przeciwskazania: 'nie podano szczegółowych',
@@ -1537,6 +1554,26 @@ export const asanas = [
     ],
     oddychanie: 'Wdech po chwyceniu dużego palca u nogi. Wydech podczas prostowania uniesionej nogi, a następnie wdech. Wydech podczas podciągania nogi wyżej. Oddychaj głęboko w pozycji końcowej. Wydech podczas opuszczania nogi.',
     image: 'img/Utthita Hasta Padangusthasana.png'
+  },
+  {
+    name: 'Vasisthasana',
+    polishName: 'Pozycja deski bocznej',
+    etymologia: 'Vasistha – imię jednego z siedmiu wielkich mędrców (riszi), oznacza też „najdoskonalszy, najbogatszy”',
+    przeciwskazania: 'urazy nadgarstków, łokci i barków, zespół cieśni nadgarstka, wysokie ciśnienie krwi, choroby serca',
+    korzysci: 'wzmacnia ramiona, nadgarstki, barki i mięśnie brzucha (zwłaszcza skośne), wzmacnia nogi i pośladki, rozwija równowagę, koordynację i koncentrację',
+    wskazowki: [
+      'Wejdź do pozycji deski (santolanasana) z dłońmi pod barkami.',
+      'Przenieś ciężar ciała na prawą dłoń i obróć się na zewnętrzną krawędź prawej stopy.',
+      'Połóż lewą stopę na prawej i unieś lewą rękę pionowo w górę, tak aby ramiona tworzyły jedną linię.',
+      'Utrzymuj ciało w jednej linii od głowy do stóp – nie pozwól biodrom opaść; dociskaj dłoń do podłogi i odsuwaj bark od ucha.',
+      'Skieruj wzrok na uniesioną dłoń lub przed siebie.',
+      'Utrzymaj pozycję końcową tak długo, jak jest to wygodne.',
+      'Wróć do deski, opuść kolana i powtórz po drugiej stronie.'
+    ],
+    opcje: 'Łatwiejsza wersja: dolne kolano oparte na podłodze lub stopy ustawione jedna przed drugą.',
+    oddychanie: 'Wdech podczas unoszenia ręki. W pozycji końcowej oddychaj normalnie. Wydech podczas powrotu do deski.',
+    swiadomosc: 'Fizyczna – na sile ramion, mięśni brzucha i nóg oraz na utrzymaniu równowagi. Duchowa – na czakrze manipura.',
+    image: 'img/Vasisthasana.png'
   },
 
   /* AKTYWACJA TUŁOWIA */
