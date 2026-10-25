@@ -44,6 +44,21 @@ export class Cards extends LitElement {
       padding: 20px;
     }
 
+    .nav {
+      text-align: center;
+      margin-bottom: 16px;
+    }
+
+    .nav a {
+      color: #ff9800;
+      font-size: 14px;
+      text-decoration: none;
+    }
+
+    .nav a:hover {
+      text-decoration: underline;
+    }
+
     .search {
       position: relative;
       max-width: 500px;
@@ -167,6 +182,10 @@ export class Cards extends LitElement {
     const filtered = this.filteredAsanas;
 
     return html`
+      <nav class="nav">
+        <a href="${import.meta.env.BASE_URL}sequencing.html">Reguły sekwencjonowania →</a>
+      </nav>
+
       <div class="search">
         <input
           type="search"

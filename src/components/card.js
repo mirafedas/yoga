@@ -220,6 +220,7 @@ export class Card extends LitElement {
     .benefits h3 { color: #2f7d55; }
     .cautions h3 { color: #c62828; }
     .steps h3 { color: #b35c00; }
+    .notes h3 { color: #6a4c93; }
 
     .dialog-body p {
       margin: 0;
@@ -229,7 +230,8 @@ export class Card extends LitElement {
       line-height: 1.55;
     }
 
-    ol {
+    ol,
+    ul {
       margin: 0;
       padding-left: 22px;
       color: #3d3d3d;
@@ -325,6 +327,14 @@ export class Card extends LitElement {
                 <ol>
                   ${this.asana.wskazowki.map((step) => html`<li>${step}</li>`)}
                 </ol>
+              </section>
+            ` : ''}
+            ${this.asana.notatki ? html`
+              <section class="notes">
+                <h3>✎ Notatki</h3>
+                <ul>
+                  ${this.asana.notatki.map((note) => html`<li>${note}</li>`)}
+                </ul>
               </section>
             ` : ''}
           </div>

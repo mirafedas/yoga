@@ -18,6 +18,24 @@ export const asanas = [
       'Kręgosłup i miednica pozostają neutralne; rozluźnij głowę i szyję.'
     ],
     oddychanie: 'Z perspektywy oddechu to pozycja odwrócona. Ponieważ pozycje odwrócone naturalnie przesuwają przeponę w stronę głowy, wydechowa praca mięśni brzucha może być tu bardzo głęboka. Jeśli utrzymasz pracę dolnej części brzucha na początku wdechu (mula bandha), struktury klatki piersiowej zostaną zachęcone do ruchu, co w pozycji z podporem na rękach jest niemałym wyzwaniem.',
+    sekwencjonowanie: {
+      otwarcie: 'łydki, zginacze kolan, prostowniki bioder, zginacze łokci, prostowniki barków, retraktory łopatek',
+      asanyOtwierajace: 'Ardha Uttanasana, Bidalasana, Uttanasana, Anahatasana; dla ramion i barków odpowiednie ułożenia rąk z: Urdhva Hastasany, Gomukhasany, Garudasany',
+      stabilizacja: 'mięśnie własne stóp, rotatory wewnętrzne nóg, zginacze i przywodziciele bioder, prostowniki grzbietu, mięsień poprzeczny brzucha, stabilizatory barków (szczególnie protraktory, zginacze i prostowniki), rotatory zewnętrzne ramion, prostowniki łokci, zginacze nadgarstków',
+      asanyStabilizujace: 'Anjaneyasana, Bidalasana, Phalakasana, Shishulasana, Tadasana, Uttanasana. Modyfikacja: dłonie na ścianie na wysokości bioder, biodra zgięte pod kątem prostym, tułów neutralny, ramiona w pełni wyprostowane',
+      przygotowujeDo: 'pozycja ogólnorozwojowa; dobre przygotowanie do pozycji stojących, balansów na rękach i pełnych pozycji odwróconych, w tym Bakasany, Adho Mukha Vrksasany, Salamba Sirsasany I i II; Uttanasana',
+      kontrpozycje: 'Balasana, Apanasana, Supta Parivartanasana, Viparita Karani, Savasana',
+    },
+    notatki: [
+      'Wejście z deski albo z Marjariasany – w tym drugim przypadku dłonie przesuń o długość dłoni do przodu.',
+      'Priorytetem jest prosty kręgosłup, dlatego można ugiąć nogi.',
+      'Uniwersalna pozycja neutralizująca: neutralizuje większość pracy nóg, bioder i kręgosłupa, rozluźnia dolne plecy, np. po Virabhadrasanie II.',
+      'Po wygięciach w tył wykonywanych na stojąco – z akcentem na wydłużanie pleców (bez wygięcia).',
+      'Dobra pozycja przejściowa między głębokimi wygięciami a głębokimi skrętami.',
+      'Przygotowanie do inwersji: z zewnętrzną rotacją barków i osadzeniem łopatek na żebrach (praca mięśnia zębatego przedniego).',
+      'Przygotowanie do balansów na rękach – jeśli uczeń nie wytrzyma 2 minut w psie, barki nie są jeszcze gotowe na balanse.',
+      'Wariant Eka Pada: nogę można ugiąć w kolanie i przenieść na przeciwną stronę (otwieranie bioder).',
+    ],
     image: 'img/Adho Mukha Svanasana.png',
   },
   {
@@ -54,6 +72,21 @@ export const asanas = [
     ],
     oddychanie: 'Wdech podczas unoszenia tułowia i ramion. Oddychaj spokojnie i głęboko w pozycji końcowej, pozwalając, by wdech wydłużał kręgosłup, a wydech pogłębiał wypad. Wydech podczas wychodzenia z pozycji.',
     swiadomosc: 'Fizyczna – na stabilności tylnej nogi, ustawieniu przedniego kolana nad kostką i na wydłużaniu przodu ciała. Mentalna – na spokojnym, równym oddechu i na utrzymaniu uwagi w pozycji.',
+    sekwencjonowanie: {
+      otwarcie: 'tylna noga: łydka, zginacze kolana, zginacze biodra; przednia noga: prostowniki biodra; mięśnie brzucha, mięśnie unoszące barki, prostowniki barków, protraktory łopatek',
+      asanyOtwierajace: 'Adho Mukha Svanasana, Anjaneyasana, Bidalasana, Utkatasana, Uttana Prasithasana',
+      stabilizacja: 'mięśnie własne stóp; przednia noga: stabilizatory biodra (szczególnie prostowniki i przywodziciele), zginacze kolana; tylna noga: zginacze grzbietowe stopy, zginacze biodra, prostowniki kolana; prostowniki grzbietu, mięsień poprzeczny brzucha, retraktory i protraktory łopatek, rotatory zewnętrzne ramion, prostowniki łokci',
+      asanyStabilizujace: 'Adho/Urdhva Mukha Svanasana, Anjaneyasana, Bidalasana, Bhujangasana, Garudasana, Prasarita Padottanasana, Tadasana, Urdhva Hastasana, Utkatasana, Uttanasana, Utthita Trikonasana, Virabhadrasana II',
+      przygotowujeDo: 'Virabhadrasana I i III, Parivrtta Ashta Chandrasana, Parivrtta Parsvakonasana; przejście do Virabhadrasany III, Parivrtta Ardha Chandrasany, Adho Mukha Vrksasany i Parsvakonasany',
+      kontrpozycje: 'Balasana, sekwencja vinyasy, Adho Mukha Svanasana',
+    },
+    notatki: [
+      'Przygotowanie do wygięć w tył: pogłębiaj pozycję, rozciągając tylną nogę, dociskaj tylną piętę do wyobrażonej ściany z tyłu; można delikatnie wygiąć się do tyłu.',
+      'Przykład pozycji szczytowej: Virabhadrasana II > Parsvakonasana > Trikonasana > Ashta Chandrasana.',
+      'Planując ją jako szczyt, przygotuj wcześniej: ugruntowanie stóp, mobilizację bioder, aktywację obręczy barkowej i core.',
+      'Ręce można spleść w koszyczek z tyłu – zewnętrzna rotacja ramion przygotowuje do wygięć.',
+      'Aktywuje zginacze bioder – przygotowuje do inwersji; dobra jako rozgrzewka przed otwieraniem bioder.',
+    ],
     image: 'img/Ashta Chandrasana.png',
   },
   {
@@ -105,6 +138,15 @@ export const asanas = [
       'Utrzymuj napięty tułów, ściskając kość ogonową w dół.',
       'Trzymając tę postawę, wdychaj, aby unieść się wyżej, i wydychaj, aby sięgnąć dalej w tył. Cofaj się bez odczuwania bólu w dolnej części pleców.'
     ],
+    sekwencjonowanie: {
+      odpowiednik: 'Urdhva Hastasana',
+      otwarcie: 'mięśnie brzucha, zginacze łokci, prostowniki bioder, prostowniki barków i mięśnie unoszące barki, klatka piersiowa',
+      asanyOtwierajace: 'Tadasana; sama w sobie jest przygotowaniem do wszystkich pozycji wymagających zgięcia w stawach barkowych i rotacji zewnętrznej ramion',
+      stabilizacja: 'mięśnie własne stóp, prostowniki kolan, synergiści bioder, mięsień poprzeczny brzucha, prostowniki grzbietu, mięśnie obniżające barki i protraktory łopatek, rotatory zewnętrzne ramion, prostowniki łokci',
+      asanyStabilizujace: 'sama w sobie jest przygotowaniem do praktyki wymagającej zgięcia w barkach, rotacji zewnętrznej ramion i wyprostu łokci; Adho Mukha Svanasana, Shishulasana',
+      przygotowujeDo: 'skłon w jedną, potem w drugą stronę; stojące wygięcie do tyłu z dłońmi na dolnej części pleców; wszystkie rodzaje Surya Namaskara',
+      kontrpozycje: 'Tadasana, Uttanasana, Balasana',
+    },
     image: 'img/Hasta Utthanasana.png'
   },
   {
@@ -125,6 +167,9 @@ export const asanas = [
     ],
     oddychanie: 'Wdychaj, unosząc ramiona. Wydychaj, skręcając na bok. Wdychaj, wracając do środka. Wydychaj, uwalniając postawę.',
     swiadomosc: 'Na rozciąganiu mięśni brzucha i kręgosłupa oraz na oddechu zsynchronizowanym z ruchem.',
+    notatki: [
+      'W rozgrzewce – mobilizacja kręgosłupa.',
+    ],
     image: 'img/Kati Chakrasana.png'
   },
   {
@@ -160,6 +205,20 @@ export const asanas = [
       'Obróć głowę w stronę górnego ramienia.'
     ],
     oddychanie: 'Choć górna strona mechanizmu oddechowego jest tu mocno wydłużona, ciekawszy efekt zachodzi po stronie dolnej, gdzie kopuła przepony jest wypychana w stronę głowy przez grawitację działającą na narządy jamy brzusznej. Oddech w tej pozycji daje bardzo użyteczną, asymetryczną stymulację przepony i wszystkich przyczepiających się do niej narządów.',
+    sekwencjonowanie: {
+      odpowiednik: 'Utthita Parsvakonasana',
+      otwarcie: 'przednia noga: prostowniki i przywodziciele biodra, rotatory wewnętrzne nogi; tylna noga: zginacze kolana i biodra; łokieć ręki podporowej: zginacze; łokieć ręki uniesionej: zginacze, prostowniki barku; mięśnie brzucha, klatka piersiowa, mięśnie unoszące barki',
+      asanyOtwierajace: 'Malasana, Supta Padangusthasana, Tadasana, Urdhva Hastasana, Utthita Trikonasana, Vrksasana',
+      stabilizacja: 'mięśnie własne stóp; przednia noga: stabilizatory biodra (szczególnie zginacze i przywodziciele), rotatory zewnętrzne nogi, zginacze kolana; tylna noga: prostowniki biodra i kolana; prostowniki grzbietu, mięsień poprzeczny brzucha, mięśnie skośne, retraktory i protraktory łopatek; górna ręka: rotatory zewnętrzne; dolna ręka: synergiści nadgarstka; prostowniki łokci, szyja',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Anjaneyasana, Ardha Uttanasana, Ashta Chandrasana, Parsvottanasana, Prasarita Padottanasana B, Salabhasana B, Virabhadrasana I i II',
+      przygotowujeDo: 'owinięcie górnej ręki za plecami i dolnej pod przednią nogą ze złapaniem nadgarstka (wersja związana); przejście do Eka Pada Koundinyasany A lub Svarga Dvijasany',
+      kontrpozycje: 'sekwencja vinyasy, Urdhva Mukha Svanasana, Adho Mukha Svanasana, Prasarita Padottanasana C, Apanasana, Balasana',
+    },
+    notatki: [
+      'Przykład pozycji szczytowej – z rotacją i mocną pracą core.',
+      'Przejście z Trikonasany przez zmniejszenie rozstawu stóp i przesunięcie ciężaru.',
+      'Intensywna pozycja stojąca – neutralizuj Adho Mukha Svanasaną, Uttanasaną, Moordhasaną lub Tadasaną.',
+    ],
     image: 'img/Parsvakonasana.png',
   },
   {
@@ -176,6 +235,20 @@ export const asanas = [
       'Zegnij się w przednim biodrze, prowadząc tułów nad przednią nogą; kręgosłup zgina się tylko nieznacznie.',
       'Utrzymuj wyprost kolan oraz sklepienia stóp, nie blokując zgięcia grzbietowego stawów skokowych.',
       'Pozwól głowie opaść swobodnie w dół i zauważ, jak zmienia się twoja równowaga bez pomocy wzroku.'
+    ],
+    sekwencjonowanie: {
+      otwarcie: 'zginacze kolan, prostowniki bioder, rotatory wewnętrzne nóg, prostowniki grzbietu, klatka piersiowa, rotatory zewnętrzne ramion, zginacze barków i mięśnie unoszące barki, zginacze nadgarstków',
+      asanyOtwierajace: 'Adho Mukha Svanasana, Ardha Uttanasana, Gomukhasana, Prasarita Padottanasana, Uttanasana, Utthita Trikonasana',
+      stabilizacja: 'mięśnie własne stóp; przednia noga: stabilizatory biodra (szczególnie zginacze i przywodziciele), prostowniki kolana; tylna noga: prostowniki biodra i kolana; prostowniki grzbietu, mięśnie brzucha, mięśnie skośne, retraktory i protraktory łopatek, rotatory wewnętrzne ramion, zginacze łokci',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Ardha Uttanasana, Ashta Chandrasana, Parivrtta Ardha Chandrasana, Parivrtta Parsvakonasana, Paschimottanasana, Prasarita Padottanasana C, Supta Padangusthasana',
+      przygotowujeDo: 'przejście do Parivrtta Trikonasany; pozycje przygotowawcze do Hanumanasany, Virabhadrasana I i III',
+      kontrpozycje: 'Tadasana, Balasana, Apanasana, Supta Baddha Konasana, Supta Padangusthasana',
+    },
+    notatki: [
+      'Biodra skręcone do wewnątrz (rotacja wewnętrzna).',
+      'Przygotowanie do balansów na rękach: ręce w koszyczku jak w Moordhasanie lub w namaste za plecami.',
+      'Klucz: równowaga między pokorą a stabilnością. Czakra: Manipura, Muladhara.',
+      'Działanie: wzmacnia nogi, rozciąga biodra i plecy, poprawia koncentrację i trawienie.',
     ],
     image: 'img/Parsvottanasana.png',
   },
@@ -219,6 +292,11 @@ export const asanas = [
     ],
     oddychanie: 'Wdech w pozycji wyjściowej i podczas skrętu. Wydech podczas skłonu. Wstrzymanie oddechu na wydechu podczas utrzymywania pozycji. Wdech podczas podnoszenia tułowia i powrotu do środka.',
     swiadomosc: 'Fizyczna – na synchronizacji oddechu z ruchem. Duchowa – na czakrze manipura (splot słoneczny).',
+    notatki: [
+      'W pracy z barkami: jedna noga ugięta!',
+      'Klucz: głębokie skupienie i kontrola energii. Czakra: Ajna, Manipura.',
+      'Działanie: pogłębia elastyczność kręgosłupa, wzmacnia równowagę, wycisza myśli.',
+    ],
     image: 'img/Sirsha Angustha Yogasana.png',
   },
   {
@@ -238,6 +316,28 @@ export const asanas = [
       'Wyciągając ręce wzdłuż tułowia, odciągnij barki od uszu.',
       'Wydłużając kręgosłup, „pchnij” czubek głowy w stronę sufitu.',
       'Odczuwając i poprawiając nogi czy inne części ciała, nadal utrzymuj świadomość w stopach – miej przez to kontakt z ziemią, to stabilizuje umysł.'
+    ],
+    sekwencjonowanie: {
+      otwarcie: 'mięśnie unoszące barki',
+      asanyOtwierajace: 'Savasana, Bidalasana',
+      stabilizacja: 'mięśnie własne stóp, prostowniki kolan, synergiści bioder, mięsień poprzeczny brzucha, prostowniki grzbietu, mięśnie obniżające barki, rotatory zewnętrzne ramion, szyja',
+      asanyStabilizujace: 'sama w sobie jest pozycją przygotowawczą do każdej praktyki',
+      przygotowujeDo: 'Vrksasana i inne pozycje stojące, Utkatasana',
+      kontrpozycje: 'Uttanasana, Ardha Uttanasana, Adho Mukha Svanasana, Balasana',
+    },
+    notatki: [
+      'Sekwencję najlepiej zaczynać od asan stojących, a te – od dobrze zbudowanej Tadasany.',
+      'Stopy razem; przy trudnościach z równowagą można je lekko rozstawić.',
+      'Ciężar ciała rozłożony równomiernie – można delikatnie pochylić się do przodu, do tyłu i na boki, aby znaleźć środek.',
+      'Unieś palce stóp, rozszerz je i połóż ponownie na podłożu; stawy skokowe aktywne.',
+      'Kolano wskazuje mniej więcej na środkowy palec stopy; podciągnij rzepki, uważaj na przeprost w kolanach, aktywuj uda.',
+      'Miednica neutralna – bez nadmiernego przodo- ani tyłopochylenia; dzięki temu oddech przeponowy płynie swobodnie.',
+      'Głowa jest przedłużeniem kręgosłupa; barki delikatnie rotują na zewnątrz, otwierając klatkę piersiową.',
+      'Ramiona aktywne, palce dłoni razem, skierowane do ziemi. Ciało aktywne, ale nie napięte.',
+      'Zwróć uwagę na mięśnie twarzy uczniów – czy nie są zbyt napięte?',
+      'Uniwersalna pozycja neutralizująca: przywraca równowagę, pion i poczucie osi – można ją wplatać między segmentami sekwencji.',
+      'Symetria: pełny blok asan na jedną stronę, wyrównanie w Tadasanie, potem druga strona (tradycja Bihar).',
+      'Wariant neuromotoryczny aktywacji tułowia: unoszenie pięt i rąk jednocześnie, także z zamkniętymi oczami.',
     ],
     image: 'img/Tadasana.png'
   },
@@ -295,6 +395,20 @@ export const asanas = [
     ],
     oddychanie: 'Wdychaj podczas unoszenia ramion. Wydychaj podczas zginania. Wstrzymaj oddech na kilka sekund w pozycji końcowej. Wdychaj podczas unoszenia ciała do pozycji pionowej.',
     swiadomosc: 'Na rozciąganiu boków tułowia, nóg i ramion, na utrzymywaniu równowagi i na koordynowaniu ruchu z oddechem.',
+    sekwencjonowanie: {
+      odpowiednik: 'Utthita Trikonasana',
+      otwarcie: 'przednia noga: przywodziciele i prostowniki biodra, rotatory wewnętrzne nogi, zginacze kolana; tylna noga: zginacze biodra i kolana; mięśnie skośne, klatka piersiowa, mięśnie unoszące barki i retraktory łopatek, szyja',
+      asanyOtwierajace: 'Adho Mukha Svanasana, Supta Padangusthasana, Tadasana, Virabhadrasana II, Vrksasana',
+      stabilizacja: 'mięśnie własne stóp; przednia noga: stabilizatory biodra (szczególnie zginacze i przywodziciele), rotatory zewnętrzne nogi; tylna noga: prostowniki biodra; prostowniki kolan, prostowniki grzbietu, mięsień poprzeczny brzucha, mięśnie skośne, odwodziciele barków, retraktory i protraktory łopatek, prostowniki łokci, szyja',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Ardha Uttanasana, Ashta Chandrasana, Bidalasana, Prasarita Padottanasana B i D, Utthita Parsvakonasana, Vasisthasana, Virabhadrasana I i II',
+      przygotowujeDo: 'przejście do Ardha Chandrasany (półksiężyc na jednej nodze) z zachowaniem ustawienia stopy i biodra nogi stojącej',
+      kontrpozycje: 'Tadasana, Adho Mukha Svanasana, Garudasana, Gomukhasana, Balasana',
+    },
+    notatki: [
+      'Rotacja zewnętrzna. Wejście z Tadasany (noga do tyłu).',
+      'Jeśli klatka piersiowa zamyka się do środka, a biodro rotuje do wewnątrz, zalecamy wyjście wyżej, żeby zachować rotację zewnętrzną.',
+      'Przejście do Parsvakonasany: lekko zmniejsz rozstaw stóp i przesuń ciężar – zamiast nagłego „skoku”.',
+    ],
     image: 'img/Trikonasana.png'
   },
   {
@@ -315,6 +429,19 @@ export const asanas = [
       'Rozluźnij świadomie okolicę karku, nie pozwalając głowie opaść do przodu.'
     ],
     oddychanie: 'Utrzymanie osiowego wydłużenia kręgosłupa, które minimalizuje zmianę kształtu towarzyszącą oddechowi, przy jednoczesnym angażowaniu największych i najbardziej łaknących tlenu mięśni ciała, to wyzwanie wymagające ekonomii wysiłku i oddechu.',
+    sekwencjonowanie: {
+      otwarcie: 'łydki, prostowniki bioder, mięśnie unoszące barki, prostowniki barków, retraktory łopatek',
+      asanyOtwierajace: 'Adho Mukha Svanasana, Salabhasana B, Tadasana, Virasana',
+      stabilizacja: 'mięśnie własne stóp, zginacze kolan, zginacze i prostowniki bioder, prostowniki grzbietu, mięsień poprzeczny brzucha, protraktory łopatek i zginacze barków, rotatory wewnętrzne ramion, prostowniki łokci',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Anjaneyasana, Ardha Uttanasana, Ashta Chandrasana, Bidalasana, Tadasana, Uttanasana',
+      przygotowujeDo: 'Parivrtta Utkatasana, Parivrtta Ashta Chandrasana; przejście do siadu na piętach',
+      kontrpozycje: 'Uttanasana, Adho Mukha Svanasana, Balasana',
+    },
+    notatki: [
+      'Pozycja przygotowująca do Virabhadrasany I (razem z Santolanasaną).',
+      'Dobre przygotowanie do balansów na rękach.',
+      'W przykładowej sekwencji: z unoszeniem ramion, w fazie przygotowania i ugruntowania.',
+    ],
     image: 'img/Utkatasana.png',
   },
   {
@@ -336,6 +463,10 @@ export const asanas = [
     ],
     oddychanie: 'Wdychaj pełnym oddechem przez nos podczas unoszenia ramion i podczas powrotu do pozycji wyprostowanej. Wydychaj energicznie przez usta przy każdym wymachu w dół, aby usunąć z dolnych części płuc całe zastane powietrze. Wdech przy wymachu w górę jest tylko niewielkim odruchem – najważniejsze jest całkowite opróżnienie płuc w dolnej fazie. Dla wzmocnienia efektu przy każdym wymuszonym wydechu można wydawać dźwięk „ha”, który powinien pochodzić z brzucha, a nie z gardła, z podkreśleniem ruchu przepony.',
     swiadomosc: 'Fizyczna – na ruchu przepony i oddechu, na utrzymywaniu ciała rozluźnionego oraz na rytmicznym ruchu kołysania.',
+    notatki: [
+      'Przykład dynamicznej pozycji szczytowej.',
+      'Core hamuje kontrarotację – przed nią wstaw aktywację tułowia.',
+    ],
     image: 'img/Utthita Lolasana.png',
   },
   {
@@ -355,6 +486,22 @@ export const asanas = [
       'Jeśli odchylasz głowę w tył, podeprzyj jej ciężar pracą mięśni szyi.'
     ],
     oddychanie: 'Dolna część ciała musi być zarówno ruchoma, jak i mocna, aby dać oddechowi wystarczające wsparcie (sthira) do swobodnego ruchu w górnej części ciała (sukha). Wyzwania wypadu w pozycjach wojownika tworzą ciekawe warunki do badania mechaniki oddechu.',
+    sekwencjonowanie: {
+      otwarcie: 'przednia noga: prostowniki biodra i kolana; tylna noga: łydka, zginacze biodra, rotatory wewnętrzne nogi, zginacze kolana; mięśnie brzucha, klatka piersiowa, retraktory łopatek, prostowniki barków i mięśnie unoszące barki',
+      asanyOtwierajace: 'Adho Mukha Svanasana, Anjaneyasana, Ashta Chandrasana, Gomukhasana, Tadasana, Virabhadrasana II, Virasana',
+      stabilizacja: 'mięśnie własne stóp; przednia noga: stabilizatory biodra (szczególnie prostowniki i przywodziciele), zginacze kolana; tylna noga: zginacze grzbietowe stopy, zginacze biodra, prostowniki kolana; prostowniki grzbietu, mięsień poprzeczny brzucha, retraktory i protraktory łopatek, rotatory zewnętrzne ramion',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Anjaneyasana, Ardha Uttanasana, Ashta Chandrasana, Bhujangasana, Bidalasana, Tadasana, Urdhva Hastasana, Urdhva Mukha Svanasana, Utkatasana, Uttana Prasithasana',
+      przygotowujeDo: 'seria Tańczącego Wojownika, przejścia do innych pozycji stojących, inne ułożenia rąk (ręce z Garudasany lub Gomukhasany), Parivrtta Ashta Chandrasana, Parivrtta Parsvakonasana, Virabhadrasana III',
+      kontrpozycje: 'sekwencja vinyasy, Urdhva Mukha Svanasana, Adho Mukha Svanasana, Supta Padangusthasana, Supta Baddha Konasana, Apanasana, Ananda Balasana, Balasana',
+    },
+    notatki: [
+      'Wejście z Tadasany (noga do tyłu).',
+      'Tylna pięta dociśnięta; w regresie można ją lekko unieść, bo priorytetem jest zamknięcie bioder.',
+      'Praca z barkami: zamiast unosić ręce, spleć je w koszyczek z tyłu i unieś koszyczek albo ułóż je jak w Gomukhasanie.',
+      'Przygotowanie do balansów na rękach: ręce w koszyczku jak w Moordhasanie, namaste za plecami (uwaga na przeprost w odcinku lędźwiowym!) lub chwyt łokci za plecami.',
+      'Przygotowuje do wygięć w tył i do inwersji (aktywuje zginacze bioder).',
+      'Przygotowanie: Utkatasana i Santolanasana; krótka seria core tuż przed nią podnosi gotowość rdzenia.',
+    ],
     image: 'img/Virabhadrasana I.png',
   },
   {
@@ -373,6 +520,22 @@ export const asanas = [
       'Wydłużaj kręgosłup pracą mięśni prostowników i mięśnia poprzecznego brzucha, ściągając łopatki mięśniami równoległobocznymi oraz środkową i dolną częścią czworobocznego.'
     ],
     oddychanie: 'We wszystkich pozycjach wojownika dolna część ciała musi być ruchoma i mocna, aby oddech mógł swobodnie płynąć. W virabhadrasanie II ruch oddechu bywa swobodniejszy niż w virabhadrasanie I, ponieważ w miednicy i kręgosłupie jest mniej skrętu; dla części osób to ustawienie nóg jest też mniej wysiłkowe, co dodatkowo uwalnia oddech.',
+    sekwencjonowanie: {
+      otwarcie: 'przednia noga: prostowniki, przywodziciele i rotatory wewnętrzne biodra; tylna noga: łydka, zginacze kolana, przywodziciele biodra; mięśnie unoszące barki i retraktory łopatek, klatka piersiowa',
+      asanyOtwierajace: 'Anjaneyasana, Ashta Chandrasana, Baddha Konasana, Supta Padangusthasana, Tadasana, Utthita Trikonasana, Vrksasana',
+      stabilizacja: 'mięśnie własne stóp; przednia noga: stabilizatory biodra (szczególnie prostowniki i przywodziciele), rotatory zewnętrzne nogi, zginacze kolana; tylna noga: prostowniki biodra i kolana, zginacze grzbietowe stopy; prostowniki grzbietu, mięsień poprzeczny brzucha, mięśnie skośne, odwodziciele barków, retraktory i protraktory łopatek, prostowniki łokci',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Anjaneyasana, Ardha Uttanasana, Ashta Chandrasana, Bidalasana, Prasarita Padottanasana D, Tadasana, Vasisthasana',
+      przygotowujeDo: 'Odwrócony Wojownik, Utthita Parsvakonasana, Utthita Trikonasana, Ardha Chandrasana (półksiężyc na jednej nodze), Svarga Dvijasana, seria Tańczącego Wojownika',
+      kontrpozycje: 'sekwencja vinyasy, Urdhva Mukha Svanasana, Adho Mukha Svanasana, Gomukhasana, Paschimottanasana, Balasana',
+    },
+    notatki: [
+      'Rotacja zewnętrzna – wprowadzaj ją przed rotacjami wewnętrznymi, bo jest łatwiejsza.',
+      'Wejście z Tadasany (noga do tyłu).',
+      'Regres: ręce na biodrach, przednia noga mniej ugięta.',
+      'Przygotowuje do wygięć w tył – rozciąga mięśnie czworogłowe, zginacze bioder i pachwiny; dobra też w pracy z barkami.',
+      'Rozgrzewa przed otwieraniem bioder i inwersjami (aktywuje zginacze bioder).',
+      'Neutralizacja po niej: Adho Mukha Svanasana, Uttanasana, Moordhasana, Tadasana.',
+    ],
     image: 'img/Virabhadrasana II.png',
   },
 
@@ -395,6 +558,9 @@ export const asanas = [
       'Powtórz technikę z drugą nogą.'
     ],
     oddychanie: 'Wdychaj w pozycji wyprostowanej. Wydychaj, pochylając się do przodu do pozycji końcowej. Oddychaj powoli i głęboko w pozycji końcowej lub zatrzymaj oddech na zewnątrz, jeśli utrzymujesz pozycję przez krótki czas. Wdychaj, wracając do pozycji wyprostowanej.',
+    notatki: [
+      'Wariacja z półlotosu – dla zaawansowanych.',
+    ],
     image: 'img/Ardha Padma Paschimottanasana.png'
   },
   {
@@ -449,6 +615,21 @@ export const asanas = [
       'Zmień strony i powtórz z prawą nogą zgiętą i lewą nogą wyprostowaną.'
     ],
     oddychanie: 'Wdychaj w pozycji początkowej. Wydychaj podczas pochylania się do przodu. Zatrzymaj oddech na zewnątrz, jeśli utrzymujesz pozycję końcową przez krótki czas. Oddychaj normalnie, jeśli utrzymujesz pozycję przez dłuższy czas. Wdychaj podczas powrotu do pozycji początkowej.',
+    sekwencjonowanie: {
+      odpowiednik: 'Janu Sirsasana',
+      otwarcie: 'noga wyprostowana: łydka, zginacze kolana, prostowniki biodra; noga zgięta: prostowniki kolana, przywodziciele, rotatory i prostowniki biodra; prostowniki grzbietu, retraktory łopatek i mięśnie unoszące barki',
+      asanyOtwierajace: 'Baddha Konasana, Dandasana, Paschimottanasana, Supta Padangusthasana, Vrksasana',
+      stabilizacja: 'zginacze bioder; noga wyprostowana: rotatory wewnętrzne, prostowniki kolana, zginacze grzbietowe stopy; noga zgięta: rotatory zewnętrzne, zginacze kolana; mięsień poprzeczny brzucha, prostowniki grzbietu, mięśnie skośne, mięśnie obniżające barki',
+      asanyStabilizujace: 'Baddha Konasana, Dandasana, Prasarita Padottanasana A, B i D, Upavista Konasana, Uttanasana',
+      przygotowujeDo: 'Parivrtta Janu Sirsasana, Upavista Konasana, Tiriang Mukha Eka Pada Paschimottanasana',
+      kontrpozycje: 'Apanasana, Setu Bandha Sarvangasana, Gomukhasana',
+    },
+    notatki: [
+      'Skłony zaczynaj od asymetrycznych: Janu Sirshasana na obie strony > Dandasana.',
+      'Klucz: koncentracja i połączenie z oddechem. Czakra: Manipura, Muladhara.',
+      'Działanie: rozciąga kręgosłup, biodra i ścięgna, poprawia trawienie, wspiera introspekcję.',
+      'Przy nadciśnieniu: z klockiem pod czołem zamiast inwersji.',
+    ],
     image: 'img/Janu Sirshasana.png'
   },
   {
@@ -469,6 +650,20 @@ export const asanas = [
       'Powróć do pozycji wyprostowanej, opuszczając ramiona.'
     ],
     oddychanie: 'Wdychaj w pozycji początkowej. Wydychaj podczas pochylania się do przodu. Oddychaj powoli i głęboko w pozycji końcowej lub wstrzymaj oddech, jeśli pozycja jest utrzymywana tylko przez krótki czas. Wdychaj, wracając do pozycji początkowej.',
+    sekwencjonowanie: {
+      odpowiednik: 'Upavista Konasana (skłon w siadzie z szeroko rozstawionymi nogami)',
+      otwarcie: 'przywodziciele i prostowniki bioder, rotatory wewnętrzne nóg, zginacze kolan, łydki, prostowniki grzbietu, klatka piersiowa, zginacze łokci',
+      asanyOtwierajace: 'Baddha Konasana, Dandasana, Paschimottanasana, Prasarita Padottanasana A, Supta Padangusthasana, Utthita Trikonasana',
+      stabilizacja: 'zginacze bioder, rotatory zewnętrzne nóg, prostowniki kolan, zginacze grzbietowe stóp, mięsień poprzeczny brzucha, prostowniki grzbietu, retraktory łopatek i przywodziciele barków',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Agnistambhasana, Ardha Uttanasana, Baddha Konasana, Balasana, Bidalasana, Dandasana, Malasana, Padangusthasana, Paschimottanasana, Prasarita Padottanasana D, Supta Padangusthasana, Uttana Prasithasana, Utthita Hasta Padangusthasana I i II, Utthita Trikonasana, Virabhadrasana II',
+      przygotowujeDo: 'Kurmasana; przejście do Tittibhasany i Bhujapidasany; przetoczenie do tyłu do Supta Konasany i z powrotem',
+      kontrpozycje: 'Dhanurasana, Marichyasana C, Virasana, Gomukhasana, Adho Mukha Svanasana, Balasana',
+    },
+    notatki: [
+      'Sztywne przywodziciele utrudniają szeroki rozkrok – pomaga Supta Baddha Konasana z paskiem.',
+      'Klucz: równowaga między otwarciem a ugruntowaniem. Czakra: Swadhisthana, Muladhara.',
+      'Działanie: otwiera biodra i wewnętrzne uda, łagodzi napięcia w dolnych plecach, wycisza umysł.',
+    ],
     image: 'img/Pada Prasar Paschimottanasana.png'
   },
   {
@@ -488,6 +683,20 @@ export const asanas = [
     ],
     oddychanie: 'Wdychaj w pozycji początkowej. Wydychaj powoli, pochylając się do przodu. Wdychaj w pozycji statycznej. Wydychaj, przybliżając tułów dalej do nóg. Wdychaj powoli i głęboko w pozycji końcowej lub wstrzymaj wydech, jeśli trzymasz przez krótki czas. Wdychaj, wracając do pozycji początkowej.',
     duchoweZnaczenie: 'Seria paschimottanasany stymuluje przepływ energii wzdłuż sushumny (głównego kanału energetycznego w kręgosłupie). Zachęca do introspekcji, pokory i odpuszczenia. Uspokaja umysł i prowadzi do wewnętrznego wyciszenia. Harmonizuje czakrę splotu słonecznego (manipura) i wspiera proces trawienia zarówno fizycznego, jak i emocjonalnego.',
+    sekwencjonowanie: {
+      otwarcie: 'łydki, zginacze kolan, prostowniki bioder, prostowniki grzbietu, retraktory łopatek i mięśnie unoszące barki, klatka piersiowa, prostowniki barków',
+      asanyOtwierajace: 'Adho Mukha Svanasana, Balasana, Dandasana, Janu Sirsasana, Supta Padangusthasana',
+      stabilizacja: 'zginacze bioder, rotatory wewnętrzne nóg, prostowniki kolan, zginacze grzbietowe stóp, mięsień poprzeczny brzucha, prostowniki grzbietu, mięśnie obniżające barki',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Agnistambhasana, Ardha Uttanasana, Balasana, Dandasana, Halasana, Karnapidasana, Pada Hastasana, Padangusthasana, Parsvottanasana, Prasarita Padottanasana D, Supta Padangusthasana, Upavista Konasana, Uttanasana',
+      przygotowujeDo: 'przejście do Halasany, Salamba Sarvangasany, Karnapidasany; Upavista Konasana, Tiriang Mukha Eka Pada Paschimottanasana, Krounchasana, Kurmasana, Ubhaya Padangusthasana, Urdhva Mukha Paschimottanasana',
+      kontrpozycje: 'proste skręty w siadzie i w leżeniu na plecach, Supta Baddha Konasana, Apanasana, Savasana',
+    },
+    notatki: [
+      'Klucz: poddanie, introspekcja, wyciszenie umysłu. Czakra: Manipura, Swadhisthana.',
+      'Działanie: rozciąga kręgosłup i tyły nóg, uspokaja układ nerwowy, harmonizuje emocje.',
+      'Przejście z Uttanasany: zroluj ciało, usiądź, wyprostuj nogi, prowadząc ruch z miednicy.',
+      'Przejście z Gomukhasany równoważy napięcia po głębokiej rotacji bioder.',
+    ],
     image: 'img/Paschimottanasana.png'
   },
   {
@@ -527,6 +736,20 @@ export const asanas = [
       'To jest jedna runda. Kontynuuj wypady do przodu i do tyłu po tej stronie, przed ćwiczeniem takiej samej liczby rund po drugiej stronie.'
     ],
     oddychanie: 'Wydychaj, powoli poruszając się do przodu w ashwa sanchalanasanę. Wdychaj, unosząc ramiona do ardha chandrasany. Przytrzymaj przez kilka sekund, utrzymując równowagę. Wydychaj, opuszczając ramiona.',
+    sekwencjonowanie: {
+      odpowiednik: 'Anjaneyasana (niski wypad)',
+      otwarcie: 'tylna noga: zginacze kolana i biodra; przednia noga: prostowniki biodra; mięśnie brzucha, klatka piersiowa, mięśnie unoszące barki, prostowniki barków',
+      asanyOtwierajace: 'Adho/Urdhva Mukha Svanasana, Apanasana, Bhujangasana, Bidalasana, Urdhva Hastasana, Utkatasana; sama w sobie jest pozycją otwierającą',
+      stabilizacja: 'przednia noga: prostowniki biodra, rotatory wewnętrzne nogi; tylna noga: zginacze biodra, zginacze grzbietowe stopy; mięśnie własne stóp, dno miednicy, odwodziciele i przywodziciele bioder, mięsień poprzeczny brzucha, zginacze barków i protraktory łopatek, rotatory zewnętrzne ramion, prostowniki łokci',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Ardha Uttanasana, Bhujangasana, Bidalasana, Phalakasana, Salabhasana A, B i C, Utkatasana, Anahatasana, Uttanasana',
+      przygotowujeDo: 'wygięcia do tyłu, balanse na rękach z wyprostowanymi biodrami; Ashta Chandrasana, Eka Pada Adho Mukha Vrksasana, Hanumanasana, Supta Virasana, Virabhadrasana I i III, Virasana',
+      kontrpozycje: 'Adho Mukha Svanasana, Balasana, Uttanasana',
+    },
+    notatki: [
+      'Przygotowuje do wygięć w tył i do inwersji – otwiera biodra i zginacze bioder.',
+      'Można spleść ręce w koszyczek z tyłu (zewnętrzna rotacja ramion).',
+      'Klucz: połączenie stabilizacji nóg i ekspansji w górnej części ciała. Czakra: Anahata, Ajna.',
+    ],
     image: 'img/Ardha Chandrasana.png'
   },
   {
@@ -550,6 +773,19 @@ export const asanas = [
       'Rozluźnij mięśnie dolnej części pleców.'
     ],
     oddychanie: 'Wdychaj podczas unoszenia tułowia. Oddychaj normalnie w pozycji końcowej lub wstrzymaj oddech, jeśli pozycja jest utrzymywana przez krótki czas. Wydychaj podczas opuszczania tułowia.',
+    sekwencjonowanie: {
+      otwarcie: 'zginacze kolan, zginacze bioder, mięśnie brzucha, klatka piersiowa, mięśnie unoszące barki i zginacze barków, zginacze nadgarstków',
+      asanyOtwierajace: 'Bidalasana; wykonywana stopniowo jest pozycją otwierającą przed wygięciami do tyłu',
+      stabilizacja: 'zginacze nadgarstków, zginacze łokci, rotatory ramion, klatka piersiowa, stabilizatory barków (szczególnie przywodziciele, protraktory i retraktory łopatek), mięsień poprzeczny brzucha, prostowniki kręgosłupa, prostowniki bioder i kolan, łydki',
+      asanyStabilizujace: 'Bidalasana; wykonywana stopniowo jest pozycją przygotowawczą do wygięć do tyłu',
+      przygotowujeDo: 'Urdhva Mukha Svanasana, Raj Kapotasana, Ustrasana, Bhekasana, Eka Pada Bakasana',
+      kontrpozycje: 'Adho Mukha Svanasana, Balasana, prosty skręt w leżeniu na plecach, Apanasana, Supta Baddha Konasana',
+    },
+    notatki: [
+      'Lekkie wygięcie – od niego zaczynamy serię wygięć.',
+      'Pozycja przygotowawcza do balansów na rękach.',
+      'Pozycja neutralizująca po głębokich otwarciach bioder z mocną rotacją zewnętrzną.',
+    ],
     image: 'img/Bhujangasana.png'
   },
   {
@@ -571,6 +807,20 @@ export const asanas = [
     ],
     oddychanie: 'Wdech podczas unoszenia ciała do pozycji końcowej. W pozycji końcowej oddychaj normalnie lub wstrzymaj oddech na wdechu (antar kumbhaka). Wydech podczas powolnego opuszczania ciała.',
     swiadomosc: 'Fizyczna – na punkcie, w którym plecy najbardziej się wyginają. Duchowa – na czakrze vishuddhi (gardła) z tyłu szyi lub na czakrze manipura (splot słoneczny) w okolicy brzucha.',
+    sekwencjonowanie: {
+      otwarcie: 'rotatory zewnętrzne nóg, zginacze bioder, mięśnie brzucha, klatka piersiowa, protraktory łopatek i prostowniki barków, rotatory wewnętrzne ramion, zginacze łokci, zginacze nadgarstków',
+      asanyOtwierajace: 'Anjaneyasana, Ashta Chandrasana, Bidalasana, Salabhasana A i C, Setu Bandha Sarvangasana, Urdhva Mukha Svanasana, Virasana',
+      stabilizacja: 'prostowniki grzbietu, prostowniki i przywodziciele bioder, mięsień poprzeczny brzucha, retraktory łopatek, prostowniki kolan, zginacze grzbietowe stóp',
+      asanyStabilizujace: 'Bhujangasana, Pursvottanasana, Salabhasana A i C, Setu Bandha Sarvangasana',
+      przygotowujeDo: 'Parsva Dhanurasana, Bhekasana, Raj Kapotasana, Ustrasana, Laghu Vajrasana',
+      kontrpozycje: 'Balasana, Apanasana, Ardha Matsyendrasana, Supta Parivartanasana',
+    },
+    notatki: [
+      'Najintensywniejsza z serii: Dhanurasana > Saral Dhanurasana > Sfinks > Makarasana.',
+      'Jeśli uczeń może chwycić stopę od wewnątrz – lepiej, bo przygotowuje do Ustrasany.',
+      'Intensywniejsze wygięcie – po lekkich (Bhujangasana, Kandharasana).',
+      'Neutralizacja po wygięciach leżąc na brzuchu: leżenie na plecach, Balasana z szerzej rozstawionymi kolanami, szczęśliwe dziecko, Savasana z wałkiem pod kolanami.',
+    ],
     image: 'img/Dhanurasana.png'
   },
   {
@@ -588,6 +838,22 @@ export const asanas = [
       'Rozpleć dłonie, wyprostuj nogi i powtórz z lewym kolanem na górze i lewym ramieniem uniesionym.'
     ],
     oddychanie: 'Normalne w pozycji końcowej.',
+    sekwencjonowanie: {
+      otwarcie: 'przywodziciele, prostowniki i rotatory bioder; prostowniki grzbietu, retraktory łopatek i mięśnie unoszące barki; górna ręka: prostowniki barku i łokcia; dolna ręka: zginacze barku, rotatory zewnętrzne ramienia',
+      asanyOtwierajace: 'Ardha Matsyendrasana, Marichyasana C, Parivrtta Janu Sirsasana, Paschimottanasana, Virasana',
+      stabilizacja: 'zginacze i przywodziciele bioder, rotatory zewnętrzne nóg, dno miednicy, mięsień poprzeczny brzucha, zginacze kolan; dolna ręka: rotatory wewnętrzne, prostowniki barku; górna ręka: zginacze barku, protraktory łopatki, przywodziciele, zginacze łokcia',
+      asanyStabilizujace: 'Ardha Matsyendrasana, Baddha Konasana, Bidalasana, Dandasana, Janu Sirsasana, Uttana Prasithasana, Uttanasana',
+      przygotowujeDo: 'Eka Pada Raj Kapotasana, Bharadvajrasana A i B',
+      kontrpozycje: 'Dandasana, Baddha Konasana, Upavista Konasana, Adho Mukha Svanasana',
+    },
+    notatki: [
+      'Przygotowuje ramiona do wygięć w tył (nogi jak w Vajrasanie albo jak w Ardha Chandrasanie).',
+      'Świetnie rozciąga mięśnie boczne tułowia i rotatory zewnętrzne bioder.',
+      'Wersja z pochyleniem do przodu neutralizuje wygięcia w tył i może być wstępem do skłonów.',
+      'Przejście do Paschimottanasany – proste nogi równoważą napięcia po głębokiej rotacji bioder.',
+      'Klucz: równowaga między sercem a stabilnością. Czakra: Anahata, Swadhisthana.',
+      'Działanie: otwiera biodra i klatkę piersiową, rozluźnia barki, uwalnia napięcia emocjonalne.',
+    ],
     image: 'img/Gomukhasana.png'
   },
   {
@@ -607,6 +873,23 @@ export const asanas = [
       'Rozluźnij kostki i zrelaksuj się, wyciągając nogi.'
     ],
     oddychanie: 'Wdychaj głęboko w pozycji początkowej. Zatrzymaj oddech w środku, podnosząc i utrzymując pozycję końcową. Alternatywnie oddychaj powoli i głęboko w pozycji końcowej. Zrób wydech, opuszczając się do pozycji wyjściowej.',
+    sekwencjonowanie: {
+      odpowiednik: 'Setu Bandha Sarvangasana (pozycja mostu)',
+      otwarcie: 'zginacze łokci, zginacze barków i mięśnie unoszące barki, klatka piersiowa, zginacze bioder, rotatory zewnętrzne nóg',
+      asanyOtwierajace: 'Bhekasana, Bhujangasana, Dhanurasana, Salabhasana A i C, Setu Bandha Sarvangasana, Supta Virasana, Urdhva Mukha Svanasana, Ustrasana',
+      stabilizacja: 'stabilizatory barków (szczególnie retraktory łopatek, przywodziciele i prostowniki), prostowniki grzbietu, prostowniki i przywodziciele bioder, rotatory wewnętrzne nóg, mięśnie własne stóp',
+      asanyStabilizujace: 'Bhujangasana, Dhanurasana, Eka Pada Raj Kapotasana I, Salamba Sarvangasana, Setu Bandha Sarvangasana, Supta Virasana, Urdhva Mukha Svanasana, Ustrasana',
+      przygotowujeDo: 'głębsze wygięcia do tyłu, np. Urdhva Dhanurasana, Bhujangasana; wariant z jedną nogą uniesioną (Eka Pada); przejście do Salamba Sarvangasany',
+      kontrpozycje: 'Apanasana, proste skręty, Supta Baddha Konasana, Ananda Balasana, Balasana, skłony do przodu w siadzie',
+    },
+    notatki: [
+      'Pozycja neutralizująca po pracy core – przeciwdziała zaciśnięciu brzucha.',
+      'Świetne przygotowanie do Ustrasany (zewnętrzna rotacja ramion); wygięcie wychodzące z poziomu pleców.',
+      'Lekkie wygięcie na początku serii wygięć.',
+      'Po długich skłonach do przodu – wolno i bardzo delikatnie, jako lekkie wygięcie w tył.',
+      'Klucz: łagodny most, stabilizacja barków i nóg. Czakra: Anahata, Muladhara.',
+      'Działanie: pomost między fazą przygotowawczą a głębszymi wygięciami.',
+    ],
     image: 'img/Kandharasana.png'
   },
   {
@@ -624,6 +907,12 @@ export const asanas = [
     ],
     oddychanie: 'Naturalny i rytmiczny.',
     swiadomosc: 'Fizyczna – na procesie oddychania lub na liczeniu oddechów, ze skupieniem na dolnej części pleców i rozluźnianiu całego ciała. Osoby z dolegliwościami pleców i kręgosłupa mogą z wdechem prowadzić uwagę w górę wzdłuż kręgosłupa – od kości ogonowej do szyi – a z wydechem sprowadzać ją z powrotem, wyobrażając sobie, że oddech przesuwa się w kręgosłupie jak rtęć w szklanej rurce; to szybko aktywuje energie uzdrawiające w tym obszarze. Duchowa – na czakrze manipura (splot słoneczny) lub na czubku nosa przy nasikagra drishti.',
+    notatki: [
+      'Najłagodniejsza z serii: Dhanurasana > Saral Dhanurasana > Sfinks > Makarasana. Im dalej ręce od ciała, tym łagodniejsze wygięcie.',
+      'Pozycja przejściowa między głębokimi wygięciami a głębokimi skrętami.',
+      'Klucz: regeneracja kręgosłupa.',
+      'Działanie: relaksacja i integracja efektów praktyki; pozycja przejściowa lub końcowa po serii wygięć.',
+    ],
     image: 'img/Makarasana.png',
   },
   {
@@ -645,6 +934,19 @@ export const asanas = [
     ],
     oddychanie: 'Oddychaj głęboko i powoli w pozycji końcowej.',
     swiadomosc: 'Fizyczna – na brzuchu, klatce piersiowej lub oddechu. Duchowa – na czakrze manipura (splot słoneczny) lub anahata (serca).',
+    sekwencjonowanie: {
+      otwarcie: 'prostowniki kolan, przywodziciele i prostowniki bioder, rotatory wewnętrzne nóg; mięśnie brzucha, klatka piersiowa, zginacze barków, gardło (przód szyi)',
+      asanyOtwierajace: 'Padmasana i pozycje do niej przygotowujące, Setu Bandha Sarvangasana, Uttana Padasana',
+      stabilizacja: 'zginacze i przywodziciele bioder, rotatory wewnętrzne nóg, prostowniki kolan, zginacze grzbietowe stóp, prostowniki grzbietu, mięsień poprzeczny brzucha, retraktory łopatek i prostowniki barków, prostowniki łokci, szyja',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Anjaneyasana, Ardha Uttanasana, Ashta Chandrasana, Dandasana, Dhanurasana, Navasana, Salabhasana A i C, Supta Virasana, Urdhva Mukha Svanasana, Ustrasana',
+      przygotowujeDo: 'przejście do Uttana Padasany, Chakorasana',
+      kontrpozycje: 'Apanasana, Ananda Balasana, Savasana',
+    },
+    notatki: [
+      'Seria: Matsyasana > Supta Veerasana > Veerasana.',
+      'Klucz: kompensacja dla pozycji odwróconych lub mostków. Czakra: Vishuddha.',
+      'Działanie: przywraca równowagę po intensywnych wygięciach; wspiera tarczycę.',
+    ],
     image: 'img/Matsyasana.png',
   },
   {
@@ -678,6 +980,9 @@ export const asanas = [
       'Rozluźnij się w pozycji leżącej na brzuchu, aż oddech powróci do normy.'
     ],
     oddychanie: 'Wdychaj głęboko w pozycji początkowej. Zatrzymaj oddech w środku, podnosząc ciało. Wdychaj głęboko i powoli w pozycji końcowej. Wydychaj, wracając do pozycji początkowej.',
+    notatki: [
+      'Półłuk, uda na macie – łagodniejszy niż Dhanurasana, intensywniejszy niż Sfinks i Makarasana.',
+    ],
     image: 'img/Saral Dhanurasana.png'
   },
   {
@@ -695,6 +1000,19 @@ export const asanas = [
     ],
     oddychanie: 'Wdech w pozycji początkowej. Wstrzymaj oddech w środku, unosząc ciało i utrzymując pozycję końcową. Wydech podczas opuszczania do pozycji początkowej.',
     duchoweZnaczenie: 'Pozycja symbolizuje tworzenie połączenia między ciałem, umysłem i duszą. To przypomnienie, by budować mosty między swoimi emocjami i doświadczeniami, a nie je blokować. Unoszenie ciała ku górze przypomina o możliwości transformacji – o sięganiu wyżej i dążeniu do rozwoju duchowego, jednocześnie pozostając stabilnym i zakorzenionym.',
+    sekwencjonowanie: {
+      odpowiednik: 'Pursvottanasana (odwrócona deska)',
+      otwarcie: 'zginacze grzbietowe stóp, zginacze bioder, mięśnie brzucha, klatka piersiowa, zginacze barków i mięśnie unoszące barki, gardło (przód szyi)',
+      asanyOtwierajace: 'Anjaneyasana, Prasarita Padottanasana C, Setu Bandha Sarvangasana, Ustrasana, Virasana',
+      stabilizacja: 'synergiści nadgarstków, rotatory wewnętrzne ramion, stabilizatory barków (szczególnie retraktory łopatek i mięśnie obniżające barki), gardło, prostowniki grzbietu, mięsień poprzeczny brzucha, prostowniki i przywodziciele bioder, łydki',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Ardha Uttanasana, Chaturanga Dandasana, Dandasana, Matsyasana, Navasana, Phalakasana, Salabhasana A i C, Salamba Sarvangasana, Setu Bandha Sarvangasana, Supta Virasana, Tadasana, Urdhva Dhanurasana, Urdhva Mukha Svanasana, Ustrasana, Vasisthasana',
+      przygotowujeDo: 'wariant z jedną nogą uniesioną (Eka Pada), „przewrócenie” psa z głową w dół (flip dog)',
+      kontrpozycje: 'Adho Mukha Svanasana, ćwiczenia rozluźniające nadgarstki, Balasana, Supta Parivartanasana, skłony do przodu w siadzie',
+    },
+    notatki: [
+      'W przykładowej sekwencji: otwarcie bioder i klatki piersiowej.',
+      'Pozycja neutralizująca po głębokich otwarciach bioder; łagodny mostek po skłonach.',
+    ],
     image: 'img/Setu Asana.png'
   },
   {
@@ -713,6 +1031,19 @@ export const asanas = [
       'Pozwól, aby oddech i bicie serca powróciły do normy.'
     ],
     oddychanie: 'Weź głęboki wdech w pozycji wyjściowej. Zatrzymaj oddech w środku, unosząc nogi i utrzymując pozycję. Wydech, opuszczając nogi. Początkującym może pomóc wdychanie podczas unoszenia nóg.',
+    sekwencjonowanie: {
+      odpowiednik: 'Salabhasana A, B, C',
+      otwarcie: 'wszystkie warianty: mięśnie brzucha, zginacze bioder, zginacze kolan, zginacze grzbietowe stóp, klatka piersiowa, mięśnie unoszące barki, szyja; A i C: zginacze barków; B: prostowniki barków',
+      asanyOtwierajace: 'wszystkie proste skręty, Balasana, Supta Baddha Konasana',
+      stabilizacja: 'prostowniki grzbietu, prostowniki i przywodziciele bioder, mięsień poprzeczny brzucha, retraktory łopatek, szyja, prostowniki kolan, zginacze grzbietowe stóp; A: prostowniki barków, zginacze łokci, synergiści nadgarstków; B: zginacze barków, rotatory zewnętrzne ramion, prostowniki łokci; C: prostowniki i przywodziciele barków, synergiści nadgarstków',
+      asanyStabilizujace: 'Bidalasana; warianty Salabhasany same w sobie są przygotowaniem do ogólnej praktyki i do wszystkich wygięć do tyłu',
+      przygotowujeDo: 'przechodzenie przez warianty A, B i C, Dhanurasana, Bhekasana, Bhujangasana, Setu Bandha Sarvangasana',
+      kontrpozycje: 'Balasana, proste skręty, Supta Baddha Konasana, skłony do przodu w siadzie',
+    },
+    notatki: [
+      'Pozycja w leżeniu na brzuchu; intensywniejsza niż Ardha Shalabhasana.',
+      'W serii wygięć: Bhujangasana > Shalabhasana > Dhanurasana > Ustrasana.',
+    ],
     image: 'img/Shalabhasana.png'
   },
   {
@@ -731,6 +1062,9 @@ export const asanas = [
     ],
     oddychanie: 'Głębokie i powolne.',
     swiadomosc: 'Fizyczna – na czubku głowy, szyi, dolnej części pleców, brzuchu lub oddechu. Duchowa – na czakrze swadhisthana (sakralna), anahata (serca) lub vishuddhi (gardła).',
+    notatki: [
+      'Na liście asan otwierających biodra.',
+    ],
     image: 'img/Supta Vajrasana.png'
   },
   {
@@ -774,6 +1108,19 @@ export const asanas = [
       'Pozostań w pozycji końcowej tak długo, jak jest to wygodne. Wróć do pozycji początkowej, powoli uwalniając dłonie z pięt, jedną po drugiej.'
     ],
     oddychanie: 'Normalne. Nie próbuj oddychać głęboko, ponieważ klatka piersiowa jest już rozciągnięta.',
+    sekwencjonowanie: {
+      otwarcie: 'zginacze grzbietowe stóp, prostowniki kolan, mięśnie brzucha, klatka piersiowa, gardło (przód szyi), zginacze łokci',
+      asanyOtwierajace: 'Anjaneyasana, Salabhasana, Setu Bandha Sarvangasana, Supta Virasana, Virabhadrasana I',
+      stabilizacja: 'prostowniki kolan, przywodziciele i prostowniki bioder, rotatory wewnętrzne nóg, prostowniki grzbietu, mięśnie brzucha, stabilizatory barków (szczególnie retraktory łopatek i prostowniki), rotatory zewnętrzne ramion, zginacze łokci',
+      asanyStabilizujace: 'Anjaneyasana, Ashta Chandrasana, Bhekasana, Bhujangasana, Bidalasana, Dhanurasana, Eka Pada Raj Kapotasana II, Raj Kapotasana, Setu Bandha Sarvangasana, Salabhasana B, Supta Virasana, Urdhva Dhanurasana, Urdhva Mukha Svanasana',
+      przygotowujeDo: 'Pursvottanasana, Laghu Vajrasana, Kapotasana, Urdhva Dhanurasana',
+      kontrpozycje: 'Balasana, proste skręty, Supta Baddha Konasana, skłony do przodu w siadzie',
+    },
+    notatki: [
+      'Przygotowanie: Kandharasana, Moordhasana i asany z rękami splecionymi w koszyczek z tyłu (zewnętrzna rotacja ramion); chwyt stopy od wewnątrz w Dhanurasanie.',
+      'Klucz: głębokie otwarcie serca i gardła. Czakra: Anahata, Vishuddha.',
+      'Działanie: ekspresja emocji, otwarcie klatki piersiowej, pobudzenie tarczycy.',
+    ],
     image: 'img/Ushtrasana.png'
   },
   {
@@ -791,6 +1138,10 @@ export const asanas = [
       'Wróć do pozycji uniesionej, a następnie do pozycji początkowej – to jest jedna runda.'
     ],
     oddychanie: 'Wdychaj podczas unoszenia tułowia, wydychaj podczas rozciągania. Oddychaj normalnie, utrzymując pozycję. Wdychaj, podnosząc się na kolana i łokcie. Wydychaj, opuszczając ciało z powrotem na ziemię.',
+    notatki: [
+      'Klucz: otwarcie klatki piersiowej. Czakra: Anahata.',
+      'Działanie: przygotowanie do głębszych wygięć.',
+    ],
     image: 'img/Utthan Pristhasana.png'
   },
   {
@@ -812,6 +1163,12 @@ export const asanas = [
       'Gdy pośladki dotkną podłogi, opuść nogi, trzymając je prosto. Zrelaksuj się w shavasanie.'
     ],
     oddychanie: 'Wdychaj w pozycji leżącej. Zatrzymaj oddech w środku, przyjmując ostatnią pozycję. Gdy ciało jest stabilne w ostatniej pozycji, ćwicz oddychanie normalne lub ujjayi. Zatrzymaj oddech w środku, opuszczając ciało na podłogę.',
+    notatki: [
+      'Dostępna dla wszystkich – miednica oparta na dłoniach, najlepiej z kocykiem pod barkami. Przygotowuje do stania na barkach.',
+      'Przy nadciśnieniu: łagodna wersja płasko na ziemi.',
+      'Klucz: odwrócenie przepływu krwi, regeneracja i wyciszenie. Czakra: Vishuddha, Manipura.',
+      'Działanie: uspokaja układ nerwowy, odpręża, łagodzi napięcie nóg i dolnych pleców.',
+    ],
     image: 'img/Vipareeta Karani Asana.png'
   },
 
@@ -846,6 +1203,9 @@ export const asanas = [
       'Powtórz ten sam ruch z prawą nogą – to jest jedna runda.'
     ],
     oddychanie: 'Wdech w pozycji początkowej. Zatrzymaj oddech w środku podczas podnoszenia nogi i w pozycji końcowej. Wydech podczas opuszczania nogi do pozycji początkowej.',
+    notatki: [
+      'Warianty: naprzemienne unoszenie przeciwległej ręki i nogi, jednoczesne unoszenie obu nóg i obu rąk albo ręce splecione w koszyczek z tyłu.',
+    ],
     image: 'img/Ardha Shalabhasana.png'
   },
   {
@@ -867,6 +1227,18 @@ export const asanas = [
     ],
     oddychanie: 'Wdychaj w pozycji początkowej. Zatrzymaj oddech w środku, unosząc ciało. Zatrzymaj oddech w środku lub oddychaj normalnie w pozycji końcowej. Wydychaj, opuszczając ciało.',
     duchoweZnaczenie: 'Koło jest symbolem nieskończoności, jedności i ciągłości. Wchodząc w chakrasanę, symbolicznie otwierasz się na nowe doświadczenia i transformację.',
+    sekwencjonowanie: {
+      odpowiednik: 'Urdhva Dhanurasana (pozycja koła)',
+      otwarcie: 'zginacze bioder, rotatory zewnętrzne nóg, mięśnie brzucha, klatka piersiowa, mięśnie unoszące barki, retraktory łopatek i prostowniki barków, zginacze nadgarstków',
+      asanyOtwierajace: 'Bhujangasana, ashtanga pranam, Chaturanga Dandasana, Anjaneyasana, Phalakasana',
+      stabilizacja: 'synergiści nadgarstków, prostowniki łokci, rotatory zewnętrzne ramion, stabilizatory barków (szczególnie retraktory, protraktory łopatek i zginacze barków), prostowniki grzbietu, mięsień poprzeczny brzucha, prostowniki i przywodziciele bioder, mięśnie własne stóp',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Adho Mukha Vrksasana, Anjaneyasana, Ashta Chandrasana, Bhujangasana, Bidalasana, Chaturanga Dandasana, Dhanurasana, ręce z Garudasany, Setu Bandha Sarvangasana, Supta Virasana, Urdhva Mukha Svanasana, Virabhadrasana I',
+      przygotowujeDo: 'przy zachowaniu równoległego ustawienia stóp przybliżanie dłoni do stóp; Eka Pada Urdhva Dhanurasana, Viparita Dandasana, opadanie do mostu ze stania (drop-backs), przerzuty (ticktocks)',
+      kontrpozycje: 'Apanasana, proste skręty, Supta Baddha Konasana, Ananda Balasana, Balasana, skłony do przodu w siadzie',
+    },
+    notatki: [
+      'Wygięcie wychodzące z poziomu pleców (supine).',
+    ],
     image: 'img/Chakrasana.png'
   },
   {
@@ -904,6 +1276,21 @@ export const asanas = [
       'Zrelaksuj się w pozycji wyprostowanej przed kontynuowaniem następnej rundy.'
     ],
     oddychanie: 'Wdychaj w pozycji początkowej. Wydychaj podczas pochylania się do przodu. Oddychaj powoli i głęboko w pozycji końcowej. Wdychaj podczas powrotu do pozycji początkowej.',
+    sekwencjonowanie: {
+      odpowiednik: 'Pada Hastasana',
+      otwarcie: 'łydki, zginacze kolan, prostowniki bioder, prostowniki grzbietu, mięśnie unoszące barki, prostowniki nadgarstków',
+      asanyOtwierajace: 'Padangusthasana i pozycje do niej przygotowujące',
+      stabilizacja: 'zginacze bioder, rotatory wewnętrzne nóg, prostowniki kolan, mięśnie własne stóp, mięsień poprzeczny brzucha, prostowniki grzbietu, mięśnie obniżające barki',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Ardha Uttanasana, Bidalasana, Prasarita Padottanasana D, Supta Padangusthasana, Uttanasana',
+      przygotowujeDo: 'Padangusthasana, Paschimottanasana, Supta Padangusthasana, Upavista Konasana, Utthita Hasta Padangusthasana',
+      kontrpozycje: 'Tadasana, Adho Mukha Svanasana, Balasana, proste skręty',
+    },
+    notatki: [
+      'Pozycja neutralizująca po asanach stojących – złap łokcie, rozluźnij barki i szyję.',
+      'Kontrpozycja po intensywnych wygięciach w tył (ale nie od razu po nich – najpierw pozycje neutralizujące).',
+      'Klucz: oczyszczenie i ukorzenienie. Czakra: Muladhara.',
+      'Działanie: rozciąga tyły nóg i kręgosłup, pobudza krążenie, łagodzi stres.',
+    ],
     image: 'img/Padahastasana.png'
   },
   {
@@ -960,6 +1347,19 @@ export const asanas = [
       'Powoli wycofaj się, aby wyjść z postawy, i powtórz po drugiej stronie.'
     ],
     oddychanie: 'Wdech w pozycji wysuniętej do przodu. Wydech podczas skręcania tułowia. Oddychaj głęboko i powoli bez wysiłku w pozycji końcowej. Wdech podczas powrotu do pozycji początkowej.',
+    sekwencjonowanie: {
+      otwarcie: 'prostowniki bioder, rotatory zewnętrzne nóg, mięśnie skośne, prostowniki grzbietu, klatka piersiowa, rotatory wewnętrzne ramion, rotatory szyi',
+      asanyOtwierajace: 'Baddha Konasana, Bharadvajrasana, Eka Pada Koundinyasana (przygotowanie), Janu Sirsasana, Marichyasana C, Padmasana, Parivrtta Trikonasana, Parivrtta Utkatasana, Supta Parivartanasana, Virasana',
+      stabilizacja: 'zginacze bioder, przywodziciele bioder, mięśnie skośne, zginacze kolan, retraktory i protraktory łopatek',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Baddha Konasana, Balasana, Garudasana, Gomukhasana, Jathara Parivartanasana, Marichyasana A i C, Padmasana, Parivrtta Parsvakonasana, Parivrtta Trikonasana, Prasarita Padottanasana',
+      przygotowujeDo: 'głębsze skręty, Parsva Bakasana, Dwi Pada Koundinyasana, Eka Pada Koundinyasana, Astavakrasana',
+      kontrpozycje: 'Apanasana, Ananda Balasana, Dandasana, Paschimottanasana, Janu Sirsasana',
+    },
+    notatki: [
+      'Król skrętów – równoważy energię w kręgosłupie. Czakra: Manipura, Anahata.',
+      'Działanie: poprawia trawienie, usuwa toksyny, harmonizuje układ nerwowy; rozciąga rotatory zewnętrzne bioder.',
+      'Neutralizacja po skłonach i otwarciach bioder; przejście z Eka Pada Rajakapotasany.',
+    ],
     image: 'img/Ardha Matsyendrasana.png'
   },
   {
@@ -999,6 +1399,21 @@ export const asanas = [
     ],
     oddychanie: 'Wdech w pozycji wyjściowej. Wydech podczas opuszczania nóg w bok. W pozycji końcowej oddychaj powoli i długo – każdy wydech pogłębia skręt. Wdech podczas powrotu do środka.',
     swiadomosc: 'Fizyczna – na utrzymywaniu barków na podłodze, na skręcie w dolnym odcinku pleców i na powolnym oddechu. Mentalna – na rozluźnianiu i wyciszaniu umysłu wraz z każdym wydechem.',
+    sekwencjonowanie: {
+      otwarcie: 'prostowniki grzbietu, mięśnie skośne, przywodziciele górnego biodra, klatka piersiowa, mięśnie unoszące barki, zginacze kolan, łydki',
+      asanyOtwierajace: 'Ardha Matsyendrasana, Apanasana, Dandasana, Marichyasana C, rowerki jogiczne',
+      stabilizacja: 'prostowniki barków, mięśnie obniżające barki i retraktory łopatek, mięśnie skośne, zginacze i przywodziciele bioder, prostowniki kolan, łydki',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Dandasana, Navasana, Parivrtta Ardha Chandrasana, Parivrtta Hasta Padangusthasana, Parivrtta Parsvakonasana, Parivrtta Trikonasana, Parivrtta Utkatasana, Ubhaya Padangusthasana, Uttanasana',
+      przygotowujeDo: 'balanse na rękach – neutralne i ze skrętem; vinyasa w Salamba Sirsasanie II',
+      kontrpozycje: 'Apanasana, Ananda Balasana, Supta Baddha Konasana',
+    },
+    notatki: [
+      'Ze zgiętymi kolanami – między pracą core a wygięciami w tył albo między intensywnymi wygięciami.',
+      'Skręt rozgrzewający i chłodzący jednocześnie – można go wprowadzać w rozgrzewce.',
+      'Po serii stojącej i core wyrównuje napięcia; po skłonach i otwarciach bioder wyrównuje oś ciała.',
+      'Klucz: skręt w leżeniu; regeneracja i detoksykacja. Czakra: Manipura.',
+      'Działanie: działa terapeutycznie na kręgosłup lędźwiowy.',
+    ],
     image: 'img/Jathara Parivartanasana.png',
   },
   {
@@ -1037,6 +1452,19 @@ export const asanas = [
       'Rozluźnij ręce, unosząc lewe ramię nad głowę, i powoli wróć do pozycji wyprostowanej. Powtórz ruch po drugiej stronie.'
     ],
     oddychanie: 'Oddychaj normalnie, ustawiając nogi. Wydychaj, pochylając tułów i ustawiając ramiona i dłonie w odpowiedniej pozycji, a następnie wdychaj. Wydychaj, odchylając ciało na bok. Oddychaj normalnie, utrzymując pozycję końcową. Wdychaj, wracając do pozycji wyprostowanej.',
+    sekwencjonowanie: {
+      odpowiednik: 'Parivrtta Janu Sirsasana',
+      otwarcie: 'noga wyprostowana: łydka, zginacze kolana; noga zgięta: prostowniki kolana; prostowniki i przywodziciele bioder, rotatory wewnętrzne nóg; bok tułowia po stronie zgiętej nogi: mięśnie skośne, żebra, mięśnie brzucha, prostowniki grzbietu, prostowniki barków i mięśnie unoszące barki',
+      asanyOtwierajace: 'Baddha Konasana, Janu Sirsasana, Upavista Konasana, Utthita Parsvakonasana, Vrksasana',
+      stabilizacja: 'zginacze bioder; noga wyprostowana: rotatory, prostowniki kolana, zginacze grzbietowe stopy; noga zgięta: rotatory zewnętrzne, zginacze kolana; mięsień poprzeczny brzucha, prostowniki grzbietu, mięśnie skośne, retraktory i protraktory łopatek, przywodziciele górnego barku, odwodziciele dolnego barku',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Agnistambhasana, Ardha Baddha Padmottanasana',
+      przygotowujeDo: 'Upavista Konasana, Baddha Konasana, Kurmasana',
+      kontrpozycje: 'symetryczne skłony do przodu, Supta Baddha Konasana, Apanasana',
+    },
+    notatki: [
+      'Klucz: połączenie skrętu i skłonu bocznego; masaż narządów wewnętrznych. Czakra: Manipura, Anahata.',
+      'Działanie: uspokaja układ nerwowy.',
+    ],
     image: 'img/Parivritti Janu Sirshasana.png'
   },
   {
@@ -1057,6 +1485,18 @@ export const asanas = [
     ],
     oddychanie: 'Wdech – wydłużenie kręgosłupa. Wydech – pogłębienie skrętu. W pozycji końcowej oddychaj spokojnie: wdechem twórz długość, wydechem delikatnie pogłębiaj rotację. Wydech podczas wychodzenia z pozycji.',
     swiadomosc: 'Fizyczna – na stabilności nóg, ustawieniu przedniego kolana i na skręcie wychodzącym z klatki piersiowej, a nie z dolnego odcinka pleców. Mentalna – na równowadze i spokojnym oddechu.',
+    sekwencjonowanie: {
+      otwarcie: 'noga stojąca: łydka, zginacze kolana, prostowniki biodra, rotatory zewnętrzne nogi; noga uniesiona: zginacze grzbietowe stopy, zginacze kolana i biodra; mięśnie skośne, klatka piersiowa, retraktory łopatek i mięśnie unoszące barki',
+      asanyOtwierajace: 'Parivrtta Trikonasana i pozycje do niej przygotowujące, Virabhadrasana III i pozycje do niej przygotowujące',
+      stabilizacja: 'noga stojąca: mięśnie własne stopy, stabilizatory biodra (szczególnie zginacze i przywodziciele); noga uniesiona: prostowniki biodra; prostowniki kolan, prostowniki grzbietu, mięsień poprzeczny brzucha, mięśnie skośne, retraktory i protraktory łopatek, prostowniki łokci, szyja',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Ardha Uttanasana, Ashta Chandrasana, Parivrtta Hasta Padangusthasana, Parivrtta Parsvakonasana, Parivrtta Trikonasana, Parivrtta Utkatasana, Parsvottanasana, Utthita Hasta Padangusthasana I, Virabhadrasana III, Vrksasana',
+      przygotowujeDo: 'chwyt stopy uniesionej nogi uniesioną ręką; przejście do Virabhadrasany III, Adho Mukha Vrksasany, a potem Chaturanga Dandasany. Nie przechodź bezpośrednio do Ardha Chandrasany (półksiężyca na jednej nodze)',
+      kontrpozycje: 'Uttanasana, Adho Mukha Svanasana, Balasana, Gomukhasana',
+    },
+    notatki: [
+      'Klucz: balans i rotacja; aktywizuje centralną linię ciała. Czakra: Ajna.',
+      'Działanie: świadomość przestrzeni i równowagi.',
+    ],
     image: 'img/Parivrtta Ardha Chandrasana.png',
   },
   {
@@ -1077,6 +1517,10 @@ export const asanas = [
     ],
     oddychanie: 'Wdech – wydłużenie kręgosłupa w skłonie. Wydech – skręt tułowia i uniesienie ramienia. W pozycji końcowej oddychaj spokojnie i równomiernie. Wdech podczas powrotu do środka.',
     swiadomosc: 'Fizyczna – na równomiernym obciążeniu stóp, na wydłużeniu kręgosłupa i na otwieraniu klatki piersiowej w skręcie. Mentalna – na spokojnym oddechu i uwalnianiu napięcia.',
+    notatki: [
+      'Klucz: skręt w pozycji szerokiego skłonu. Czakra: Sahasrara, Ajna.',
+      'Działanie: praca z oddechem w pozycji odwróconej, oczyszczenie głowy i kręgosłupa.',
+    ],
     image: 'img/Parivrtta Moordhasana.png',
   },
   {
@@ -1095,6 +1539,20 @@ export const asanas = [
       'Pracuj w dostępnym zakresie skrętu – nie dociskaj dłonią, aby pogłębić rotację.'
     ],
     oddychanie: 'Im bardziej otwarte są struktury miednicy, tym łatwiejsze są tu równowaga i oddech. W przeciwnym razie górna część ciała jest trzymana sztywno w skręcie, przeciw oporowi dolnej części ciała, a przepona, brzuch i klatka piersiowa napotykają znaczny opór dla swoich ruchów.',
+    sekwencjonowanie: {
+      otwarcie: 'przednia noga: łydka, prostowniki kolana, przywodziciele i prostowniki biodra, rotatory wewnętrzne nogi; tylna noga: łydka, zginacze kolana, odwodziciele i zginacze biodra, rotatory wewnętrzne nogi; mięśnie skośne, klatka piersiowa, retraktory łopatek i mięśnie unoszące barki, szyja',
+      asanyOtwierajace: 'Parivrtta Ashta Chandrasana, Parivrtta Utkatasana, Parsvottanasana, Prasarita Padottanasana, Utthita Trikonasana',
+      stabilizacja: 'mięśnie własne stóp; przednia noga: stabilizatory biodra (szczególnie zginacze i przywodziciele), prostowniki kolana; tylna noga: prostowniki biodra i kolana; prostowniki grzbietu, mięsień poprzeczny brzucha, mięśnie skośne, retraktory i protraktory łopatek, prostowniki łokci, szyja',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Ardha Uttanasana, Ashta Chandrasana, Parivrtta Ardha Chandrasana, Parivrtta Hasta Padangusthasana, Parivrtta Parsvakonasana, Parivrtta Utkatasana, Parsvottanasana, Prasarita Padottanasana',
+      przygotowujeDo: 'przejście do Parivrtta Ardha Chandrasany',
+      kontrpozycje: 'Tadasana, Uttanasana, sekwencja vinyasy, Adho Mukha Svanasana, Balasana, Supta Baddha Konasana, Ardha Matsyendrasana, Marichyasana C',
+    },
+    notatki: [
+      'Najpierw zbuduj poprawnie Trikonasanę.',
+      'Klucz: równowaga między siłą a elastycznością. Czakra: Manipura, Anahata.',
+      'Działanie: intensywny skręt stojący; otwiera klatkę piersiową i miednicę.',
+      'Dobre przygotowanie do balansów na rękach.',
+    ],
     image: 'img/Parivrtta Trikonasana.png',
   },
   {
@@ -1116,6 +1574,19 @@ export const asanas = [
     ],
     oddychanie: 'Wdech – wydłużenie kręgosłupa. Wydech – pogłębienie skrętu. W pozycji końcowej każdy wdech tworzy długość, a każdy wydech pozwala osiąść głębiej w skręcie. Wdech podczas powrotu do środka.',
     swiadomosc: 'Fizyczna – na ciężarze w piętach, na równym ustawieniu kolan i na skręcie wychodzącym z odcinka piersiowego. Mentalna – na spokojnym oddechu mimo wysiłku nóg.',
+    sekwencjonowanie: {
+      otwarcie: 'prostowniki i odwodziciele bioder, rotatory zewnętrzne nóg; mięśnie skośne, klatka piersiowa; mięśnie unoszące barki, tył szyi',
+      asanyOtwierajace: 'Adho Mukha Svanasana, Anjaneyasana, Ardha Uttanasana; sama w sobie jest skrętem przygotowawczym; można ją modyfikować z użyciem krzesła',
+      stabilizacja: 'mięśnie własne stóp, synergiści kolan, przywodziciele, zginacze i prostowniki bioder, prostowniki grzbietu, mięsień poprzeczny brzucha, protraktory i retraktory łopatek, mięśnie obniżające barki, prostownik barku dolnej ręki',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Anjaneyasana, Ashta Chandrasana, Garudasana, Parivrtta Hasta Padangusthasana, Tadasana, Utkatasana, Uttanasana',
+      przygotowujeDo: 'inne pozycje skrętne; Astavakrasana, Eka Pada Koundinyasana A, Parivrtta Ardha Chandrasana, Parivrtta Hasta Padangusthasana, Parivrtta Janu Sirsasana, Parivrtta Parsvakonasana, Parivrtta Trikonasana, Parsva Bakasana',
+      kontrpozycje: 'Adho Mukha Svanasana, Balasana, Uttanasana, sekwencja vinyasy',
+    },
+    notatki: [
+      'Najpierw wprowadź pozycję bez skrętu i upewnij się, że jest dobrze zbudowana – dopiero potem skręt.',
+      'Regres: ręce na talii. Regres skrętu: jedna ręka za kolano, druga na talii – uczeń sam decyduje, jak się w tym czuje. Później ręce w namaste.',
+      'Czakra: Manipura, Anahata. Działanie: buduje siłę nóg i stabilizację osi kręgosłupa.',
+    ],
     image: 'img/Parivrtta Utkatasana.png',
   },
 
@@ -1188,6 +1659,9 @@ export const asanas = [
       'Plecy i głowa powinny być proste, ale nie napięte. Unikaj nadmiernego wyginania kręgosłupa do tyłu.',
       'Zamknij oczy, rozluźnij ramiona i całe ciało. Oddychaj normalnie i skoncentruj uwagę na przepływie powietrza przechodzącego przez nozdrza.'
     ],
+    notatki: [
+      'Przygotowanie ramion do wygięć: obejmij się rękami, potem ręce za siebie – koci grzbiet na siedząco.',
+    ],
     image: 'img/Vajrasana.png'
   },
   {
@@ -1206,6 +1680,12 @@ export const asanas = [
     ],
     oddychanie: 'Powolne, głębokie oddychanie, czując, że energia zsynchronizowana z oddechem wpływa i wypływa z bhrumadhya, ośrodka brwi.',
     swiadomosc: 'Fizyczna – na utrzymywaniu głowy i kręgosłupa prosto, na poczuciu równowagi i na oddechu. Duchowa – na czakrze ajna (trzecie oko).',
+    notatki: [
+      'Łagodne otwarcie bioder – uwaga na kolana.',
+      'Świetnie przygotowuje do skłonów, szczególnie z rękami jak w Garudasanie.',
+      'Klucz: wewnętrzna siła i spokój. Czakra: Manipura, Muladhara.',
+      'Działanie: rozciąga uda i stawy skokowe, ugruntowuje i wspiera medytację.',
+    ],
     image: 'img/Veerasana.png'
   },
 
@@ -1252,6 +1732,19 @@ export const asanas = [
     ],
     oddychanie: 'Wykonuj ruch, oddychając tak wolno, jak to wygodne. Staraj się, aby wdech i wydech trwały co najmniej 5 sekund.',
     swiadomosc: 'Fizyczna – na zgięciu kręgosłupa od góry do dołu i na oddechu zsynchronizowanym z ruchem. Duchowa – na czakrze swadhisthana (sakralna).',
+    sekwencjonowanie: {
+      odpowiednik: 'Bidalasana (kot–krowa)',
+      otwarcie: 'zginacze nadgarstków; kot (zaokrąglenie): prostowniki grzbietu, prostowniki barków i retraktory łopatek; krowa (wygięcie): mięśnie unoszące barki, klatka piersiowa, mięśnie brzucha, prostowniki bioder',
+      asanyOtwierajace: 'sama w sobie otwiera ciało przed każdą praktyką asan',
+      stabilizacja: 'synergiści nadgarstków i bioder, mięśnie brzucha, prostowniki grzbietu, klatka piersiowa, stabilizatory barków (szczególnie protraktory łopatek), prostowniki łokci',
+      asanyStabilizujace: 'rozgrzewająca pozycja stabilizująca, którą można wykonać przed każdą sekwencją asan',
+      przygotowujeDo: 'Anahatasana, Phalakasana, Adho Mukha Svanasana',
+      kontrpozycje: 'Balasana, Savasana',
+    },
+    notatki: [
+      'Wejście do Adho Mukha Svanasany – dłonie przesuń o długość dłoni do przodu.',
+      'Wariant aktywacji tułowia: przeciwległa ręka i noga wyprostowane, dotykanie łokciem kolana.',
+    ],
     image: 'img/Marjariasana.png'
   },
   {
@@ -1306,6 +1799,18 @@ export const asanas = [
       'Lekko zegnij ramiona, aby były całkowicie rozluźnione, i pozwól łokciom spoczywać na podłodze.',
       'Wstrzymaj oddech do 5 sekund w pozycji końcowej. Następnie jednocześnie wdychaj i powoli unieś ramiona i tułów do pozycji pionowej.',
       'Wydychaj, opuszczając ręce do kolan – to jest jedna runda. Ćwicz od 3 do 5 rund.'
+    ],
+    sekwencjonowanie: {
+      odpowiednik: 'Balasana (pozycja dziecka)',
+      otwarcie: 'zginacze grzbietowe stóp, zginacze kolan, prostowniki bioder, prostowniki grzbietu',
+      asanyOtwierajace: 'Apanasana; sama w sobie jest pozycją otwierającą i regenerującą',
+      stabilizacja: 'w niewielkim stopniu – podłoga',
+      asanyStabilizujace: 'pozycja przygotowawcza lub regenerująca, którą można wykonać przed lub po każdej asanie i praktyce',
+      przygotowujeDo: 'Utthita Balasana (dziecko z wyciągniętymi ramionami), Anahatasana, Virasana, Sasangasana',
+      kontrpozycje: 'głęboko regenerująca pozycja; Savasana',
+    },
+    notatki: [
+      'Po Sirshasanie, przed Sarvangasaną.',
     ],
     image: 'img/Shashankasana.png'
   },
@@ -1370,6 +1875,15 @@ export const asanas = [
     ],
     oddychanie: 'Zatrzymaj oddech w pozycji końcowej, jeśli utrzymujesz pozycję przez krótki okres. Oddychaj normalnie, jeśli utrzymujesz pozycję przez dłuższy okres.',
     swiadomosc: 'Fizyczna – na utrzymaniu równowagi. Duchowa – na czubku nosa.',
+    sekwencjonowanie: {
+      odpowiednik: 'Bakasana',
+      otwarcie: 'zginacze nadgarstków, mięśnie unoszące barki, retraktory łopatek, prostowniki grzbietu, prostowniki bioder, zginacze grzbietowe stóp',
+      asanyOtwierajace: 'Balasana, Bidalasana, Garudasana, Malasana, Marichyasana A, Prasarita Padottanasana A, Uttana Prasithasana, Uttanasana',
+      stabilizacja: 'synergiści nadgarstków i łokci, stabilizatory barków (szczególnie zginacze i protraktory łopatek), rotatory zewnętrzne ramion, klatka piersiowa, mięśnie brzucha, przywodziciele i zginacze bioder, dno miednicy, zginacze kolan',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Bidalasana, Chaturanga Dandasana, Garudasana, Malasana, Marichyasana A, Navasana, Phalakasana',
+      przygotowujeDo: 'Tittibhasana, Parsva Bakasana, Eka Pada Koundinyasana, seria Sirsasana II; wejście do pozycji przeskokiem z Adho Mukha Svanasany',
+      kontrpozycje: 'sekwencja vinyasy, Urdhva Mukha Svanasana, Adho Mukha Svanasana, ćwiczenia rozluźniające nadgarstki, Balasana',
+    },
     image: 'img/Kakasana.png'
   },
   {
@@ -1387,6 +1901,21 @@ export const asanas = [
       'Wdech – pochyl się delikatnie do przodu, tak aby ciało spoczywało na zgiętych ramionach.',
       'Wdech – spróbuj wyprostować ręce i delikatnie unieś stopy.',
       'Pozostań w pozycji od 30 do 60 sekund.'
+    ],
+    sekwencjonowanie: {
+      odpowiednik: 'Bakasana',
+      otwarcie: 'zginacze nadgarstków, mięśnie unoszące barki, retraktory łopatek, prostowniki grzbietu, prostowniki bioder, zginacze grzbietowe stóp',
+      asanyOtwierajace: 'Balasana, Bidalasana, Garudasana, Malasana, Marichyasana A, Prasarita Padottanasana A, Uttana Prasithasana, Uttanasana',
+      stabilizacja: 'synergiści nadgarstków i łokci, stabilizatory barków (szczególnie zginacze i protraktory łopatek), rotatory zewnętrzne ramion, klatka piersiowa, mięśnie brzucha, przywodziciele i zginacze bioder, dno miednicy, zginacze kolan',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Bidalasana, Chaturanga Dandasana, Garudasana, Malasana, Marichyasana A, Navasana, Phalakasana',
+      przygotowujeDo: 'Tittibhasana, Parsva Bakasana, Eka Pada Koundinyasana, seria Sirsasana II; wejście do pozycji przeskokiem z Adho Mukha Svanasany',
+      kontrpozycje: 'sekwencja vinyasy, Urdhva Mukha Svanasana, Adho Mukha Svanasana, ćwiczenia rozluźniające nadgarstki, Balasana',
+    },
+    notatki: [
+      'Można zejść do niej z Salamba Sirshasany.',
+      'Przygotowanie: Utkatasana, Kobra, pozycje stojące (Parivrtta Trikonasana), Malasana.',
+      'Klucz: równowaga na dłoniach, aktywne centrum i skupienie wzroku. Czakra: Manipura.',
+      'Działanie: wzmacnia nadgarstki, ramiona i core; rozwija odwagę, skupienie i stabilność mentalną.',
     ],
     image: 'img/Bakasana.png'
   },
@@ -1426,6 +1955,19 @@ export const asanas = [
       'Puść ręce, a następnie stopę. Całkowicie zrelaksuj się w pozycji początkowej i zmień stronę.'
     ],
     oddychanie: 'Oddychaj normalnie przez cały czas trwania praktyki.',
+    sekwencjonowanie: {
+      odpowiednik: 'Vrksasana (pozycja drzewa)',
+      otwarcie: 'noga stojąca: zginacze biodra; noga zgięta: przywodziciele biodra, rotatory wewnętrzne nogi; prostowniki kolan, mięśnie unoszące barki, prostowniki barków, retraktory łopatek, zginacze łokci',
+      asanyOtwierajace: 'Baddha Konasana, Supta Padangusthasana, Tadasana, Utthita Trikonasana, Virabhadrasana II',
+      stabilizacja: 'noga stojąca: mięśnie własne stopy, stabilizatory biodra (szczególnie przywodziciele i rotatory wewnętrzne nogi); noga zgięta: zginacze i rotatory zewnętrzne biodra, zginacze kolana, łydka; prostowniki grzbietu, mięsień poprzeczny brzucha, retraktory i protraktory łopatek, rotatory zewnętrzne ramion, prostowniki łokci',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Adho Mukha Vrksasana, Anjaneyasana, Ardha Uttanasana, Ashta Chandrasana, Baddha Konasana, Bidalasana, Garudasana, Malasana, Phalakasana, Prasarita Padottanasana B i D, Salamba Sirsasana I i II, Tadasana, Urdhva Hastasana, Virabhadrasana II',
+      przygotowujeDo: 'przejście do Utthita Hasta Padangusthasany; praktyka z zamkniętymi oczami; Vasisthasana z górną nogą ułożoną jak w Vrksasanie',
+      kontrpozycje: 'Tadasana, Ardha Uttanasana, Uttanasana, Garudasana, Balasana',
+    },
+    notatki: [
+      'Balans z rotacją zewnętrzną – aktywnie otwieraj biodra na zewnątrz, pozycja ma być aktywna.',
+      'Dobra rozgrzewka przed otwieraniem bioder (aktywuje mięśnie ud).',
+    ],
     image: 'img/Eka Pada Pranamasana.png'
   },
   {
@@ -1447,6 +1989,18 @@ export const asanas = [
     ],
     oddychanie: 'Wdychaj podczas unoszenia ramion. Wydychaj podczas zginania, aby przyjąć pozycję końcową. Oddychaj normalnie w pozycji końcowej. Wdychaj podczas powrotu do pozycji wyprostowanej. Wydychaj podczas opuszczania ramion.',
     swiadomosc: 'Fizyczna – na utrzymaniu ustawienia kończyn i kręgosłupa oraz na utrzymaniu równowagi. Duchowa – na czakrze swadhisthana (sakralna) lub manipura (splot słoneczny).',
+    sekwencjonowanie: {
+      odpowiednik: 'Virabhadrasana III (Wojownik III)',
+      otwarcie: 'noga stojąca: łydka, zginacze kolana, prostowniki biodra; noga uniesiona: zginacze grzbietowe stopy, zginacze kolana i biodra; prostowniki barków, mięśnie unoszące barki, retraktory łopatek',
+      asanyOtwierajace: 'Anjaneyasana, Ashta Chandrasana, Supta Padangusthasana, Tadasana, Uttanasana, Virabhadrasana I, Vrksasana',
+      stabilizacja: 'noga stojąca: mięśnie własne stopy, prostowniki kolana; prostowniki grzbietu, mięsień poprzeczny brzucha, stabilizatory bioder (szczególnie prostowniki, przywodziciele i zginacze biodra nogi stojącej), rotatory wewnętrzne nóg, zginacze barków, protraktory łopatek, prostowniki łokci',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Anjaneyasana, Ardha Uttanasana, Ashta Chandrasana, Bhujangasana, Bidalasana, Garudasana, Parsvottanasana, Phalakasana, Urdhva Hastasana, Utkatasana, Utthita Hasta Padangusthasana I i II, Virabhadrasana I, Vrksasana',
+      przygotowujeDo: 'Parivrtta Ardha Chandrasana, Parivrtta Hasta Padangusthasana, Natarajasana, Adho Mukha Vrksasana. Nie przechodź bezpośrednio do Ardha Chandrasany (półksiężyca na jednej nodze)',
+      kontrpozycje: 'Malasana, Garudasana, Supta Baddha Konasana, Balasana',
+    },
+    notatki: [
+      'Balans z biodrami zamkniętymi – dołączaj go do bloku pozycji o biodrach neutralnych/zamkniętych.',
+    ],
     image: 'img/Eka Padasana.png'
   },
   {
@@ -1465,6 +2019,20 @@ export const asanas = [
     ],
     oddychanie: 'Oddychaj normalnie podczas całej praktyki.',
     swiadomosc: 'Fizyczna – na utrzymaniu równowagi podczas opuszczania i podnoszenia ciała. Duchowa – na czakrę mooladhara (podstawy).',
+    sekwencjonowanie: {
+      otwarcie: 'łydka nogi stojącej, prostowniki bioder, rotatory zewnętrzne nóg, retraktory łopatek, prostowniki barków i mięśnie unoszące barki, rotatory wewnętrzne ramion',
+      asanyOtwierajace: 'Gomukhasana, Tadasana, Utkatasana, Vrksasana, Bidalasana',
+      stabilizacja: 'noga podporowa: mięśnie własne stopy; obie nogi: synergiści kolan i bioder; przywodziciele bioder, rotatory wewnętrzne nóg, prostowniki grzbietu, mięsień poprzeczny brzucha, zginacze barków, protraktory łopatek, przywodziciele barków i mięśnie obniżające barki; rotatory wewnętrzne ramion, zginacze łokci',
+      asanyStabilizujace: 'Ashta Chandrasana, Gomukhasana, Tadasana, Utkatasana, Virabhadrasana III, Vrksasana',
+      przygotowujeDo: 'Gomukhasana, Bharadvajrasana, Virasana',
+      kontrpozycje: 'Tadasana, Uttanasana, Adho Mukha Svanasana, Baddha Konasana',
+    },
+    notatki: [
+      'Balans z rotacją wewnętrzną; rozluźnia napięcia i świetnie buduje następne pozycje.',
+      'Regres: przełóż jedną stopę za drugą, kolana zgięte, stopę można lekko oprzeć o podłogę, ręce na talii. Jeśli się udaje – dodaj ręce.',
+      'Napięte odwodziciele bioder utrudniają krzyżowanie nóg; pozycja rozciąga rotatory zewnętrzne.',
+      'Ułożenie rąk z Garudasany w połączeniu z Veerasaną świetnie przygotowuje do skłonów.',
+    ],
     image: 'img/Garudasana.png'
   },
   {
@@ -1490,6 +2058,18 @@ export const asanas = [
     polishName: 'Pozycja tancerza (Shivy)',
     przeciwskazania: 'wysokie ciśnienie krwi, problemy z plecami i barkami, urazy kolan, zawroty głowy',
     korzysci: 'rozciąga przód ciała, zginacze bioder i mięśnie czworogłowe, otwiera klatkę piersiową i barki, wzmacnia nogi i mięśnie pleców, rozwija równowagę, koncentrację i grację ruchu',
+    sekwencjonowanie: {
+      otwarcie: 'noga stojąca: zginacze kolana; noga uniesiona: zginacze biodra, rotatory zewnętrzne, zginacze grzbietowe stopy; mięśnie brzucha, klatka piersiowa, prostowniki barków i mięśnie unoszące barki, gardło (przód szyi)',
+      asanyOtwierajace: 'Adho Mukha Svanasana, Anjaneyasana, Eka Pada Raj Kapotasana II, Gomukhasana, Shishulasana, Supta Virasana, Tadasana, Urdhva Dhanurasana, Utthita Hasta Padangusthasana, Virabhadrasana I i III',
+      stabilizacja: 'noga stojąca: mięśnie własne stopy, prostowniki kolana; dno miednicy, prostowniki grzbietu, mięsień poprzeczny brzucha, stabilizatory bioder (szczególnie zginacze, przywodziciele i prostowniki biodra tylnej nogi), rotatory wewnętrzne nóg, zginacze barków, protraktory łopatek; ręka trzymająca stopę: rotatory wewnętrzne, prostowniki łokcia',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Anjaneyasana, Ardha Uttanasana, Ashta Chandrasana, Bhujangasana, Bhekasana, Dhanurasana, Eka Pada Raj Kapotasana I i II, Laghu Vajrasana, Raj Kapotasana, Salabhasana A, B i C, Urdhva Mukha Svanasana, Virabhadrasana III, Vrksasana',
+      przygotowujeDo: 'opadanie do mostu ze stania (drop-backs), Eka Pada Raj Kapotasana',
+      kontrpozycje: 'Ardha Uttanasana, Apanasana, Supta Parivartanasana, proste skręty, Paschimottanasana, Viparita Karani, Salamba Sarvangasana, Savasana',
+    },
+    notatki: [
+      'Łapiemy się za kostkę od wewnętrznej strony!',
+      'Wygięcie w tył z rotacją biodra do wewnątrz.',
+    ],
     image: 'img/Natarajasana.png'
   },
   {
@@ -1516,6 +2096,20 @@ export const asanas = [
     ],
     oddychanie: 'Oddychaj normalnie przez całą praktykę.',
     swiadomosc: 'Fizyczna – na siłę ramion, nóg i pleców oraz na utrzymanie równowagi. Duchowa – na czakrę manipura (splot słoneczny).',
+    sekwencjonowanie: {
+      odpowiednik: 'Phalakasana (deska)',
+      otwarcie: 'łydki, zginacze bioder, mięśnie unoszące barki i retraktory łopatek, zginacze nadgarstków',
+      asanyOtwierajace: 'Adho Mukha Svanasana, Bidalasana, sekwencja ashtanga pranam',
+      stabilizacja: 'zginacze grzbietowe stóp, prostowniki kolan, przywodziciele i zginacze bioder, rotatory wewnętrzne nóg, mięśnie brzucha, klatka piersiowa, rotatory zewnętrzne ramion, stabilizatory barków (szczególnie mięśnie obniżające barki i protraktory łopatek), prostowniki łokci, zginacze nadgarstków',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Ardha Uttanasana, Bhujangasana, Shishulasana, Tadasana',
+      przygotowujeDo: 'przejście do Chaturanga Dandasany; odepchnięcie do Adho Mukha Svanasany; przejście do Vasisthasany; zejście do deski na przedramionach (Shishula Phalakasana) z pranajamą kapalabhati',
+      kontrpozycje: 'Adho Mukha Svanasana, Balasana, ćwiczenia rozluźniające nadgarstki',
+    },
+    notatki: [
+      'Pozycja przygotowująca do Virabhadrasany I.',
+      'Statyczna aktywacja tułowia: 30–60 s przed dłuższymi wyzwaniami stojącymi.',
+      'Przygotowanie do balansów na rękach: deska na nadgarstkach 2–3 minuty lub na przedramionach.',
+    ],
     image: 'img/Santolanasana.png'
   },
   {
@@ -1553,6 +2147,15 @@ export const asanas = [
       'Rozluźnij ramiona i powtórz po drugiej stronie.'
     ],
     oddychanie: 'Wdech po chwyceniu dużego palca u nogi. Wydech podczas prostowania uniesionej nogi, a następnie wdech. Wydech podczas podciągania nogi wyżej. Oddychaj głęboko w pozycji końcowej. Wydech podczas opuszczania nogi.',
+    sekwencjonowanie: {
+      odpowiednik: 'Utthita Hasta Padangusthasana I i II',
+      otwarcie: 'noga stojąca: zginacze biodra; noga uniesiona: przywodziciele i prostowniki biodra, rotatory wewnętrzne nogi; retraktory łopatek, klatka piersiowa, szyja',
+      asanyOtwierajace: 'Supta Padangusthasana, Tadasana, Utthita Parsvakonasana, Utthita Trikonasana, Vrksasana',
+      stabilizacja: 'noga stojąca: mięśnie własne stopy, stabilizatory biodra (szczególnie przywodziciele i rotatory wewnętrzne nogi); noga uniesiona: zginacze biodra; prostowniki kolan, prostowniki grzbietu, mięsień poprzeczny brzucha, mięśnie skośne; ręka trzymająca stopę: retraktory i protraktory łopatki, prostowniki łokcia',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Anjaneyasana, Ardha Uttanasana, Ashta Chandrasana, Garudasana, Padangusthasana, Parsvottanasana, Paschimottanasana, Prasarita Padottanasana D, Supta Padangusthasana, Tadasana, Ubhaya Padangusthasana, Utkatasana, Virabhadrasana III',
+      przygotowujeDo: 'unoszenie nogi wyżej bez utraty ustawienia; puszczenie stopy i utrzymanie uniesionej nogi przez 5 oddechów; wariant ze skrętem (Parivrtta)',
+      kontrpozycje: 'Tadasana, Garudasana, sekwencja vinyasy, Urdhva Mukha Svanasana, Adho Mukha Svanasana, Balasana',
+    },
     image: 'img/Utthita Hasta Padangusthasana.png'
   },
   {
@@ -1573,6 +2176,14 @@ export const asanas = [
     opcje: 'Łatwiejsza wersja: dolne kolano oparte na podłodze lub stopy ustawione jedna przed drugą.',
     oddychanie: 'Wdech podczas unoszenia ręki. W pozycji końcowej oddychaj normalnie. Wydech podczas powrotu do deski.',
     swiadomosc: 'Fizyczna – na sile ramion, mięśni brzucha i nóg oraz na utrzymaniu równowagi. Duchowa – na czakrze manipura.',
+    sekwencjonowanie: {
+      otwarcie: 'mięśnie unoszące barki i retraktory łopatek, klatka piersiowa',
+      asanyOtwierajace: 'Adho Mukha Svanasana, Ardha Chandrasana (półksiężyc na jednej nodze), Phalakasana, Prasarita Padottanasana B i D, Supta Padangusthasana, Utthita Hasta Padangusthasana, Utthita Trikonasana, Vrksasana',
+      stabilizacja: 'noga podporowa: mięśnie własne stopy; stabilizatory bioder (szczególnie odwodziciele i rotatory zewnętrzne nóg); noga wyprostowana: rotatory zewnętrzne, zginacze biodra; prostowniki kolan, prostowniki grzbietu, mięsień poprzeczny brzucha, mięśnie skośne; ręka podporowa: synergiści nadgarstka; górna ręka: retraktory i protraktory łopatki, zginacze barku; prostowniki łokci',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Ardha Chandrasana, Ardha Uttanasana, Ashta Chandrasana, Chaturanga Dandasana, Parighasana, Phalakasana, Tadasana, Utthita Parsvakonasana, Utthita Trikonasana, Virabhadrasana II',
+      przygotowujeDo: 'przejście do Visvamitrasany lub Eka Pada Koundinyasany A',
+      kontrpozycje: 'sekwencja vinyasy, Urdhva Mukha Svanasana, Adho Mukha Svanasana, Gomukhasana, ćwiczenia rozluźniające nadgarstki, Balasana',
+    },
     image: 'img/Vasisthasana.png'
   },
 
@@ -1582,6 +2193,11 @@ export const asanas = [
     polishName: 'Pozycja na czworakach z wyciągniętą nogą i ramieniem',
     przeciwskazania: 'urazy nadgarstków, barków i kolan, silne bóle dolnego odcinka pleców',
     korzysci: 'wzmacnia mięśnie głębokie tułowia, pleców i pośladków, stabilizuje kręgosłup i miednicę, poprawia równowagę i koordynację, przygotowuje do trudniejszych pozycji balansowych',
+    notatki: [
+      'Dynamiczna aktywacja tułowia: w Marjariasanie wyprostuj przeciwległą rękę i nogę, a potem dotykaj łokciem kolana.',
+      'Dobra jako „przejście” zwiększające przepływ krwi i kontrolę motoryczną.',
+      'Po niej Balasana lub inna uspokajająca pozycja, a potem delikatne skręty.',
+    ],
     image: 'img/Dandayamana Bharmanasana.png'
   },
   {
@@ -1589,6 +2205,21 @@ export const asanas = [
     polishName: 'Pozycja łodzi / okrętu',
     przeciwskazania: 'problemy z dolnym odcinkiem kręgosłupa, przepuklina, ciąża, menstruacja, niskie ciśnienie krwi, choroby serca',
     korzysci: 'wzmacnia mięśnie brzucha, zginacze bioder i mięśnie pleców, stymuluje narządy trawienne, nerki i tarczycę, poprawia równowagę i koncentrację',
+    sekwencjonowanie: {
+      otwarcie: 'prostowniki bioder, zginacze kolan, prostowniki grzbietu, klatka piersiowa, retraktory łopatek i mięśnie unoszące barki',
+      asanyOtwierajace: 'Adho Mukha Svanasana, Ardha Uttanasana, Bidalasana, Chaturanga Dandasana, Dandasana, Supta Padangusthasana, Uttanasana',
+      stabilizacja: 'zginacze i przywodziciele bioder, rotatory wewnętrzne nóg, prostowniki kolan, łydki, prostowniki grzbietu, mięsień poprzeczny brzucha, protraktory i retraktory łopatek, rotatory zewnętrzne ramion',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Ardha Uttanasana, Bidalasana, Dandasana, Supta Padangusthasana, Uttanasana, Utthita Hasta Padangusthasana I, rowerki jogiczne',
+      przygotowujeDo: 'przejście do Ardha Navasany (pół łodzi) z pranajamą kapalabhati i z powrotem; uniesienie do Lolasany między seriami; Tolasana, Ubhaya Padangusthasana, Urdhva Mukha Paschimottanasana',
+      kontrpozycje: 'proste skręty, Setu Bandha Sarvangasana, Apanasana, Balasana, Supta Baddha Konasana, Supta Konasana, Adho Mukha Svanasana',
+    },
+    notatki: [
+      'Statyczna aktywacja tułowia: 20–40 s; krótka seria tuż przed wymagającą pozycją stojącą (np. Wojownikiem I/II) podnosi gotowość rdzenia.',
+      'Krótkie, celowe serie zamiast długich ćwiczeń „fitnessowych”, żeby nie zmęczyć mięśni przed szczytem.',
+      'Neutralna Navasana może być „resetem” w połowie sekwencji asymetrycznej, zanim zaczniesz drugą stronę.',
+      'Neutralizacja: Kandharasana, Supta Baddha Konasana lub Supta Matsyendrasana, Balasana.',
+      'Nie rób po niej od razu głębokich wygięć w tył – najpierw asany rozluźniające brzuch.',
+    ],
     image: 'img/Navasana.png'
   },
   {
@@ -1596,6 +2227,15 @@ export const asanas = [
     polishName: 'Rowerki jogiczne',
     przeciwskazania: 'problemy z dolnym odcinkiem kręgosłupa, przepuklina, ciąża, niedawne operacje jamy brzusznej',
     korzysci: 'wzmacnia mięśnie brzucha, bioder i ud, uelastycznia stawy biodrowe i kolanowe, pobudza perystaltykę jelit, redukuje tkankę tłuszczową w okolicy brzucha',
+    sekwencjonowanie: {
+      odpowiednik: 'Yogic Bicycles / Dvicakravahanasana (rowerki jogiczne)',
+      otwarcie: 'mięśnie unoszące barki, prostowniki bioder',
+      asanyOtwierajace: 'Ardha Matsyendrasana, Jathara Parivartanasana, Marichyasana C, Paripurna Navasana',
+      stabilizacja: 'mięśnie brzucha, mięśnie skośne, protraktory i retraktory łopatek, zginacze i przywodziciele bioder, rotatory wewnętrzne nóg',
+      asanyStabilizujace: 'wszystkie skręty, Adho Mukha Svanasana, Bakasana, Bidalasana, Chaturanga Dandasana, Dandasana, Lolasana, Navasana, Ubhaya Padangusthasana, Urdhva Mukha Paschimottanasana',
+      przygotowujeDo: 'inne ćwiczenia mięśni brzucha (core); przejścia z Paripurna Navasany do Ardha Navasany i z powrotem, Jathara Parivartanasana, Tolasana, Lolasana',
+      kontrpozycje: 'Apanasana, Supta Parivartanasana, Ananda Balasana, Supta Baddha Konasana',
+    },
     image: 'img/Pada Sanchalanasana.png'
   },
   {
@@ -1603,6 +2243,11 @@ export const asanas = [
     polishName: 'Pozycja uniesionych nóg',
     przeciwskazania: 'bóle dolnego odcinka pleców, wypadnięty dysk, przepuklina, wysokie ciśnienie krwi, ciąża',
     korzysci: 'wzmacnia mięśnie brzucha i dolnej części pleców, tonizuje narządy jamy brzusznej, wzmacnia zginacze bioder, poprawia krążenie w nogach',
+    notatki: [
+      'Aktywacja tułowia: pojedyncze unoszenie nóg w leżeniu na plecach.',
+      'Neutralizacja: Kandharasana, Supta Baddha Konasana lub Supta Matsyendrasana, Balasana.',
+      'Nie rób po niej od razu głębokich wygięć w tył.',
+    ],
     image: 'img/Padotthanasana.png'
   },
 
@@ -1612,6 +2257,19 @@ export const asanas = [
     polishName: 'Pozycja ognistego stosu (podwójnego gołębia)',
     przeciwskazania: 'urazy kolan i bioder, dolegliwości stawu krzyżowo-biodrowego',
     korzysci: 'intensywnie otwiera biodra i rozciąga mięśnie pośladkowe, łagodzi napięcie w dolnej części pleców i rwę kulszową, uelastycznia stawy biodrowe, wycisza umysł',
+    sekwencjonowanie: {
+      otwarcie: 'przywodziciele i prostowniki bioder, rotatory wewnętrzne nóg, prostowniki grzbietu, łydki',
+      asanyOtwierajace: 'Ardha Baddha Padmottanasana (przygotowanie), Baddha Konasana, Eka Pada Raj Kapotasana (przygotowanie), Gomukhasana, Upavista Konasana',
+      stabilizacja: 'dno miednicy, mięsień poprzeczny brzucha, zginacze kolan, zginacze grzbietowe stóp',
+      asanyStabilizujace: 'Ardha Chandrasana, Baddha Konasana, Balasana, Bidalasana, Malasana, Paschimottanasana, Prasarita Padottanasana A, B i D',
+      przygotowujeDo: 'Eka Pada Raj Kapotasana II, Natarajasana',
+      kontrpozycje: 'prosty skręt, a po nim długie skłony do przodu',
+    },
+    notatki: [
+      'Po niej kontrpozycja (mocna rotacja zewnętrzna): lekkie wyprosty kręgosłupa, skręty lub delikatne skłony w siadzie.',
+      'Klucz: transformacja i równowaga między stabilnością a elastycznością. Czakra: Swadhisthana, Manipura.',
+      'Działanie: głęboko otwiera biodra i pośladki, rozluźnia dolne plecy, wspomaga trawienie i oczyszcza z napięć emocjonalnych.',
+    ],
     image: 'img/Agnistambhasana.png'
   },
   {
@@ -1619,6 +2277,21 @@ export const asanas = [
     polishName: 'Pozycja związanego kąta (motyla)',
     przeciwskazania: 'urazy kolan i pachwin, dolegliwości stawu krzyżowo-biodrowego',
     korzysci: 'otwiera biodra i pachwiny, stymuluje narządy jamy brzusznej, jajniki i prostatę, poprawia krążenie w miednicy, łagodzi dolegliwości menstruacyjne, przygotowuje do asan medytacyjnych',
+    sekwencjonowanie: {
+      otwarcie: 'przywodziciele i prostowniki bioder, rotatory wewnętrzne nóg; prostowniki kolan, klatka piersiowa, mięśnie unoszące barki',
+      asanyOtwierajace: 'Agnistambhasana, Ananda Balasana, Eka Pada Raj Kapotasana (przygotowanie), Paschimottanasana, Supta Padangusthasana, Upavista Konasana',
+      stabilizacja: 'dno miednicy, prostowniki grzbietu, mięsień poprzeczny brzucha',
+      asanyStabilizujace: 'Ardha Uttanasana, Dandasana, Gomukhasana, Malasana, Prasarita Padottanasana, Upavista Konasana',
+      przygotowujeDo: 'Supta Baddha Konasana, Janu Sirsasana, Parivrtta Janu Sirsasana, Akarna Dhanurasana, Marichyasana A, Padmasana, Swastikasana',
+      kontrpozycje: 'Apanasana, Balasana, Adho Mukha Svanasana, Gomukhasana',
+    },
+    notatki: [
+      'Dobrze ją zrobić przed lotosem i przy skłonach do przodu.',
+      'Jako przygotowanie bioder do wygięć: siedząc, potem leżąc (można podłożyć poduszkę pod kręgosłup).',
+      'Supta Baddha Konasana – uniwersalna pozycja neutralizująca: rozluźnia dolny brzuch i przeponę; może być na początku, w środku i na końcu.',
+      'Klucz: otwarcie i akceptacja. Czakra: Swadhisthana.',
+      'Działanie: rozciąga wewnętrzne uda, poprawia krążenie w miednicy, uwalnia napięcia emocjonalne.',
+    ],
     image: 'img/Baddha Konasana.png'
   },
   {
@@ -1626,6 +2299,21 @@ export const asanas = [
     polishName: 'Pozycja gołębia królewskiego na jednej nodze',
     przeciwskazania: 'urazy kolan, bioder i stawu krzyżowo-biodrowego, problemy z dolnym odcinkiem kręgosłupa',
     korzysci: 'głęboko otwiera zginacze bioder i mięśnie pośladkowe, rozciąga pachwiny i przód uda, łagodzi rwę kulszową i napięcie w dolnej części pleców, otwiera klatkę piersiową, uwalnia nagromadzony stres',
+    sekwencjonowanie: {
+      odpowiednik: 'Eka Pada Raj Kapotasana',
+      otwarcie: 'przednia noga: przywodziciele i prostowniki biodra, rotatory wewnętrzne nogi, prostowniki kolana; tylna noga: zginacze biodra, rotatory zewnętrzne nogi, zginacze kolana; mięśnie brzucha, klatka piersiowa, prostowniki barków, retraktory łopatek i mięśnie unoszące barki, szyja',
+      asanyOtwierajace: 'Adho/Urdhva Mukha Svanasana, Anjaneyasana, Ashta Chandrasana, Baddha Konasana, Bhujangasana, ręce z Garudasany, Gomukhasana, Shishulasana, Uttana Prasithasana, Virabhadrasana I',
+      stabilizacja: 'dno miednicy; przednia noga: zginacze i odwodziciele biodra, zginacze kolana, zginacze grzbietowe stopy; tylna noga: prostowniki i przywodziciele biodra, rotatory wewnętrzne nogi, synergiści kolana; mięsień poprzeczny brzucha, prostowniki grzbietu, protraktory łopatek i zginacze barków, rotatory zewnętrzne ramion',
+      asanyStabilizujace: 'Adho/Urdhva Mukha Svanasana, Anjaneyasana, Ashta Chandrasana, Bhujangasana, Parivrtta Parsvakonasana, Salabhasana B, Virabhadrasana I',
+      przygotowujeDo: 'Eka Pada Raj Kapotasana II, Natarajasana, seria Eka Pada Sirsasana, Hanumanasana, Kapotasana, Raj Kapotasana',
+      kontrpozycje: 'sekwencja vinyasy, proste skręty, Balasana',
+    },
+    notatki: [
+      'Rozluźnia zginacze bioder; wersja z wygięciem kręgosłupa w tył to wygięcie z rotacją biodra do wewnątrz.',
+      'Przygotowanie: leżenie na plecach, łydka jednej nogi na udzie drugiej, stopa flex.',
+      'Po niej kontrpozycja: lekkie wyprosty kręgosłupa (Bhujangasana, Setu Bandhasana), skręty lub delikatne skłony w siadzie.',
+      'Przejście do Ardha Matsyendrasany: z gołębia usiądź prosto i wykonaj skręt.',
+    ],
     image: 'img/Eka Pada Rajakapotasana.png'
   },
   {
@@ -1633,6 +2321,20 @@ export const asanas = [
     polishName: 'Pozycja girlandy (głęboki przysiad)',
     przeciwskazania: 'urazy kolan, kostek i dolnego odcinka pleców, dolegliwości rzepki',
     korzysci: 'otwiera biodra, pachwiny i okolicę krzyżową, rozciąga kostki i ścięgna Achillesa, poprawia trawienie i perystaltykę jelit, tonizuje mięśnie dna miednicy, przygotowuje do porodu',
+    sekwencjonowanie: {
+      otwarcie: 'łydki, prostowniki kolan, prostowniki i przywodziciele bioder, rotatory wewnętrzne nóg, prostowniki grzbietu, klatka piersiowa, mięśnie unoszące barki i retraktory łopatek',
+      asanyOtwierajace: 'Baddha Konasana, Marichyasana A, Upavista Konasana, Virasana',
+      stabilizacja: 'mięśnie własne stóp, zginacze kolan, zginacze i przywodziciele bioder, rotatory zewnętrzne nóg, dno miednicy, mięśnie brzucha, prostowniki grzbietu, retraktory łopatek i prostowniki barków, zginacze łokci, zginacze nadgarstków',
+      asanyStabilizujace: 'Ardha Uttanasana, Baddha Konasana, Balasana, Uttanasana, Virabhadrasana II',
+      przygotowujeDo: 'Akarna Dhanurasana, Bakasana, Bhujapidasana, Tittibhasana',
+      kontrpozycje: 'Balasana, Paschimottanasana, Adho Mukha Svanasana, proste skręty, Uttanasana',
+    },
+    notatki: [
+      'Z Malasany wygodnie przejść do Bakasany.',
+      'Dobrze ją wprowadzić przy skłonach do przodu.',
+      'Klucz: oczyszczenie i zakorzenienie. Czakra: Muladhara.',
+      'Działanie: otwiera biodra i pachwiny, wspiera układ wydalniczy, uziemia energię.',
+    ],
     image: 'img/Malasana.png'
   },
   {
@@ -1640,6 +2342,9 @@ export const asanas = [
     polishName: 'Pozycja żaby',
     przeciwskazania: 'urazy kolan, bioder i pachwin, dolegliwości dolnego odcinka kręgosłupa',
     korzysci: 'intensywnie otwiera biodra i pachwiny, rozciąga przywodziciele, zwiększa ruchomość stawów biodrowych, masuje narządy jamy brzusznej i wspomaga trawienie',
+    notatki: [
+      'Na liście asan otwierających biodra.',
+    ],
     image: 'img/Mandukasana.png'
   },
   {
@@ -1647,6 +2352,20 @@ export const asanas = [
     polishName: 'Leżąca pozycja chwytu dużego palca stopy',
     przeciwskazania: 'rwa kulszowa w ostrej fazie, urazy ścięgien podkolanowych, bóle głowy, wysokie ciśnienie krwi',
     korzysci: 'rozciąga ścięgna podkolanowe, łydki i pachwiny, łagodzi bóle dolnego odcinka pleców i rwę kulszową, uelastycznia stawy biodrowe, poprawia krążenie w nogach',
+    sekwencjonowanie: {
+      otwarcie: 'noga na podłodze: zginacze grzbietowe stopy, zginacze kolana i biodra; noga uniesiona: prostowniki biodra, zginacze kolana; prostowniki grzbietu, mięśnie unoszące barki, szyja',
+      asanyOtwierajace: 'Adho Mukha Svanasana, Apanasana, Baddha Konasana',
+      stabilizacja: 'noga na podłodze: prostowniki i przywodziciele biodra; noga uniesiona: zginacze biodra; rotatory wewnętrzne nóg, prostowniki kolan, zginacze grzbietowe stóp, mięśnie skośne, mięsień poprzeczny brzucha, retraktory łopatek',
+      asanyStabilizujace: 'sama w sobie jest przygotowaniem i pozycją regenerującą, otwierającą prostowniki bioder i łydki; Adho Mukha Svanasana, Dandasana, Tadasana, Uttana Prasithasana',
+      przygotowujeDo: 'Supta Konasana, Upavista Konasana, Kurmasana, Ubhaya Padangusthasana, Urdhva Mukha Paschimottanasana, Utthita Hasta Padangusthasana',
+      kontrpozycje: 'Apanasana, Supta Parivartanasana, Viparita Karani, Savasana',
+    },
+    notatki: [
+      'Jedna z najbezpieczniejszych form skłonów; świetnie przygotowuje do głębszych skłonów. Można z paskiem.',
+      'Kontrpozycja po otwarciu bioder; neutralizacja po serii skłonów.',
+      'Klucz: rozluźnienie przy jednoczesnym skupieniu. Czakra: Muladhara, Swadhisthana.',
+      'Działanie: rozciąga ścięgna i łydki, odciąża kręgosłup, stabilizuje energię.',
+    ],
     image: 'img/Supta Padangusthasana.png'
   },
   {
@@ -1654,6 +2373,21 @@ export const asanas = [
     polishName: 'Leżąca pozycja bohatera',
     przeciwskazania: 'urazy kolan, kostek i dolnego odcinka pleców, pogłębiona lordoza',
     korzysci: 'głęboko rozciąga mięśnie czworogłowe, zginacze bioder i przód tułowia, otwiera klatkę piersiową, poprawia trawienie, usuwa zmęczenie nóg, działa regenerująco',
+    sekwencjonowanie: {
+      odpowiednik: 'Supta Virasana',
+      otwarcie: 'zginacze grzbietowe stóp, zginacze kolan, odwodziciele i zginacze bioder, mięśnie brzucha, klatka piersiowa, prostowniki barków',
+      asanyOtwierajace: 'Anjaneyasana, Setu Bandha Sarvangasana, Ustrasana, Virasana',
+      stabilizacja: 'prostowniki bioder, rotatory wewnętrzne nóg, zginacze kolan, mięsień poprzeczny brzucha, retraktory łopatek i zginacze barków, prostowniki łokci',
+      asanyStabilizujace: 'Anjaneyasana, Ashta Chandrasana, Balasana, Bharadvajrasana A i B, Bhekasana, Bhujangasana, Bidalasana, Dhanurasana, Garudasana, Matsyasana, Parivrtta Parsvakonasana, Parivrtta Utkatasana, Raj Kapotasana, Setu Bandha Sarvangasana, Urdhva Mukha Svanasana, Ustrasana, Virasana',
+      przygotowujeDo: 'Laghu Vajrasana, Kapotasana, Raj Kapotasana; podwinięcie palców stóp do Prapada Paryankasany',
+      kontrpozycje: 'Bidalasana, Adho Mukha Svanasana, Balasana, Ananda Balasana, proste skręty, Supta Baddha Konasana, skłony do przodu w siadzie',
+    },
+    notatki: [
+      'Rozluźnia napięte zginacze bioder – pomaga przy nadmiernym przodopochyleniu miednicy przed wygięciami w tył.',
+      'Seria: Matsyasana > Supta Veerasana (z rękami na potylicy) > Veerasana.',
+      'Klucz: zaufanie i poddanie. Czakra: Manipura, Anahata, Swadhisthana.',
+      'Działanie: otwiera biodra, rozciąga uda i brzuch, wspiera trawienie, uspokaja układ nerwowy.',
+    ],
     image: 'img/Supta Veerasana.png'
   },
 
@@ -1712,6 +2446,20 @@ export const asanas = [
       'Używając mięśni brzucha, opuść nogi do pozycji początkowej, utrzymując kolana wyprostowane.'
     ],
     oddychanie: 'Wdychaj w pozycji leżącej. Zatrzymaj oddech w środku, przyjmując ostatnią pozycję. Oddychaj powoli i głęboko w ostatniej pozycji. Zatrzymaj oddech w środku, wracając do pozycji początkowej.',
+    sekwencjonowanie: {
+      otwarcie: 'zginacze grzbietowe stóp, prostowniki kolan, prostowniki bioder, prostowniki grzbietu',
+      asanyOtwierajace: 'Dandasana, Prasarita Padottanasana C, Salamba Sarvangasana, Setu Bandha Sarvangasana',
+      stabilizacja: 'stabilizatory barków (szczególnie retraktory łopatek, przywodziciele i prostowniki), prostowniki grzbietu, prostowniki i przywodziciele bioder, rotatory wewnętrzne nóg, prostowniki kolan, zginacze grzbietowe stóp',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Ardha Uttanasana, Bidalasana, Dandasana, ułożenie rąk z Prasarita Padottanasany C, Salamba Sarvangasana, Setu Bandha Sarvangasana, Uttanasana',
+      przygotowujeDo: 'Karnapidasana, Salamba Sarvangasana',
+      kontrpozycje: 'Uttana Padasana, proste skręty, Adho Mukha Svanasana, Viparita Karani, Savasana',
+    },
+    notatki: [
+      'Po Sarvangasanie; można wspierać się kocem.',
+      'Unikaj przy nadciśnieniu.',
+      'Klucz: głębokie rozciągnięcie kręgosłupa i tylnej taśmy ciała. Czakra: Vishuddha, Manipura.',
+      'Działanie: uspokaja umysł, regeneruje, tonizuje układ nerwowy i trawienny.',
+    ],
     image: 'img/Halasana.png'
   },
   {
@@ -1744,6 +2492,13 @@ export const asanas = [
     ],
     oddychanie: 'Wdychaj w pozycji stojącej. Wydychaj podczas pochylania się do przodu. Oddychaj normalnie, utrzymując pozycję. Wdychaj podczas powrotu do pozycji stojącej.',
     swiadomosc: 'Fizyczna – na odczuciach na czubku głowy, w szyi i kręgosłupie, na równowadze i na oddechu. Duchowa – na czakrze sahasrara (korony).',
+    notatki: [
+      'W pracy z barkami: jeśli pracujemy głównie nad rękami, skłon może być płytki.',
+      'Rotacja ramion – przygotowuje do wygięć w tył.',
+      'Neutralizuje pozycje asymetryczne (Prasarita Padottanasana w ashtandze).',
+      'Klucz: pokora i całkowite poddanie, uspokojenie poprzez kontakt głowy z ziemią. Czakra: Ajna, Sahasrara.',
+      'Działanie: poprawia ukrwienie mózgu, pogłębia oddech, wycisza umysł, harmonizuje pranę i apanę.',
+    ],
     image: 'img/Moordhasana.png'
   },
   {
@@ -1770,6 +2525,15 @@ export const asanas = [
     przeciwskazania: 'rwa kulszowa, osłabienie lub kontuzje kolan, powiększona tarczyca, wątroba lub śledziona, zapalenie stawów kręgosłupa szyjnego, wypadnięty dysk, wysokie ciśnienie krwi, choroby serca, słabe naczynia krwionośne w oczach, zakrzepica, zanieczyszczona krew, menstruacja, ciąża',
     korzysci: 'podobnie jak sarvangasana (z wyjątkiem hemoroidów i żylaków), dodatkowo rozciąga i masuje okolicę miednicy i narządy wewnętrzne, wzmacnia i koordynuje mięśnie nóg, poprawia poczucie równowagi',
     uwagi: 'W wersji początkowej: pozycja stania na barkach z jedną nogą z boku. Ushtrasana lub supta vajrasana powinny być praktykowane jako przeciwieństwo. Nie należy podejmować próby wykonywania tej asany, dopóki nie opanuje się padmasany i sarvangasany. Asana przeznaczona wyłącznie dla silnego i zdrowego ciała.',
+    sekwencjonowanie: {
+      odpowiednik: 'Urdhva Padmasana (lotos w świecy)',
+      otwarcie: 'szyja, przywodziciele i prostowniki bioder, rotatory wewnętrzne nóg, prostowniki kolan',
+      asanyOtwierajace: 'Baddha Konasana, Padmasana i pozycje do niej przygotowujące, Salamba Sarvangasana',
+      stabilizacja: 'stabilizatory barków (szczególnie retraktory łopatek i przywodziciele), szyja, prostowniki łokci, prostowniki grzbietu, prostowniki bioder, mięśnie brzucha',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Ardha Baddha Padmottanasana, Ardha Uttanasana, Baddha Konasana, Halasana, Karnapidasana, Malasana, Padmasana, Paschimottanasana, Phalakasana, Salamba Sarvangasana, Upavista Konasana, Uttanasana',
+      przygotowujeDo: 'w Salamba Sarvangasanie: przejście do Pindasany albo uniesienie kolan, by wydłużyć lotos, i skręt w jedną, potem w drugą stronę (jedna dłoń na kości krzyżowej); przejście do Mayurasany',
+      kontrpozycje: 'Matsyasana, Uttana Padasana, Supta Parivartanasana, Savasana',
+    },
     image: 'img/Padma Sarvangasana.png'
   },
   {
@@ -1788,6 +2552,10 @@ export const asanas = [
       'Powoli opuść nogi na podłogę, trzymając je prosto – to jest jedna runda.'
     ],
     oddychanie: 'Wdychaj w pozycji wyjściowej. Zatrzymaj oddech w środku podczas podnoszenia, rozdzielania, łączenia i opuszczania nóg. Wydychaj po powrocie do pozycji wyjściowej.',
+    notatki: [
+      'Klucz: wzmocnienie przedniej taśmy ciała, aktywizacja brzucha i nóg. Czakra: Manipura.',
+      'Działanie: buduje siłę w centrum, przygotowuje do pełnych odwróceń, aktywizuje energię witalną.',
+    ],
     image: 'img/Poorwa Halasana.png'
   },
   {
@@ -1808,6 +2576,20 @@ export const asanas = [
       'Pozostań w pozycji klęczącej z głową na podłodze przez krótki czas, a następnie powoli wróć do pozycji wyprostowanej.'
     ],
     oddychanie: 'Zatrzymaj oddech wewnątrz, przyjmując pozycję końcową. Oddychaj normalnie w pozycji końcowej. Zatrzymaj oddech wewnątrz, opuszczając ciało.',
+    sekwencjonowanie: {
+      odpowiednik: 'Salamba Sirsasana I',
+      otwarcie: 'prostowniki barków i mięśnie ściągające łopatki (retraktory)',
+      asanyOtwierajace: 'Adho Mukha Svanasana, Pincha Mayurasana, Phalakasana, Salamba Sirsasana II, Shishulasana, Uttanasana; praca nad mięśniami centrum (core)',
+      stabilizacja: 'synergiści łokci, stabilizatory barków (szczególnie zginacze, protraktory i retraktory łopatek), szyja, mięśnie skośne i proste brzucha, prostowniki grzbietu, zginacze, przywodziciele i prostowniki bioder, rotatory wewnętrzne nóg, prostowniki kolan',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Adho Mukha Vrksasana, Ardha Uttanasana, Ashta Chandrasana, Chaturanga Dandasana, Navasana, Phalakasana, Shishulasana, Urdhva Dhanurasana, Urdhva Hastasana, Uttanasana',
+      przygotowujeDo: 'skręt w każdą stronę; złożenie nóg do padmasany, Parsvaikapada Sirsasana, Urdhva Dandasana',
+      kontrpozycje: 'Balasana, Adho Mukha Svanasana (rozluźnij szyję, pozwól głowie swobodnie zwisać), ćwiczenia rozluźniające szyję, Salamba Sarvangasana',
+    },
+    notatki: [
+      'Z niej można zejść do Bakasany.',
+      'Klucz: stabilność w ramionach i równowaga między siłą a spokojem. Czakra: Sahasrara, Ajna.',
+      'Działanie: pobudza energię witalną, uspokaja umysł, wzmacnia obręcz barkową.',
+    ],
     image: 'img/Salamba Sirshasana.png'
   },
   {
@@ -1833,6 +2615,21 @@ export const asanas = [
       'Powoli opuszczaj nogi na podłogę, utrzymując kolana wyprostowane, bez używania ramion do podparcia. Zrelaksuj się w shavasanie, aż oddech i bicie serca powrócą do normy.'
     ],
     oddychanie: 'Wdychaj w pozycji początkowej. Zatrzymaj oddech w środku, przyjmując ostatnią pozycję. Ćwicz powolne, głębokie oddychanie brzuszne w ostatniej pozycji. Zatrzymaj oddech w środku, opuszczając ciało na podłogę.',
+    sekwencjonowanie: {
+      odpowiednik: 'Salamba Sarvangasana',
+      otwarcie: 'szyja, klatka piersiowa, zginacze barków, prostowniki grzbietu, zginacze bioder',
+      asanyOtwierajace: 'Anjaneyasana, Halasana, Prasarita Padottanasana C, Setu Bandha Sarvangasana, Viparita Karani, Virasana',
+      stabilizacja: 'stabilizatory barków (szczególnie retraktory łopatek, przywodziciele i prostowniki), zginacze łokci, zginacze nadgarstków, prostowniki grzbietu, prostowniki i przywodziciele bioder, rotatory wewnętrzne nóg, prostowniki kolan, zginacze grzbietowe stóp',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Ardha Uttanasana, Bidalasana, ułożenie rąk z Prasarita Padottanasany C, Phalakasana, Pursvottanasana, Setu Bandha Sarvangasana, Tadasana, Uttanasana',
+      przygotowujeDo: 'Urdhva Padmasana; przejście – po jednej nodze – do Setu Bandha Sarvangasany; Chakorasana',
+      kontrpozycje: 'Balasana, Halasana, ćwiczenia rozluźniające szyję, Savasana, Matsyasana (przygotowanie), Uttana Padasana',
+    },
+    notatki: [
+      'Kolejność: Sirshasana > Balasana / Shashankasana > Sarvangasana > Halasana. Można wspierać się kocem.',
+      'Unikaj przy nadciśnieniu.',
+      'Klucz: stabilne podparcie na barkach, aktywne nogi i centrum ciała. Czakra: Vishuddha.',
+      'Działanie: stymuluje tarczycę, poprawia krążenie, harmonizuje gospodarkę hormonalną.',
+    ],
     image: 'img/Sarvangasana.png'
   },
   {
@@ -1855,6 +2652,21 @@ export const asanas = [
     ],
     oddychanie: 'Podczas pierwszej nauki sirshasany można ćwiczyć normalne oddychanie podczas wchodzenia w pozycję. W przeciwnym wypadku wdychaj pod koniec etapu 1 i zatrzymaj oddech w środku, podnosząc ciało do pozycji końcowej. Oddychaj normalnie w pozycji końcowej – oddech powinien stawać się coraz subtelniejszy, gdy przyzwyczaisz się do pozycji.',
     swiadomosc: 'Fizyczna – podczas pierwszej praktyki na utrzymaniu równowagi; dla adeptów na mózgu, środku głowy lub na oddychaniu. Duchowa – na czakrze sahasrara.',
+    sekwencjonowanie: {
+      odpowiednik: 'Salamba Sirsasana I',
+      otwarcie: 'prostowniki barków i mięśnie ściągające łopatki (retraktory)',
+      asanyOtwierajace: 'Adho Mukha Svanasana, Pincha Mayurasana, Phalakasana, Salamba Sirsasana II, Shishulasana, Uttanasana; praca nad mięśniami centrum (core)',
+      stabilizacja: 'synergiści łokci, stabilizatory barków (szczególnie zginacze, protraktory i retraktory łopatek), szyja, mięśnie skośne i proste brzucha, prostowniki grzbietu, zginacze, przywodziciele i prostowniki bioder, rotatory wewnętrzne nóg, prostowniki kolan',
+      asanyStabilizujace: 'Adho Mukha Svanasana, Adho Mukha Vrksasana, Ardha Uttanasana, Ashta Chandrasana, Chaturanga Dandasana, Navasana, Phalakasana, Shishulasana, Urdhva Dhanurasana, Urdhva Hastasana, Uttanasana',
+      przygotowujeDo: 'skręt w każdą stronę; złożenie nóg do padmasany, Parsvaikapada Sirsasana, Urdhva Dandasana',
+      kontrpozycje: 'Balasana, Adho Mukha Svanasana (rozluźnij szyję, pozwól głowie swobodnie zwisać), ćwiczenia rozluźniające szyję, Salamba Sarvangasana',
+    },
+    notatki: [
+      'Kolejność: Sirshasana > Balasana / Shashankasana > Sarvangasana > Halasana; Pincha Mayurasana idzie po Sirshasanie.',
+      'Nie wykonuj bez przygotowania lub nadzoru nauczyciela. Unikaj przy nadciśnieniu.',
+      'Klucz: pełna odwrócona równowaga, kontrola oddechu i koncentracja. Czakra: Sahasrara, Ajna.',
+      'Działanie: zwiększa dopływ krwi do mózgu, daje klarowność myśli, wzmacnia barki i core.',
+    ],
     image: 'img/Sirshasana.png'
   }
 ];

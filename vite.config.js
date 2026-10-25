@@ -12,6 +12,10 @@ export default defineConfig(({ command }) => ({
   },
   build: {
     rollupOptions: {
+      input: {
+        main: 'index.html',
+        sequencing: 'sequencing.html'
+      },
       output: {
         manualChunks: undefined
       }
