@@ -5,6 +5,7 @@ import {
   neutralizacja,
   poziomy,
   progresje,
+  strukturaLuku,
   tadasana,
   uniwersalne,
   wektory
@@ -198,6 +199,19 @@ export class Sequencing extends LitElement {
     .level { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 16px 18px; display: grid; gap: 8px; }
     .level ul { margin: 0; padding-left: 18px; display: grid; gap: 4px; font-size: 0.9rem; }
 
+    /* arc structure */
+    .principles { list-style: none; padding: 0; margin: 0 0 18px; display: flex; flex-wrap: wrap; align-items: center; gap: 6px 4px; font-size: 0.92rem; }
+    .principles li { display: contents; }
+    .principles span { padding: 4px 12px; border-radius: 6px; background: var(--surface); border: 1px solid var(--line); }
+    .principles .arr { padding: 0 2px; border: 0; background: none; color: var(--muted); }
+    .motto { font-family: var(--f-display); font-size: 1.35rem; line-height: 1.3; max-width: 60ch; padding-left: 16px; border-left: 3px solid var(--accent); margin-bottom: 32px; }
+    .stages { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; counter-reset: s; }
+    .stages li { display: grid; grid-template-columns: 26px minmax(0, 1fr); gap: 2px 8px; font-size: 0.92rem; }
+    .stages li::before { counter-increment: s; content: counter(s); grid-row: span 2; font-family: var(--f-display); font-size: 1.5rem; line-height: 1; color: var(--accent); }
+    .stages b { font-weight: 600; }
+    .stages span { grid-column: 2; color: var(--muted); font-size: 0.86rem; }
+    .note { margin-top: 18px; font-size: 0.9rem; color: var(--muted); font-style: italic; }
+
     footer { color: var(--muted); font-size: 0.82rem; border-top: 1px solid var(--line); padding-top: 16px; }
     @media (prefers-reduced-motion: no-preference) { .rule { transition: opacity .15s; } }
   `;
@@ -328,6 +342,34 @@ export class Sequencing extends LitElement {
             <p>Przygotuj ciało, rozwijaj, integruj, zrównoważ. Kolor fazy to czakra, na którą faza głównie działa.</p>
           </div>
           ${this.renderArc()}
+        </section>
+
+        <section>
+          <div class="sec-head">
+            <div class="eyebrow">Struktura łuku</div>
+            <h2>Instrukcje dla rodzin asan</h2>
+          </div>
+          <ol class="principles">
+            ${strukturaLuku.zasady.map((z, i) => html`<li>${i ? html`<span class="arr">→</span>` : ''}<span>${z}</span></li>`)}
+          </ol>
+          <p class="motto">${strukturaLuku.motto}</p>
+          <div class="two">
+            <div>
+              <h3>5 etapów struktury łuku</h3>
+              <ol class="stages" style="margin-top: 14px">
+                ${strukturaLuku.etapy.map((e) => html`
+                  <li><b>${e.nazwa}</b>${e.opis ? html`<span>${e.opis}</span>` : ''}</li>
+                `)}
+              </ol>
+            </div>
+            <div>
+              <h3>Przykład</h3>
+              <ol class="check" style="margin-top: 14px">
+                ${strukturaLuku.przyklad.map((p) => html`<li>${p}</li>`)}
+              </ol>
+            </div>
+          </div>
+          <p class="note">${strukturaLuku.uwaga}</p>
         </section>
 
         <section>

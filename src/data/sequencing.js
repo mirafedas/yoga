@@ -684,3 +684,41 @@ export const wektory = [
     'stojące, core, biodra → wygięcia → skręty i regeneracja'
   ]
 ];
+
+export const strukturaLuku = {
+  zasady: [
+    'Stopniowo rozgrzewamy ciało, z wyszczególnieniem tych partii, które będziemy eksplorować w szczytowym momencie.',
+    'Asany przygotowawcze: zmobilizowanie i ustabilizowanie mięśni i stawów, które później będą używane w pozycji szczytowej.',
+    'Szczyt.',
+    'Integracja.'
+  ],
+  motto: 'Praktykujemy głównie dla przyjemności i dla dobroci, a pogłębione wykonanie asan jest przyjemną i naturalną konsekwencją.',
+  etapy: [
+    {
+      nazwa: 'Inicjowanie procesu jogicznego',
+      opis: 'Przywitanie się z uczniami, zachęcenie ich do scentrowania się, znalezienia swojego centrum. Krótkie wyciszenie, krótka medytacja, proste ćwiczenia oddechowe lub chwila ciszy.'
+    },
+    { nazwa: 'Rozgrzewka', opis: '' },
+    { nazwa: 'Droga na szczyt', opis: '' },
+    { nazwa: 'Eksploracja szczytu', opis: '' },
+    {
+      nazwa: 'Integracja',
+      opis: 'Łagodniejsze asany, rozciąganie, delikatne skręty, moment wyciszenia, pranayama, prowadzona medytacja.'
+    }
+  ],
+  przyklad: [
+    'Medytacja siedząca: centrowanie się przez skupienie świadomości na oddechu, na byciu w ciele, na byciu tu i teraz.',
+    'Rozgrzewka.',
+    'Surya Namaskar.',
+    'Asany stojące z rotacją bioder na zewnątrz, potem do wewnątrz.',
+    'Aktywacja brzucha (opcjonalna).',
+    'Asany wspierane ramionami: podparcie na rękach, podparcie na przedramionach, balanse na rękach, balanse na przedramionach.',
+    'Wygięcia do tyłu: najpierw te, które wymagają kontrakcji, potem te, które pomagają dźwignąć ciało (np. Dhanurasana, pozycja łuku).',
+    'Skręty.',
+    'Skłony do przodu.',
+    'Otwieranie bioder.',
+    'Asany odwrócone.',
+    'Savasana.'
+  ],
+  uwaga: 'W jednej praktyce może być więcej niż jeden moment szczytowy.'
+};
